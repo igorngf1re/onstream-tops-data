@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T11:29:00Z",
+  "generated_at": "2026-07-03T11:11:33Z",
   "week_start": "2026-06-29",
   "country": "BR",
   "health": {
@@ -25,12 +25,60 @@
         "flixpatrol"
       ]
     },
-    "last_full_success": "2026-07-02T11:29:00Z"
+    "last_full_success": "2026-07-03T11:11:33Z"
   },
   "providers": {
     "netflix": [
       {
         "rank": 1,
+        "platform": "netflix",
+        "content_type": "movie",
+        "title": "Enola Holmes 3",
+        "original_title": "Enola Holmes 3",
+        "year": 2026,
+        "tmdb_id": 1202033,
+        "imdb_id": "tt32278481",
+        "poster_path": "/dxqsd2iYZGzZafGxFWbHaDFACMp.jpg",
+        "backdrop_path": "/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
+        "logo_path": "/pVeJDWwmgXID7Bs8u0d21pr55Oj.png",
+        "overview": "Em busca de aventura, a detetive Enola Holmes vai a Malta, mas o desaparecimento de Sherlock atrapalha seus planos e ela se vê envolvida em um caso desafiador.",
+        "vote_average": 7.189,
+        "source": "flixpatrol",
+        "fetched_at": "2026-07-03T11:10:58Z"
+      },
+      {
+        "rank": 2,
+        "platform": "netflix",
+        "content_type": "movie",
+        "title": "ខ្មោចពោះធំក្នុងការដ្ឋាន",
+        "original_title": "ខ្មោចពោះធំក្នុងការដ្ឋាន",
+        "year": 2025,
+        "tmdb_id": 1424808,
+        "imdb_id": "tt35332615",
+        "poster_path": "/wd1X16IhasimhK6HdbcFsW9oiBj.jpg",
+        "backdrop_path": "/4KwL9rG53Dy3C1ZtQBs2Gg2dlTZ.jpg",
+        "source": "flixpatrol",
+        "fetched_at": "2026-07-03T11:10:58Z"
+      },
+      {
+        "rank": 3,
+        "platform": "netflix",
+        "content_type": "movie",
+        "title": "A Chamada",
+        "original_title": "Retribution",
+        "year": 2023,
+        "tmdb_id": 762430,
+        "imdb_id": "tt6906292",
+        "poster_path": "/eqaSh2PjYcGpS6rybz6UjLNuvrg.jpg",
+        "backdrop_path": "/yQvjqIvOwpawVZje41Wno365kR.jpg",
+        "logo_path": "/qz6nN1r0rSh77umTNkdqtRb9GLu.png",
+        "overview": "Com seus filhos presos no banco de trás e uma bomba que explodirá se eles saírem do carro, um trajeto normal se torna um jogo distorcido de vida ou morte enquanto Matt Turner segue as instruções cada vez mais perigosas de um estranho em uma corrida contra o tempo para salvar sua  família.",
+        "vote_average": 6.525,
+        "source": "flixpatrol",
+        "fetched_at": "2026-07-03T11:10:58Z"
+      },
+      {
+        "rank": 4,
         "platform": "netflix",
         "content_type": "movie",
         "title": "Mensagens para Isabelle",
@@ -42,46 +90,12 @@
         "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
         "logo_path": "/w89OjiDpZ4jDrgDOfhVyJduiBhb.png",
         "overview": "As mensagens de voz sinceronas de uma jovem para a irmã falecida acabam sendo enviadas para um estranho, que começa a se apaixonar por ela mesmo de longe.",
-        "vote_average": 8.344,
+        "vote_average": 8.348,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:39Z"
+        "fetched_at": "2026-07-03T11:10:58Z"
       },
       {
-        "rank": 2,
-        "platform": "netflix",
-        "content_type": "movie",
-        "title": "Little Brother",
-        "original_title": "Little Brother",
-        "year": 2026,
-        "tmdb_id": 1397385,
-        "imdb_id": "tt34888871",
-        "poster_path": "/ghPZXHqe3CamVjoTUUuGvE0zrRV.jpg",
-        "backdrop_path": "/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
-        "logo_path": "/as6Via6yUqgsF98HVBDI807uiHL.png",
-        "overview": "A vida de um corretor de imóveis todo regrado vira de cabeça para baixo quando seu \"irmãozinho\" caótico reaparece de repente.",
-        "vote_average": 6.29,
-        "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:39Z"
-      },
-      {
-        "rank": 3,
-        "platform": "netflix",
-        "content_type": "movie",
-        "title": "Sibéria",
-        "original_title": "Siberia",
-        "year": 2018,
-        "tmdb_id": 438689,
-        "imdb_id": "tt6494418",
-        "poster_path": "/rOO56dJIPoBaNXdYVMTMPznr4ag.jpg",
-        "backdrop_path": "/rp6aXM2EWkaUdq6zbSlhUOY2869.jpg",
-        "logo_path": "/sdc43Enp84LRcNOnadAttBOT1z7.png",
-        "overview": "Um comerciante de diamantes viaja da Rússia para a América para vender raras pedras azuis de origem questionável. À medida que seu negócio começa a entrar em colapso, ele passa a se envolver com uma russa, dona de um pequeno café na Sibéria. A paixão cresce e ele não consegue se livrar do negócio de diamantes, deixando brechas para que ambos entrem em colisão num ambiente sem saída.",
-        "vote_average": 4.757,
-        "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:39Z"
-      },
-      {
-        "rank": 4,
+        "rank": 5,
         "platform": "netflix",
         "content_type": "movie",
         "title": "Bailarina: Do Universo de John Wick",
@@ -95,10 +109,75 @@
         "overview": "Bailarina  se passa durante os eventos de ‘John Wick 3: Parabellum‘ e acompanha Eve Macarro, que está começando seu treinamento nas tradições da organização Ruska Roma para se tornar uma assassina que buscará vingança contra aqueles que destruíram sua família.",
         "vote_average": 7.257,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:39Z"
+        "fetched_at": "2026-07-03T11:10:58Z"
       },
       {
-        "rank": 5,
+        "rank": 6,
+        "platform": "netflix",
+        "content_type": "movie",
+        "title": "ខ្មោចពោះធំក្នុងការដ្ឋាន",
+        "original_title": "ខ្មោចពោះធំក្នុងការដ្ឋាន",
+        "year": 2025,
+        "tmdb_id": 1424808,
+        "imdb_id": "tt35332615",
+        "poster_path": "/wd1X16IhasimhK6HdbcFsW9oiBj.jpg",
+        "backdrop_path": "/4KwL9rG53Dy3C1ZtQBs2Gg2dlTZ.jpg",
+        "source": "flixpatrol",
+        "fetched_at": "2026-07-03T11:10:58Z"
+      },
+      {
+        "rank": 7,
+        "platform": "netflix",
+        "content_type": "movie",
+        "title": "Little Brother",
+        "original_title": "Little Brother",
+        "year": 2026,
+        "tmdb_id": 1397385,
+        "imdb_id": "tt34888871",
+        "poster_path": "/ghPZXHqe3CamVjoTUUuGvE0zrRV.jpg",
+        "backdrop_path": "/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
+        "logo_path": "/as6Via6yUqgsF98HVBDI807uiHL.png",
+        "overview": "A vida de um corretor de imóveis todo regrado vira de cabeça para baixo quando seu \"irmãozinho\" caótico reaparece de repente.",
+        "vote_average": 6.301,
+        "source": "flixpatrol",
+        "fetched_at": "2026-07-03T11:10:58Z"
+      },
+      {
+        "rank": 8,
+        "platform": "netflix",
+        "content_type": "movie",
+        "title": "Sibéria",
+        "original_title": "Siberia",
+        "year": 2018,
+        "tmdb_id": 438689,
+        "imdb_id": "tt6494418",
+        "poster_path": "/rOO56dJIPoBaNXdYVMTMPznr4ag.jpg",
+        "backdrop_path": "/rp6aXM2EWkaUdq6zbSlhUOY2869.jpg",
+        "logo_path": "/sdc43Enp84LRcNOnadAttBOT1z7.png",
+        "overview": "Um comerciante de diamantes viaja da Rússia para a América para vender raras pedras azuis de origem questionável. À medida que seu negócio começa a entrar em colapso, ele passa a se envolver com uma russa, dona de um pequeno café na Sibéria. A paixão cresce e ele não consegue se livrar do negócio de diamantes, deixando brechas para que ambos entrem em colisão num ambiente sem saída.",
+        "vote_average": 4.757,
+        "source": "flixpatrol",
+        "fetched_at": "2026-07-03T11:10:58Z"
+      },
+      {
+        "rank": 9,
+        "platform": "netflix",
+        "content_type": "movie",
+        "title": "Rota de Fuga 3: O Resgate",
+        "original_title": "Escape Plan: The Extractors",
+        "year": 2019,
+        "tmdb_id": 480042,
+        "imdb_id": "tt6772804",
+        "poster_path": "/wTqlEF01SGo4QONor55zUPxHZGP.jpg",
+        "backdrop_path": "/yxmfjj4YiFcJipn9nYVBRxeCvo9.jpg",
+        "logo_path": "/odfo8ENoFag4giSVpEBXPZhcTNi.png",
+        "overview": "O especialista em segurança Ray Breslin e sua equipe devem realizar uma missão de resgate mortal para salvar sua namorada e a filha sequestrada de um magnata da tecnologia de Hong Kong de uma formidável prisão letã.",
+        "vote_average": 5.443,
+        "source": "flixpatrol",
+        "fetched_at": "2026-07-03T11:10:58Z"
+      },
+      {
+        "rank": 10,
         "platform": "netflix",
         "content_type": "movie",
         "title": "Como Mágica",
@@ -110,93 +189,9 @@
         "backdrop_path": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
         "logo_path": "/v1ZdIuHLmv3NmDzOEXnNwZsnMNY.png",
         "overview": "Uma pequena criatura da floresta e um pássaro majestoso trocam de corpo e precisam se unir para sobreviver à aventura mais incrível de suas vidas.",
-        "vote_average": 8.956,
+        "vote_average": 8.947,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:39Z"
-      },
-      {
-        "rank": 6,
-        "platform": "netflix",
-        "content_type": "movie",
-        "title": "Malasartes e o Duelo com a Morte",
-        "original_title": "Malasartes e o Duelo com a Morte",
-        "year": 2017,
-        "tmdb_id": 373579,
-        "imdb_id": "tt4733620",
-        "poster_path": "/A7wR2bxwQfiFJJqw8G4YMBtjpSv.jpg",
-        "backdrop_path": "/fGtJ7bxDo45bkU7KU6QN0mje6po.jpg",
-        "overview": "Vivendo no interior do Brasil, o jovem Pedro Malasartes (Jesuíta Barbosa) é um malandro. Com a sua lábia, ele consegue pregar peças em comerciantes e se aproveitar da boa vontade alheia. No entanto, sua incrível esperteza será colocada à prova pela Morte, a ceifadora de almas.",
-        "vote_average": 6.43,
-        "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:39Z"
-      },
-      {
-        "rank": 7,
-        "platform": "netflix",
-        "content_type": "movie",
-        "title": "Meu Malvado Favorito 4",
-        "original_title": "Despicable Me 4",
-        "year": 2024,
-        "tmdb_id": 519182,
-        "imdb_id": "tt7510222",
-        "poster_path": "/s8BefU3RIJrfipTpsDtOiatlp8j.jpg",
-        "backdrop_path": "/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
-        "logo_path": "/iHpYd13Bh9dZ1lzaJRCOhYdF9Tx.png",
-        "overview": "Nesta sequência, o vilão mais amado do planeta retorna e agora Gru, Lucy, Margo, Edith e Agnes dão as boas-vindas a um novo membro da família: Gru Jr., que pretende atormentar seu pai. Enquanto se adapta com o pequeno, Gru enfrenta um novo inimigo, Maxime Le Mal, forçando sua namorada Valentina e a família a fugir do perigo.",
-        "vote_average": 7.0,
-        "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:39Z"
-      },
-      {
-        "rank": 8,
-        "platform": "netflix",
-        "content_type": "movie",
-        "title": "Um Pai em Apuros",
-        "original_title": "Um Pai em Apuros",
-        "year": 2026,
-        "tmdb_id": 1315843,
-        "imdb_id": "tt43475091",
-        "poster_path": "/s99RBLQXE0GaqrlprP1HwV5HOQO.jpg",
-        "backdrop_path": "/pt9wLsvNywyPT3485P30CPRICU.jpg",
-        "logo_path": "/7mp8iVBEnprdmEqHzjKXZqwIpZm.png",
-        "overview": "Roberta está cansada de cuidar da casa e dos filhos sozinha, e decide tirar férias, enquanto deixa o marido cuidando dos filhos. O resultado é que a casa fica de pernas para o ar, já que Fred tenta conciliar as demandas familiares e as responsabilidades no trabalho. Entre risadas e confusões, o filme mostra como a família pode superar desafios quando estão juntos.",
-        "vote_average": 5.0,
-        "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:39Z"
-      },
-      {
-        "rank": 9,
-        "platform": "netflix",
-        "content_type": "movie",
-        "title": "Férias Frustradas",
-        "original_title": "Vacation",
-        "year": 2015,
-        "tmdb_id": 296099,
-        "imdb_id": "tt1524930",
-        "poster_path": "/tnt6zhUzarBNgO49KJDodbeSkhl.jpg",
-        "backdrop_path": "/6y5ALiAai1JbLRb7ZlydNwEPu5a.jpg",
-        "logo_path": "/ye5LXeOzPDkOxJCJBUCHbG3xalh.png",
-        "overview": "Rusty Griswold trabalha como piloto de avião na EconoAir, uma companhia de baixo custo. Ele é casado com Debbie e tem dois filhos, James  e Kevin, que vivem brigando. Disposto a se divertir com a família, Rusty decide seguir os passos de seu pai e comandar uma ida ao parque de diversões Wally World, localizado a dias de viagem. Rusty logo aluga um carro albanês, sem imaginar que a viagem em família será bem mais complicada do que imaginava.",
-        "vote_average": 6.3,
-        "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:39Z"
-      },
-      {
-        "rank": 10,
-        "platform": "netflix",
-        "content_type": "movie",
-        "title": "O Agente",
-        "original_title": "The Contractor",
-        "year": 2007,
-        "tmdb_id": 15071,
-        "imdb_id": "tt0770806",
-        "poster_path": "/nbdgX37XG1FzZB8KT0YrGYLCkGv.jpg",
-        "backdrop_path": "/rRvkxdL8R6L7K5b7mGovn94SApK.jpg",
-        "logo_path": "/gEjma5wdhXraBUDVBNMD17LBpoP.png",
-        "overview": "James Dial é um ex-agente da CIA que trabalhava em operações clandestinas como atirador de elite. Um dia, ele é persuadido por um antigo empregador a voltar ao serviço para matar um terrorista em Londres. Infelizmente, ele é acusado de assassinato e forçado a fugir, se vendo no meio de uma terrível conspiração. Porém, uma ligação com uma menina de 12 anos pode ser a única maneira de limpar seu nome e se vingar dos seus inimigos.",
-        "vote_average": 5.49,
-        "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:39Z"
+        "fetched_at": "2026-07-03T11:10:58Z"
       },
       {
         "rank": 1,
@@ -211,9 +206,9 @@
         "backdrop_path": "/z0R6ToCsMMkLwuQXjzzdd1QCdJv.jpg",
         "logo_path": "/p8PVgiwTdAIjiWMrM01D0W8d0pT.png",
         "overview": "Preso injustamente por assassinar o próprio filho, um homem parte em uma missão desesperada de resgate ao descobrir que o garoto pode estar vivo.",
-        "vote_average": 8.301,
+        "vote_average": 8.257,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:40Z"
+        "fetched_at": "2026-07-03T11:11:00Z"
       },
       {
         "rank": 2,
@@ -228,9 +223,9 @@
         "backdrop_path": "/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
         "logo_path": "/74rfi5LWsVsA7qAGzehsBF3lpn7.png",
         "overview": "Um garoto conhecido como o Avatar precisa dominar os quatro poderes elementares para salvar um mundo em guerra e enfrentar um inimigo implacável.",
-        "vote_average": 7.803,
+        "vote_average": 7.804,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:40Z"
+        "fetched_at": "2026-07-03T11:11:00Z"
       },
       {
         "rank": 3,
@@ -245,9 +240,9 @@
         "backdrop_path": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
         "logo_path": "/igR2T1mEVmo0eYiMIZmIPsoPTMM.png",
         "overview": "Um pai que leva uma vida comum desenterra as habilidades do passado como agente especial para procurar a filha desaparecida. Mas acaba atraindo uma atenção indesejada.",
-        "vote_average": 8.2,
+        "vote_average": 7.607,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:40Z"
+        "fetched_at": "2026-07-03T11:11:00Z"
       },
       {
         "rank": 4,
@@ -262,12 +257,28 @@
         "backdrop_path": "/hGCQ0tsJMpKjfrnCyYY0kMY2kY1.jpg",
         "logo_path": "/zWE4o8Ja0vbhgDfapGfZrabH6R9.png",
         "overview": "Queridinha das redes sociais, Joyce é a verdadeira imagem da esposa perfeita. Até que as traições do marido provocam uma crise cheia de escândalos.",
-        "vote_average": 8.754,
+        "vote_average": 8.762,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:40Z"
+        "fetched_at": "2026-07-03T11:11:00Z"
       },
       {
         "rank": 5,
+        "platform": "netflix",
+        "content_type": "series",
+        "title": "A Pior Vizinhança",
+        "original_title": "Worst Neighbor Ever",
+        "year": 2026,
+        "tmdb_id": 325188,
+        "imdb_id": "tt43476716",
+        "poster_path": "/jedGZ2DMXQTvemg0Vx77WTAiBN4.jpg",
+        "backdrop_path": "/m1EXAPGmzZbr58mY6dzjaZyDOVU.jpg",
+        "overview": "Série documental sobre histórias reais de vizinhos que se revelaram perigosos. De fraudes hediondas até atos de violência motivados por vingança sem sentido.",
+        "vote_average": 8.0,
+        "source": "flixpatrol",
+        "fetched_at": "2026-07-03T11:11:00Z"
+      },
+      {
+        "rank": 6,
         "platform": "netflix",
         "content_type": "series",
         "title": "Oasis",
@@ -280,10 +291,10 @@
         "overview": "Após o desaparecimento misterioso de uma jovem em um resort de luxo, todos, funcionários e hóspedes, se tornam suspeitos até que se descubra a verdade.",
         "vote_average": 6.528,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:40Z"
+        "fetched_at": "2026-07-03T11:11:00Z"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "platform": "netflix",
         "content_type": "series",
         "title": "Salish e Jordan Matter",
@@ -297,10 +308,10 @@
         "overview": "Acompanhe Jordan e sua filha Salish em várias situações divertidas e desafios extremos nesta compilação de momentos clássicos da família Matter.",
         "vote_average": 5.5,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:40Z"
+        "fetched_at": "2026-07-03T11:11:00Z"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "platform": "netflix",
         "content_type": "series",
         "title": "Aprendendo a Lição",
@@ -312,12 +323,12 @@
         "backdrop_path": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "logo_path": "/iXVXtklg5LYDCmaBWLHoJR56FtV.png",
         "overview": "O respeito foi pelo ralo dentro das escolas. É aí que entra uma unidade especial para ensinar lições pragmáticas e mordazes que não estão nos livros didáticos.",
-        "vote_average": 9.484,
+        "vote_average": 9.463,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:40Z"
+        "fetched_at": "2026-07-03T11:11:00Z"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "platform": "netflix",
         "content_type": "series",
         "title": "Uma Nova Mulher",
@@ -329,12 +340,12 @@
         "backdrop_path": "/eND0QkFMyqWONmAy1lBKtPjsrFF.jpg",
         "logo_path": "/rYVhNrSWaEdQdbz68wkdotCMjDe.png",
         "overview": "Três amigas partem em busca de uma nova conexão espiritual, mas terão que enfrentar traumas familiares do passado.",
-        "vote_average": 7.9,
+        "vote_average": 7.905,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:40Z"
+        "fetched_at": "2026-07-03T11:11:00Z"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "platform": "netflix",
         "content_type": "series",
         "title": "Perdendo o Juizo",
@@ -347,24 +358,7 @@
         "overview": "A prestigiosa advogada Amanda sofre um grave colapso do TOC durante um julgamento de alto risco.",
         "vote_average": 7.263,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:40Z"
-      },
-      {
-        "rank": 10,
-        "platform": "netflix",
-        "content_type": "series",
-        "title": "As Bruxas Mayfair de Anne Rice",
-        "original_title": "Mayfair Witches",
-        "year": 2023,
-        "tmdb_id": 207863,
-        "imdb_id": "tt15428778",
-        "poster_path": "/hcGhWkbY2885PFAGSiWgsnEFBTY.jpg",
-        "backdrop_path": "/9DHo5qXkG0titQmr2PF92N3aYYk.jpg",
-        "logo_path": "/6odEastthWLJCaSlFc9QmdEgToK.png",
-        "overview": "Rowan Fielding, uma jovem neurocirurgiã intuitiva, descobre que ela é a improvável herdeira de uma família de bruxas. Enquanto ela lida com seus novos poderes, ela deve lidar com uma presença sinistra que assombra sua família há gerações.",
-        "vote_average": 7.291,
-        "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:40Z"
+        "fetched_at": "2026-07-03T11:11:00Z"
       }
     ],
     "prime": [
@@ -381,9 +375,9 @@
         "backdrop_path": "/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
         "logo_path": "/W9yBdjQlPy5BtuZvKnZzGYJqwR.png",
         "overview": "George é um pastor que lê romances policiais para suas queridas ovelhas todas as noites, acreditando que elas não conseguem entender. Mas, quando um incidente misterioso interrompe a vida na fazenda, as ovelhas percebem que precisam se tornar as detetives. Ao seguir as pistas e investigar suspeitos humanos, elas provam que até mesmo ovelhas podem ser brilhantes solucionadoras de crimes.",
-        "vote_average": 7.742,
+        "vote_average": 7.754,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:42Z"
+        "fetched_at": "2026-07-03T11:11:03Z"
       },
       {
         "rank": 2,
@@ -400,7 +394,7 @@
         "overview": "Um psiquiatra dos Estados Unidos é designado para examinar 22 oficiais nazistas que aguardam julgamento por crimes de guerra. À medida que ele se aproxima de um de seus pacientes e tenta desvendar a essência do mal, ele se vê envolvido em uma jornada sem volta.",
         "vote_average": 7.6,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:42Z"
+        "fetched_at": "2026-07-03T11:11:03Z"
       },
       {
         "rank": 3,
@@ -417,27 +411,10 @@
         "overview": "Em uma peregrinação para espalhar as cinzas do marido no remoto norte de Minnesota, a viúva Barb se perde em uma nevasca. Ao buscar ajuda em uma cabana isolada na floresta, descobre que uma jovem, Leah, está sendo mantida em cativeiro por um casal armado e desesperado.",
         "vote_average": 6.364,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:42Z"
+        "fetched_at": "2026-07-03T11:11:03Z"
       },
       {
         "rank": 4,
-        "platform": "prime",
-        "content_type": "movie",
-        "title": "Destruição Final 2",
-        "original_title": "Greenland 2: Migration",
-        "year": 2026,
-        "tmdb_id": 840464,
-        "imdb_id": "tt14850054",
-        "poster_path": "/s6nzVekLSd1y0vGjLz8WPfC1Sau.jpg",
-        "backdrop_path": "/cLFbDVfhllIMybpo2fkGNzehiQG.jpg",
-        "logo_path": "/se08hzYqHAiDixqV1mymn7sWBKq.png",
-        "overview": "Tendo encontrado a segurança do bunker da Groenlândia depois que o cometa Clarke dizimou a Terra, a família Garrity deve agora arriscar tudo para embarcar em uma jornada angustiante através do deserto da Europa para encontrar um novo lar.",
-        "vote_average": 6.423,
-        "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:42Z"
-      },
-      {
-        "rank": 5,
         "platform": "prime",
         "content_type": "movie",
         "title": "Sua Culpa: Londres",
@@ -449,24 +426,41 @@
         "backdrop_path": "/wQOhbCP6H8bO5ddlXDZT207orew.jpg",
         "logo_path": "/wdvX4vhSV5iac1Q5o6Ntpg31p2p.png",
         "overview": "Nick e Noah enfrentam o maior teste de seu amor quando Noah inicia sua nova vida na Universidade de Oxford, enquanto Nick permanece em Londres trabalhando para a empresa de seu pai. Separados pela distância e cercados por pressões cada vez maiores — ciúmes, ambição e forças determinadas a separá-los —, eles precisarão arriscar tudo para provar que seu vínculo pode sobreviver contra todas as adversidades.",
-        "vote_average": 7.566,
+        "vote_average": 7.513,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:42Z"
+        "fetched_at": "2026-07-03T11:11:03Z"
+      },
+      {
+        "rank": 5,
+        "platform": "prime",
+        "content_type": "movie",
+        "title": "Destruição Final 2",
+        "original_title": "Greenland 2: Migration",
+        "year": 2026,
+        "tmdb_id": 840464,
+        "imdb_id": "tt14850054",
+        "poster_path": "/s6nzVekLSd1y0vGjLz8WPfC1Sau.jpg",
+        "backdrop_path": "/cLFbDVfhllIMybpo2fkGNzehiQG.jpg",
+        "logo_path": "/se08hzYqHAiDixqV1mymn7sWBKq.png",
+        "overview": "Tendo encontrado a segurança do bunker da Groenlândia depois que o cometa Clarke dizimou a Terra, a família Garrity deve agora arriscar tudo para embarcar em uma jornada angustiante através do deserto da Europa para encontrar um novo lar.",
+        "vote_average": 6.426,
+        "source": "flixpatrol",
+        "fetched_at": "2026-07-03T11:11:03Z"
       },
       {
         "rank": 6,
         "platform": "prime",
         "content_type": "movie",
-        "title": "Conduct Unbecoming",
+        "title": "Má Conduta",
         "original_title": "Conduct Unbecoming",
-        "year": 1975,
-        "tmdb_id": 59144,
-        "imdb_id": "tt0072812",
-        "poster_path": "/2TgZDGYojNRhdSFGjaJS5XNliUw.jpg",
-        "backdrop_path": "/upginjKHLQfHhOV9rdOVh7HazLt.jpg",
-        "vote_average": 5.875,
+        "year": 2011,
+        "tmdb_id": 253025,
+        "imdb_id": "tt1641244",
+        "poster_path": "/8NlUEXJ5DTrXQTm5ozrSpwR2wI6.jpg",
+        "backdrop_path": "/wRz6i6l8TgEb4FykVHXW6rKZN4c.jpg",
+        "overview": "Quando um soldado é acusado de estupro, um julgamento militar é realizado a portas fechadas, para evitar escândalos.",
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:42Z"
+        "fetched_at": "2026-07-03T11:11:03Z"
       },
       {
         "rank": 7,
@@ -481,9 +475,9 @@
         "backdrop_path": "/3fs6Encf71ChabAKV6VrnpQRrjV.jpg",
         "logo_path": "/3W5uPtCCuXQjroWe2tpv4YkY6Gn.png",
         "overview": "Jeremy, um estudante do último ano do ensino médio, planeja continuar o namoro com Samantha quando ela for pra faculdade. Depois de uma ligação numa madrugada, ele acha que ela está terminando e rouba o carro da autoescola com três colegas dentro para ir até Chapel Hill para reconquistá-la. Em 24 horas caóticas, eles são perseguidos por um segurança, bandidos e por suas péssimas decisões.",
-        "vote_average": 6.985,
+        "vote_average": 6.757,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:42Z"
+        "fetched_at": "2026-07-03T11:11:03Z"
       },
       {
         "rank": 8,
@@ -500,7 +494,7 @@
         "overview": "Um jovem é recrutado para uma misteriosa agência de assassinos implacáveis.  Com a ajuda de colegas, ele comete um ato de rebeldia e justiça ao rastrear uma rede de tráfico de pessoas que é apoiada por bilionários poderosos e intocáveis. Sua missão é destruir essas pessoas que causam tanto mal à vida inocentes ao redor do mundo.",
         "vote_average": 5.6,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:42Z"
+        "fetched_at": "2026-07-03T11:11:03Z"
       },
       {
         "rank": 9,
@@ -515,26 +509,26 @@
         "backdrop_path": "/uDR9UjSuykTL8g3N3bh3siZ4n3C.jpg",
         "logo_path": "/25A2GSR2myKYlXq2V9e3Vc654xY.png",
         "overview": "Os amigos Alex, Marty, Melman, Gloria, rei Julien e os pinguins deixam o continente africano rumo à Europa. Eles vão parar em Mônaco, onde passam a ser perseguidos por uma obcecada agente de controle animal. Em plena fuga, o grupo encontra abrigo em um circo em crise. Logo eles passam a ajudá-lo, iniciando um processo de revitalização que poderá levá-los a uma turnê nos Estados Unidos e, consequentemente, de volta para casa.",
-        "vote_average": 6.639,
+        "vote_average": 6.64,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:42Z"
+        "fetched_at": "2026-07-03T11:11:03Z"
       },
       {
         "rank": 10,
         "platform": "prime",
         "content_type": "movie",
-        "title": "Jack Ryan de Tom Clancy: Guerra Fantasma",
-        "original_title": "Tom Clancy's Jack Ryan: Ghost War",
-        "year": 2026,
-        "tmdb_id": 1380291,
-        "imdb_id": "tt34378301",
-        "poster_path": "/bPue4NKPiGNrIbZFeOsZfnovFAM.jpg",
-        "backdrop_path": "/dd31qJxOarrHyGZwYsCzOjobQzP.jpg",
-        "logo_path": "/tNixUUmOiVsRAR3WuINj4fcrPR9.png",
-        "overview": "Neste novo filme, Jack Ryan volta ao mundo da espionagem contra a sua vontade quando uma missão secreta internacional acaba revelando uma conspiração. Numa corrida contra o tempo, ele se junta aos seus aliados da CIA, Mike November e James Greer, e à perspicaz agente do MI6, Emma Marlowe, para combater uma unidade de operações secreta rebelde numa luta arriscada e extremamente pessoal.",
-        "vote_average": 7.026,
+        "title": "Vingança Fatal",
+        "original_title": "Vendetta",
+        "year": 2022,
+        "tmdb_id": 894169,
+        "imdb_id": "tt14849038",
+        "poster_path": "/y33paUKgDhJrdsvNDiGjltYkWau.jpg",
+        "backdrop_path": "/33qGtN2GpGEb94pn25PDPeWQZLk.jpg",
+        "logo_path": "/gfeEeznAEdDpz4lHKQs1KsuFREs.png",
+        "overview": "Quando sua filha é brutalmente assassinada e a justiça parece improvável, William Duncan toma a lei em suas próprias mãos, partindo em busca de vingança. Depois de matar o bandido que foi diretamente responsável por sua morte, ele se encontra no meio de uma guerra com o irmão desse bandido, Rory Fetter, e sua gangue, que estão igualmente empenhados em se vingar de seu membro assassinado.",
+        "vote_average": 6.057,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:42Z"
+        "fetched_at": "2026-07-03T11:11:03Z"
       },
       {
         "rank": 1,
@@ -546,12 +540,12 @@
         "tmdb_id": 254420,
         "imdb_id": "tt32020831",
         "poster_path": "/2yYFavbSBNwW0dNCbVKw57qSaQZ.jpg",
-        "backdrop_path": "/siQzmCYGNqXmZeih4Ml6P90ZtM6.jpg",
+        "backdrop_path": "/fcdYPWdwbQynogpa79QLw1ukRvN.jpg",
         "logo_path": "/2522ExfvLLjN38D9EdQ0W63SHJ7.png",
         "overview": "Antes de Elle Woods ser um peixe fora d'água em Harvard, a encontramos em 1995, nas tumultuosas águas do ensino médio, onde ela encontra amizades complicadas, romance proibido e escolhas de moda questionáveis. Neste capítulo inesperado de sua adolescência, descobrimos as experiências que fizeram de Elle a famosa jovem que conhecemos e amamos.",
-        "vote_average": 9.0,
+        "vote_average": 7.6,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:43Z"
+        "fetched_at": "2026-07-03T11:11:05Z"
       },
       {
         "rank": 2,
@@ -566,9 +560,9 @@
         "backdrop_path": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "logo_path": "/6VBh9QyUepypVJF95rQqinswvES.png",
         "overview": "Hannah Wells dá aulas ao capitão do hóquei, Garrett Graham, em troca de dicas para conquistar o paquera. O acordo vira uma conexão quando eles encaram o passado. Os amigos Logan, Dean, Tucker e Allie vivem a vida universitária e o amor.",
-        "vote_average": 8.964,
+        "vote_average": 8.953,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:43Z"
+        "fetched_at": "2026-07-03T11:11:05Z"
       },
       {
         "rank": 3,
@@ -583,9 +577,9 @@
         "backdrop_path": "/to5eI3AWbT4spz1K58mIK5HQRbD.jpg",
         "logo_path": "/zMjPZpisQQECeWEOZFiGip2y2wQ.png",
         "overview": "Durante seis verões, Barry's Bay foi um lugar mágico cheio de novas experiências para Percy Fraser, incluindo seu primeiro amor - e primeiro coração partido. Dez anos depois, uma tragédia inesperada leva Percy de volta a Barry's Bay, onde ela precisa encarar as pessoas, lembranças e os erros de seu passado, principalmente o garoto que mudou sua vida para sempre - Sam Florek.",
-        "vote_average": 8.328,
+        "vote_average": 8.331,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:43Z"
+        "fetched_at": "2026-07-03T11:11:05Z"
       },
       {
         "rank": 4,
@@ -600,9 +594,9 @@
         "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
         "logo_path": "/uGsPma2WshIxUQReGRblNAfk7Oa.png",
         "overview": "Cha Ji-yoon, uma funcionária corporativa cansada do trabalho e dos relacionamentos, cruza o caminho de Kang Si-woo, um chefe sarcástico e temido. Ao descobrir a gentileza escondida por trás de suas palavras duras, ela reencontra o brilho na vida. Entre rotinas exaustivas, acidentes no trabalho e romances fracassados, os dois se tornam o porto seguro um do outro.",
-        "vote_average": 8.769,
+        "vote_average": 8.9,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:43Z"
+        "fetched_at": "2026-07-03T11:11:05Z"
       },
       {
         "rank": 5,
@@ -617,9 +611,9 @@
         "backdrop_path": "/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
         "logo_path": "/zCzbj1q9etCRgedYakUcP01ZrtG.png",
         "overview": "O detetive particular Ben Reilly é contratado para casos simples... até que gângsteres, monstros e uma misteriosa femme fatale tecem uma teia que o obriga a confrontar seu passado como o único super-herói de Nova York: O Spider.",
-        "vote_average": 8.504,
+        "vote_average": 8.499,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:43Z"
+        "fetched_at": "2026-07-03T11:11:05Z"
       },
       {
         "rank": 6,
@@ -636,7 +630,7 @@
         "overview": "Na trama, conhecemos um mundo em que super-heróis são as maiores celebridades do planeta, e rotineiramente abusam dos seus poderes ao invés de os usarem para o bem.",
         "vote_average": 8.448,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:43Z"
+        "fetched_at": "2026-07-03T11:11:05Z"
       },
       {
         "rank": 7,
@@ -651,9 +645,9 @@
         "backdrop_path": "/qCGwPCwlSiLdlYinzy9rSQDjQX1.jpg",
         "logo_path": "/2NOw7k8OlpPoqtPR8TOpFyWnHEu.png",
         "overview": "Desordeiros e maltrapilhos, são desajustados que viraram mercenários. O grupo Vox Machina está mais interessado em dinheiro fácil e cerveja barata do que em proteger o reino. Mas quando o reino é ameaçado pelo mal, esses encrenqueiros percebem que são os únicos capazes de restaurar a justiça. O que começou como um serviço simples agora é a história de origem dos mais novos heróis de Exandria.",
-        "vote_average": 8.216,
+        "vote_average": 8.221,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:43Z"
+        "fetched_at": "2026-07-03T11:11:05Z"
       },
       {
         "rank": 8,
@@ -670,27 +664,10 @@
         "overview": "Para Chris, fazer 13 anos não tem nada de maravilhoso. Ele é o único negro da turma do ensino médio, onde tem uma educação medíocre. É amigo de Greg, e é frequentemente abusado por Joey Caruso. Ambos os pais trabalham e ele cuida de seus dois irmãos. Parece trágico, mas é hilário.",
         "vote_average": 8.066,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:43Z"
+        "fetched_at": "2026-07-03T11:11:05Z"
       },
       {
         "rank": 9,
-        "platform": "prime",
-        "content_type": "series",
-        "title": "Aqueles Prestes a Morrer",
-        "original_title": "Those About to Die",
-        "year": 2024,
-        "tmdb_id": 218589,
-        "imdb_id": "tt10569934",
-        "poster_path": "/1he6t2dsvovnRlLC4nVLsydHLd5.jpg",
-        "backdrop_path": "/vX71TGviqLsOtDNJ9q1QR4m14kH.jpg",
-        "logo_path": "/mfHGN8HCOTjJw747xSEfq6q3feV.png",
-        "overview": "Roma, 79 d.C. A população, aborrecida, inquieta e cada vez mais violenta, é controlada com duas coisas: comida gratuita e entretenimento espetacular. À medida que o povo procura um entretenimento mais excessivo e sanguinário, é necessário um estádio criado para o combate de gladiadores, o Coliseu. Por baixo dele vivem e trabalham milhares de pessoas, incluindo milhares que morrerão pelos jogos.",
-        "vote_average": 7.427,
-        "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:43Z"
-      },
-      {
-        "rank": 10,
         "platform": "prime",
         "content_type": "series",
         "title": "Eu, a Patroa e as Crianças",
@@ -704,7 +681,24 @@
         "overview": "Jay Kyle precisa se dedicar exclusivamente a carreira na contabilidade, porém Michael acredita que esse não é o melhor caminho para Jay, pois acredita que a mesma usa do trabalho para desvirtuar-se de sua família. A menina Kady está sob os cuidados da babá Rosa, uma mulher mexicana que nunca caiu aos encantos do patrão. Claire vive o período da pré-adolescência e costuma ser um pouco arrogante em suas atitudes. Júnior demonstra seu gosto pelo Hip-Hop, porém é desvirtuado da ideia pelo seu pai, que costuma extrapolar, quando o quesito é disciplina.",
         "vote_average": 7.417,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:43Z"
+        "fetched_at": "2026-07-03T11:11:05Z"
+      },
+      {
+        "rank": 10,
+        "platform": "prime",
+        "content_type": "series",
+        "title": "Aqueles Prestes a Morrer",
+        "original_title": "Those About to Die",
+        "year": 2024,
+        "tmdb_id": 218589,
+        "imdb_id": "tt10569934",
+        "poster_path": "/1he6t2dsvovnRlLC4nVLsydHLd5.jpg",
+        "backdrop_path": "/vX71TGviqLsOtDNJ9q1QR4m14kH.jpg",
+        "logo_path": "/mfHGN8HCOTjJw747xSEfq6q3feV.png",
+        "overview": "Roma, 79 d.C. A população, aborrecida, inquieta e cada vez mais violenta, é controlada com duas coisas: comida gratuita e entretenimento espetacular. À medida que o povo procura um entretenimento mais excessivo e sanguinário, é necessário um estádio criado para o combate de gladiadores, o Coliseu. Por baixo dele vivem e trabalham milhares de pessoas, incluindo milhares que morrerão pelos jogos.",
+        "vote_average": 7.427,
+        "source": "flixpatrol",
+        "fetched_at": "2026-07-03T11:11:05Z"
       }
     ],
     "disney": [
@@ -721,9 +715,9 @@
         "backdrop_path": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
         "logo_path": "/yWlV2Y5QKpGuhdPYrTl9MzXm3bx.png",
         "overview": "Após a devastadora guerra contra a RDA e a perda de seu filho mais velho, Jake Sully e Neytiri enfrentam uma nova ameaça em Pandora: o Povo das Cinzas, uma tribo Na'vi violenta e sedenta por poder, liderada pela implacável Varang. A família de Jake deve lutar por sua sobrevivência e pelo futuro de Pandora em um conflito que os leva aos seus limites emocionais e físicos.",
-        "vote_average": 7.61,
+        "vote_average": 7.615,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:45Z"
+        "fetched_at": "2026-07-03T11:11:09Z"
       },
       {
         "rank": 2,
@@ -738,9 +732,9 @@
         "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
         "logo_path": "/ib7qnSUbm2zACid6oSVgG1kt3ZG.png",
         "overview": "Mabel é uma jovem amante da natureza que tenta impedir o prefeito Jerry de construir uma rodovia que destruirá suas florestas locais. Graças a um experimento secreto de troca de cérebros, Mabel consegue transferir sua mente para um castor robô e segue para um lago, onde refugiados da industrialização invasora desembarcaram. Lá, ela tenta convencer os animais, liderados pelo castor majestoso Rei George, a se juntarem a ela e impedirem a construção da rodovia.",
-        "vote_average": 8.19,
+        "vote_average": 8.184,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:45Z"
+        "fetched_at": "2026-07-03T11:11:09Z"
       },
       {
         "rank": 3,
@@ -757,7 +751,7 @@
         "overview": "Woody, Buzz e o resto dos brinquedos de Andy não são usados há anos. Com Andy prestes a ir para a faculdade, o grupo acaba por ser deixado acidentalmente numa creche. Os brinquedos devem se unir para escapar e voltar para casa de Andy.",
         "vote_average": 7.811,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:45Z"
+        "fetched_at": "2026-07-03T11:11:09Z"
       },
       {
         "rank": 4,
@@ -765,7 +759,7 @@
         "content_type": "movie",
         "title": "Toy Story 5 | A Special Look",
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:45Z"
+        "fetched_at": "2026-07-03T11:11:09Z"
       },
       {
         "rank": 5,
@@ -780,9 +774,9 @@
         "backdrop_path": "/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
         "logo_path": "/nh1Cmd11NvmXJWY2VFX4VLcUCoX.png",
         "overview": "Buzz Lightyear é o novo e sofisticado astronauta de brinquedo do garoto Andy. Buzz não imaginava que encontraria um rival: Woody, um cowboy de brinquedo que, dominado pelo ciúme, acredita ter perdido um lugar precioso no coração do seu dono. Os dois brinquedos vivem brigando até que vão parar nas garras do vizinho, um verdadeiro destruidor de brinquedos. Agora, mais do que nunca, Buzz e Woody precisam precisam se unir para escapar do perigo. Com a ajuda de seus amigos da caixa de brinquedos, eles vão viver uma incrível aventura.",
-        "vote_average": 7.98,
+        "vote_average": 8.0,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:45Z"
+        "fetched_at": "2026-07-03T11:11:09Z"
       },
       {
         "rank": 6,
@@ -799,7 +793,7 @@
         "overview": "Quando Andy viaja para um acampamento de verão, Woody é sequestrado por Al, um ambiocioso colecionador, que precisa do brinquedo favorito de Andy para completar sua coleção da Gangue do Rodeio. Junto com Jessie, Bala no Alvo e Mineiro, Woody corre o risco de ter que passar o resto de sua vida em exposição num museu. Agora, Buzz, Sr. Cabeça de Batata, Porquinho, Rex e Slinky terão que salvar seu amigo e trazê-lo de volta à vida de brinquedos.",
         "vote_average": 7.613,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:45Z"
+        "fetched_at": "2026-07-03T11:11:09Z"
       },
       {
         "rank": 7,
@@ -814,9 +808,9 @@
         "backdrop_path": "/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
         "logo_path": "/xrTa6Y59uC1rURuGHllbzH5Qz2c.png",
         "overview": "Agora morando na casa da pequena Bonnie, Woody apresenta aos amigos o novo brinquedo construído por ela: Garfinho, baseado em um garfo de verdade. O novo posto de brinquedo não o agrada nem um pouco, o que faz com que Garfinho fuja de casa. Decidido a trazer de volta o atual brinquedo favorito de Bonnie, Woody parte em seu encalço e, no caminho, reencontra Bo Peep, que agora vive em um parque de diversões.",
-        "vote_average": 7.5,
+        "vote_average": 7.461,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:45Z"
+        "fetched_at": "2026-07-03T11:11:09Z"
       },
       {
         "rank": 8,
@@ -833,7 +827,7 @@
         "overview": "Depois de receber um chamado inesperado de seus ancestrais navegadores, Moana vai viajar para mares distantes da Oceania, em águas perdidas em uma aventura perigosa.",
         "vote_average": 7.006,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:45Z"
+        "fetched_at": "2026-07-03T11:11:09Z"
       },
       {
         "rank": 9,
@@ -849,7 +843,7 @@
         "logo_path": "/nxgN0RCASpDic7bYovKE3UXabcU.png",
         "overview": "Na Polinésia Antiga, quando uma terrível maldição contraída por Maui chega à ilha de um impetuoso chefe, sua filha obstinada responde ao chamado do Oceano para procurar o semideus e consertar as coisas. Adaptação live-action do filme de animação da Disney de 2016 'Moana'",
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:45Z"
+        "fetched_at": "2026-07-03T11:11:09Z"
       },
       {
         "rank": 10,
@@ -866,10 +860,27 @@
         "overview": "12 anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma família com Neytiri e se estabeleceu entre os clãs do novo mundo. Porém, a paz não durará para sempre.",
         "vote_average": 7.594,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:45Z"
+        "fetched_at": "2026-07-03T11:11:09Z"
       },
       {
         "rank": 1,
+        "platform": "disney",
+        "content_type": "series",
+        "title": "X-Men '97",
+        "original_title": "X-Men '97",
+        "year": 2024,
+        "tmdb_id": 138502,
+        "imdb_id": "tt16026746",
+        "poster_path": "/yvqC5hw3rkW9vputtZ8PlwYhJRp.jpg",
+        "backdrop_path": "/vY7Fap4aYz7e4Dk5MwhKdR0GmKR.jpg",
+        "logo_path": "/i4O2d2EYfBCVFVIQaES16gchiMj.png",
+        "overview": "X-Men ’97 revisita a era icônica dos anos 1990, quando os X-Men, um grupo de mutantes que usam seus dons extraordinários para proteger um mundo que os odeia e teme, são desafiados como nunca antes, forçados a enfrentar um novo futuro perigoso e inesperado.",
+        "vote_average": 8.548,
+        "source": "flixpatrol",
+        "fetched_at": "2026-07-03T11:11:11Z"
+      },
+      {
+        "rank": 2,
         "platform": "disney",
         "content_type": "series",
         "title": "Doutor à Beira do Amor",
@@ -881,12 +892,12 @@
         "backdrop_path": "/vllHmrJ2pKSjRlqOVY9SYWXcbeo.jpg",
         "logo_path": "/pgQOVZ0XelypWRHKu4rhLFkYp3y.png",
         "overview": "O médico Do Jiui morre de medo do mar, mas é enviado para Pyeondongdo, uma ilha que todos evitam. Nesse lugar desconhecido, ele se envolve com a misteriosa enfermeira Yuk Hari. A dupla vive uma relação cheia de tensão e de muitas idas e vindas, enquanto o rapaz tenta fugir de lá.",
-        "vote_average": 9.0,
+        "vote_average": 9.143,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:46Z"
+        "fetched_at": "2026-07-03T11:11:11Z"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "platform": "disney",
         "content_type": "series",
         "title": "A Coroa Perfeita",
@@ -900,10 +911,10 @@
         "overview": "Na Coreia do Sul do século 21, governada por uma monarquia constitucional, uma herdeira chaebol com tudo, menos status, tenta controlar seu futuro após cruzar com o príncipe que não tem nada, apenas status. Unidos por um contrato de casamento, eles vivem um romance que desafia barreiras sociais.",
         "vote_average": 8.994,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:46Z"
+        "fetched_at": "2026-07-03T11:11:11Z"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "platform": "disney",
         "content_type": "series",
         "title": "Os Testamentos: Das Filhas de Gilead",
@@ -917,10 +928,10 @@
         "overview": "Uma evolução de \"O Conto da Aia\", \"Os Testamentos\" é uma dramática história de amadurecimento ambientada em Gilead. A série acompanha duas jovens: a obediente e devota Agnes Mackenzie e Daisy, uma convertida recém-chegada de fora das fronteiras de Gilead.",
         "vote_average": 8.293,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:46Z"
+        "fetched_at": "2026-07-03T11:11:11Z"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "platform": "disney",
         "content_type": "series",
         "title": "Inapropriados Para O Trabalho",
@@ -932,12 +943,12 @@
         "backdrop_path": "/ysYPo1JqzHiHoIHpW9wXCtvY1LW.jpg",
         "logo_path": "/49htd6kTDFcea2yFQEVQXKCEips.png",
         "overview": "Cinco jovens obcecados por trabalho buscam o sucesso profissional em Manhattan. E, se der tempo, a felicidade pessoal.",
-        "vote_average": 5.947,
+        "vote_average": 6.051,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:46Z"
+        "fetched_at": "2026-07-03T11:11:11Z"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "platform": "disney",
         "content_type": "series",
         "title": "Uma Mente Excepcional",
@@ -951,10 +962,10 @@
         "overview": "Morgan, uma mãe solteira com três filhos e uma mente excepcional, ajuda a resolver um crime insolúvel quando reorganiza algumas evidências durante seu turno como faxineira do departamento de polícia. Quando descobrem que ela tem um talento especial para colocar as coisas em ordem por causa de seu alto potencial intelectual, ela é contratada como consultora para trabalhar com um detetive experiente e fiel às regras, Karadec. Juntos, eles formam uma equipe incomum e imparável.",
         "vote_average": 8.182,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:46Z"
+        "fetched_at": "2026-07-03T11:11:11Z"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "platform": "disney",
         "content_type": "series",
         "title": "O Urso",
@@ -966,26 +977,9 @@
         "backdrop_path": "/aJtG4txtmiRHwAAqENQHZvBs6kY.jpg",
         "logo_path": "/L1CWQEfhN1j6ka3QGJIIu9Dbxw.png",
         "overview": "Carmy, um jovem chefe requintado, volta para Chicago para administrar a lanchonete de sua família. Enquanto ele luta para transformar a loja e a si mesmo, ele trabalha ao lado de uma equipe medíocre que acaba se transformando na sua família.",
-        "vote_average": 8.139,
+        "vote_average": 8.137,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:46Z"
-      },
-      {
-        "rank": 7,
-        "platform": "disney",
-        "content_type": "series",
-        "title": "Zootopia+",
-        "original_title": "Zootopia+",
-        "year": 2022,
-        "tmdb_id": 114463,
-        "imdb_id": "tt13622956",
-        "poster_path": "/pcWy2oFpb2whagjUWcwoHI1d7IP.jpg",
-        "backdrop_path": "/kq4IbjT5LRWVHEafDzLVZZEAf0O.jpg",
-        "logo_path": "/wrZVHhfRk2z9G7Ur6vG64tfmXFf.png",
-        "overview": "Volte a metrópole dos mamíferos e conheça melhor a vida de uma série de personagens intrigantes.",
-        "vote_average": 7.098,
-        "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:46Z"
+        "fetched_at": "2026-07-03T11:11:11Z"
       },
       {
         "rank": 8,
@@ -1002,7 +996,7 @@
         "overview": "A Princesa Sofia vive aventuras divertidas no Colégio de Magia Real Charmswell. Com novos amigos e companheiros animais, ela está pronta para provar que é a princesa mais mágica de todas.",
         "vote_average": 8.4,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:46Z"
+        "fetched_at": "2026-07-03T11:11:11Z"
       },
       {
         "rank": 9,
@@ -1019,24 +1013,24 @@
         "overview": "No Rio dos anos 90, Evandro é um jovem da favela que tenta ganhar a vida honestamente. Porém, após a morte do irmão pela polícia, ele entra no mundo do tráfico buscando vingança.",
         "vote_average": 7.265,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:46Z"
+        "fetched_at": "2026-07-03T11:11:11Z"
       },
       {
         "rank": 10,
         "platform": "disney",
         "content_type": "series",
-        "title": "X-Men '97",
-        "original_title": "X-Men '97",
-        "year": 2024,
-        "tmdb_id": 138502,
-        "imdb_id": "tt16026746",
-        "poster_path": "/yvqC5hw3rkW9vputtZ8PlwYhJRp.jpg",
-        "backdrop_path": "/iDnTAeR2WNA62XQG0ivtteDSjd5.jpg",
-        "logo_path": "/i4O2d2EYfBCVFVIQaES16gchiMj.png",
-        "overview": "X-Men ’97 revisita a era icônica dos anos 1990, quando os X-Men, um grupo de mutantes que usam seus dons extraordinários para proteger um mundo que os odeia e teme, são desafiados como nunca antes, forçados a enfrentar um novo futuro perigoso e inesperado.",
-        "vote_average": 8.52,
+        "title": "Na Sua Melhor Fase",
+        "original_title": "찬란한 너의 계절에",
+        "year": 2026,
+        "tmdb_id": 233833,
+        "imdb_id": "tt39369595",
+        "poster_path": "/6IQcpA44ASPdepGNifAN71zl6Kq.jpg",
+        "backdrop_path": "/xhpUS8NKvvE0UCLGWiIOBiHFb5y.jpg",
+        "logo_path": "/cLeuvGw6hZPJBM1DDKh24uL2kE4.png",
+        "overview": "Chan vive como se sempre fossem férias de verão. Haran está aprisionada em um inverno sem fim. Quando o passado esquecido os reúne, Chan decide dar a ela uma nova primavera. Entre risos e lágrimas, os dois enfrentam juntos o inverno e chegam à sua primavera neste romance comovente.",
+        "vote_average": 8.106,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:46Z"
+        "fetched_at": "2026-07-03T11:11:11Z"
       }
     ],
     "hbo": [
@@ -1053,9 +1047,9 @@
         "backdrop_path": "/7IwBgIwoHtkQ0lYGbBbqKintSWx.jpg",
         "logo_path": "/c1jT6y0PMeBtMuCWWzRbKi7c1I9.png",
         "overview": "Uma mulher aceita um emprego como governanta em um arranha-céu de Nova York, sem saber da história de desaparecimentos do prédio. Ela logo percebe que a comunidade está envolta em mistério.",
-        "vote_average": 7.001,
+        "vote_average": 7.002,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:49Z"
+        "fetched_at": "2026-07-03T11:11:15Z"
       },
       {
         "rank": 2,
@@ -1072,7 +1066,7 @@
         "overview": "Virgil Cole e Everett Hitch são pistoleiros contratados para que cuidem da cidade de Appaloosa, no velho oeste americano. O local é controlado por Randall Bragg, um rancheiro que ordenou a morte do último xerife e que não respeita qualquer lei. Entretanto a tarefa de Virgil e Everett é prejudicada pela chegada de Allison French, uma jovem viúva.",
         "vote_average": 6.57,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:49Z"
+        "fetched_at": "2026-07-03T11:11:15Z"
       },
       {
         "rank": 3,
@@ -1087,12 +1081,29 @@
         "backdrop_path": "/fnvTC96lA7pf8ZlMKI2FgBZ86AP.jpg",
         "logo_path": "/ciUjrJ82sIsYOKUcW1lUo6qjcRv.png",
         "overview": "Quando dois jovens de luto se conhecem em um grupo de apoio para gêmeos, surge uma amizade improvável. Roman (Dylan O'Brien) e Dennis (James Sweeney) buscam consolo e uma identidade própria e logo se tornam inseparáveis ​​fora do grupo. Mas, quando passados ​​obscuros vêm à tona, eles percebem que nem tudo é o que parece, pois cada um deles guarda segredos que trazem muitas respostas.",
-        "vote_average": 7.239,
+        "vote_average": 7.256,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:49Z"
+        "fetched_at": "2026-07-03T11:11:15Z"
       },
       {
         "rank": 4,
+        "platform": "hbo",
+        "content_type": "movie",
+        "title": "Juventudes Roubadas",
+        "original_title": "Testament of Youth",
+        "year": 2015,
+        "tmdb_id": 284689,
+        "imdb_id": "tt1441953",
+        "poster_path": "/6aO9Noc9Cqu7V4LJlXYGP9Iu7I1.jpg",
+        "backdrop_path": "/jD0mmfqPRpvJUaPdpLl1vMj38CA.jpg",
+        "logo_path": "/zX58kiH1cMLtxdsESPQmGbxpMsL.png",
+        "overview": "Vera Brittain, uma jovem mulher na Grã-Bretanha em 1914, conta como toda a sua geração foi consumida e irrevogavelmente alterada pela chegada da Primeira Guerra Mundial.",
+        "vote_average": 7.3,
+        "source": "flixpatrol",
+        "fetched_at": "2026-07-03T11:11:15Z"
+      },
+      {
+        "rank": 5,
         "platform": "hbo",
         "content_type": "movie",
         "title": "A Incrível Eleanor",
@@ -1106,10 +1117,10 @@
         "overview": "Eleanor Morgenstein, uma mulher de 94 anos, está tentando reconstruir sua vida após a perda de sua melhor amiga. Depois de décadas na Flórida, ela regressa a Nova York para um novo começo. O longa é o primeiro trabalho da renomada atriz Scarlett Johansson como diretora.",
         "vote_average": 6.923,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:49Z"
+        "fetched_at": "2026-07-03T11:11:15Z"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "platform": "hbo",
         "content_type": "movie",
         "title": "Sting: Aranha Assassina",
@@ -1123,41 +1134,24 @@
         "overview": "Depois de criar em segredo uma aranha incrivelmente talentosa, Charlotte, de 12 anos, deve enfrentar os fatos sobre seu animal de estimação, e lutar pela sobrevivência de sua família.",
         "vote_average": 6.175,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:49Z"
-      },
-      {
-        "rank": 6,
-        "platform": "hbo",
-        "content_type": "movie",
-        "title": "Na Companhia do Medo",
-        "original_title": "Gothika",
-        "year": 2003,
-        "tmdb_id": 4970,
-        "imdb_id": "tt0348836",
-        "poster_path": "/cwdbyY5y42LHxfXl8NcVq2gqv60.jpg",
-        "backdrop_path": "/eLBHPVQkJZyaSEUAGAFWNJJwmeo.jpg",
-        "logo_path": "/eSUNKq7peMRD2muAwu6XWnXLqIZ.png",
-        "overview": "Miranda Grey (Halle Berry) é uma conceituada psiquiatra criminal que, repentinamente, descobre estar internada na clínica para deficientes mentais em que trabalha. Miranda é acusada de ter assassinado seu marido, mas ela não se lembra de ter cometido o crime. Tentando recuperar sua memória, Miranda passa a desconfiar que esteja sendo usada por uma força sobrenatural, que esteja buscando vingança.",
-        "vote_average": 6.122,
-        "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:49Z"
+        "fetched_at": "2026-07-03T11:11:15Z"
       },
       {
         "rank": 7,
         "platform": "hbo",
         "content_type": "movie",
-        "title": "O Rei da Feira",
-        "original_title": "O Rei da Feira",
-        "year": 2025,
-        "tmdb_id": 1272845,
-        "imdb_id": "tt30795760",
-        "poster_path": "/ytdK03kYesKHtBHJvlCQjLNtMre.jpg",
-        "backdrop_path": "/8sNzFe3tGCIqmutH21N2d8Qhj6Y.jpg",
-        "logo_path": "/10fBSn4iuooXAimO2PEbNfrHAGD.png",
-        "overview": "Quando um feirante é misteriosamente assassinado, entra em cena Monarca, um detetive nada convencional que mistura seu faro investigativo com dons paranormais... e um certo talento para se meter em confusão. Ao lado do espírito tagarela da própria vítima, o Bode, ele vai encarar uma investigação cheia de barracos, fofocas e revelações no meio da feira mais agitada do Brasil.",
-        "vote_average": 4.5,
+        "title": "Kung Fu Panda",
+        "original_title": "Kung Fu Panda",
+        "year": 2008,
+        "tmdb_id": 9502,
+        "imdb_id": "tt0441773",
+        "poster_path": "/1YMs3zCt5kICK28RvVgDL1UUtkA.jpg",
+        "backdrop_path": "/qdthf9WrRDSaIkGVQGhhJ9pz1hn.jpg",
+        "logo_path": "/2JactuubqHeq17TQpxAzbVTA6A9.png",
+        "overview": "Po é um panda que trabalha na loja de macarrão da sua família e sonha em transformar-se em um mestre de kung fu. Seu sonho se torna realidade quando, inesperadamente, ele deve cumprir uma profecia antiga e estudar a arte marcial com seus ídolos, os Cinco Furiosos. Po precisa de toda a sabedoria, força e habilidade que conseguir reunir para proteger seu povo de um leopardo da neve malvado.",
+        "vote_average": 7.327,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:49Z"
+        "fetched_at": "2026-07-03T11:11:15Z"
       },
       {
         "rank": 8,
@@ -1174,41 +1168,41 @@
         "overview": "John Connor é o líder da resistência humana contra o domínio das máquinas, coordenadas pela Skynet e seu exército de exterminadores. Quando surge um homem chamado Marcus Wright, cuja última memória que possui é de estar no corredor da morte, Connor precisa descobrir se ele foi enviado do futuro ou resgatado do passado, ao mesmo tempo, em que a Skynet prepara seu ataque definitivo que pode aniquilar a humanidade.",
         "vote_average": 6.091,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:49Z"
+        "fetched_at": "2026-07-03T11:11:15Z"
       },
       {
         "rank": 9,
         "platform": "hbo",
         "content_type": "movie",
-        "title": "Um Cabra Bom de Bola",
-        "original_title": "GOAT",
-        "year": 2026,
-        "tmdb_id": 1297842,
-        "imdb_id": "tt27613895",
-        "poster_path": "/x0SRTrltSJi1iQiIAUpyvkxnr41.jpg",
-        "backdrop_path": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
-        "logo_path": "/e5HUaDHGUXCgEmblAhbwsegts5V.png",
-        "overview": "Uma pequena cabra com grandes sonhos recebe uma oportunidade única na vida de se juntar aos profissionais e jogar berrobol, um esporte de alta intensidade, misto e de contato total, dominado pelos animais mais rápidos e ferozes do mundo.",
-        "vote_average": 8.117,
+        "title": "O Rei da Feira",
+        "original_title": "O Rei da Feira",
+        "year": 2025,
+        "tmdb_id": 1272845,
+        "imdb_id": "tt30795760",
+        "poster_path": "/ytdK03kYesKHtBHJvlCQjLNtMre.jpg",
+        "backdrop_path": "/8sNzFe3tGCIqmutH21N2d8Qhj6Y.jpg",
+        "logo_path": "/10fBSn4iuooXAimO2PEbNfrHAGD.png",
+        "overview": "Quando um feirante é misteriosamente assassinado, entra em cena Monarca, um detetive nada convencional que mistura seu faro investigativo com dons paranormais... e um certo talento para se meter em confusão. Ao lado do espírito tagarela da própria vítima, o Bode, ele vai encarar uma investigação cheia de barracos, fofocas e revelações no meio da feira mais agitada do Brasil.",
+        "vote_average": 4.5,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:49Z"
+        "fetched_at": "2026-07-03T11:11:15Z"
       },
       {
         "rank": 10,
         "platform": "hbo",
         "content_type": "movie",
-        "title": "Jogos Letais",
-        "original_title": "Assassination Games",
-        "year": 2011,
-        "tmdb_id": 71677,
-        "imdb_id": "tt1436568",
-        "poster_path": "/ndfJ6JElIfXn3lCByLHkS359Lhw.jpg",
-        "backdrop_path": "/9GDHBrOowFg8op7UQpYGfwnuhbr.jpg",
-        "logo_path": "/2fTUPBP3fxevBShK4gxWhW1D8XH.png",
-        "overview": "Roland Flint e Vincent Brazil são os dois melhores assassinos do mundo, mas desconhecidos um do outro. Enquanto Flint é um atirador de elite mestre, Brazil também é habilidoso com uma faca. Esses dois assassinos rivais formam uma aliança para derrubar o chefe de um cartel de drogas, que é apoiado pela DEA.",
-        "vote_average": 6.351,
+        "title": "Na Companhia do Medo",
+        "original_title": "Gothika",
+        "year": 2003,
+        "tmdb_id": 4970,
+        "imdb_id": "tt0348836",
+        "poster_path": "/cwdbyY5y42LHxfXl8NcVq2gqv60.jpg",
+        "backdrop_path": "/eLBHPVQkJZyaSEUAGAFWNJJwmeo.jpg",
+        "logo_path": "/eSUNKq7peMRD2muAwu6XWnXLqIZ.png",
+        "overview": "Miranda Grey (Halle Berry) é uma conceituada psiquiatra criminal que, repentinamente, descobre estar internada na clínica para deficientes mentais em que trabalha. Miranda é acusada de ter assassinado seu marido, mas ela não se lembra de ter cometido o crime. Tentando recuperar sua memória, Miranda passa a desconfiar que esteja sendo usada por uma força sobrenatural, que esteja buscando vingança.",
+        "vote_average": 6.122,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:49Z"
+        "fetched_at": "2026-07-03T11:11:15Z"
       },
       {
         "rank": 1,
@@ -1225,7 +1219,7 @@
         "overview": "200 anos antes dos eventos de \"Game of Thrones\", os Targaryen estavam no ápice de seu poder, tendo inúmeros dragões sob seu comando, mas nem tudo dura para sempre. O início do fim da dinastia Targaryen.",
         "vote_average": 8.4,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:50Z"
+        "fetched_at": "2026-07-03T11:11:17Z"
       },
       {
         "rank": 2,
@@ -1242,7 +1236,7 @@
         "overview": "O brilhante cientista beberrão Rick sequestra Morty, seu neto aborrescente, para viver loucuras em outros mundos e dimensões alternativas.",
         "vote_average": 8.678,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:50Z"
+        "fetched_at": "2026-07-03T11:11:17Z"
       },
       {
         "rank": 3,
@@ -1259,7 +1253,7 @@
         "overview": "O maior reality de culinária do mundo traz os grandes cozinheiros amadores com mais de 60 anos que estão escondidos pelo Brasil.",
         "vote_average": 8.0,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:50Z"
+        "fetched_at": "2026-07-03T11:11:17Z"
       },
       {
         "rank": 4,
@@ -1276,7 +1270,7 @@
         "overview": "Competidores de todo o mundo disputam 200 mil dólares. Sete duplas de elite representam a Austrália, o Brasil, o México e os Estados Unidos.",
         "vote_average": 8.0,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:50Z"
+        "fetched_at": "2026-07-03T11:11:17Z"
       },
       {
         "rank": 5,
@@ -1293,7 +1287,7 @@
         "overview": "Espanha, 1913. Com o mundo à beira da guerra, o Palácio de La Promesa se torna o cenário de uma história de amor e vingança.",
         "vote_average": 8.119,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:50Z"
+        "fetched_at": "2026-07-03T11:11:17Z"
       },
       {
         "rank": 6,
@@ -1310,41 +1304,37 @@
         "overview": "Nesta história dramática de renascimento e empoderamento, Bahar, uma dona de casa e mãe que padece de uma doença grave, decide mudar sua vida e retoma a residência médica que teve de abandonar há 20 anos.",
         "vote_average": 6.2,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:50Z"
+        "fetched_at": "2026-07-03T11:11:17Z"
       },
       {
         "rank": 7,
         "platform": "hbo",
         "content_type": "series",
-        "title": "Duna: A Profecia",
-        "original_title": "Dune: Prophecy",
-        "year": 2024,
-        "tmdb_id": 90228,
-        "imdb_id": "tt10466872",
-        "poster_path": "/9kyqa103Ih22hT955ZaZdipAOAD.jpg",
-        "backdrop_path": "/lBoHzOgft2QfpjkVVvZCqeM4ttT.jpg",
-        "logo_path": "/gDkvlUKyf7gnlAxcqDSdnooeO9E.png",
-        "overview": "Dez mil anos antes da ascensão de Paul Atreides, as irmãs Valya e Tula Harkonnen estabeleceram a lendária seita e ordem feminina que se tornaria conhecida como Bene Gesserit para controlar o futuro da humanidade.",
-        "vote_average": 7.245,
+        "title": "Gilmore Girls: Tal Mãe, Tal Filha",
+        "original_title": "Gilmore Girls",
+        "year": 2000,
+        "tmdb_id": 4586,
+        "imdb_id": "tt0238784",
+        "poster_path": "/2PSVoTWWqJpUEkKcYsUwT1Yc0OV.jpg",
+        "backdrop_path": "/8U2ndZrneigI2zkvGuTJtt1ZsxK.jpg",
+        "logo_path": "/knLz8N6ADgqfRyfgFTFJIEYG3jM.png",
+        "overview": "Em uma pequena cidade que mistura sonhadores, artistas e pessoas comuns, este drama multigeracional sobre família e amizade gira em torno da relação de Lorelai Gilmore e sua filha, Rory.",
+        "vote_average": 7.888,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:50Z"
+        "fetched_at": "2026-07-03T11:11:17Z"
       },
       {
         "rank": 8,
         "platform": "hbo",
         "content_type": "series",
-        "title": "O Cavaleiro dos Sete Reinos",
-        "original_title": "A Knight of the Seven Kingdoms",
+        "title": "Operação Guerra Verde",
+        "original_title": "Operação Guerra Verde",
         "year": 2026,
-        "tmdb_id": 224372,
-        "imdb_id": "tt27497448",
-        "poster_path": "/whIZtYminSyVOwjxhjxYcOaCuBg.jpg",
-        "backdrop_path": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
-        "logo_path": "/tFvhSzZrwnbFCkTW4b9veeXfBj0.png",
-        "overview": "Ambientado em uma época em que a linhagem Targaryen ainda detém o Trono de Ferro e a memória do último dragão ainda não desapareceu da memória dos vivos, grandes destinos, inimigos poderosos e façanhas perigosas aguardam esses amigos improváveis ​​e incomparáveis.",
-        "vote_average": 8.452,
+        "tmdb_id": 319661,
+        "poster_path": "/owls79jn4a0FLy3xt092La1zrn7.jpg",
+        "overview": "A produção acompanha a atuação de agentes do Ibama (Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis) no combate ao crime ambiental em diversas regiões do Brasil, por terra, ar e mar.",
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:50Z"
+        "fetched_at": "2026-07-03T11:11:17Z"
       },
       {
         "rank": 9,
@@ -1361,7 +1351,7 @@
         "overview": "Conta a história de uma criança que foi sequestrada de uma família muito próxima e caiu nas ruas, e sua luta para se reinventar depois de anos retornando para casa.",
         "vote_average": 8.679,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:50Z"
+        "fetched_at": "2026-07-03T11:11:17Z"
       },
       {
         "rank": 10,
@@ -1378,7 +1368,7 @@
         "overview": "Na versão turca da série de sucesso The O.C., Yaman Koper é retirado das ruas de Tozludere pelo advogado Selim Serez e sua esposa, Ender.",
         "vote_average": 7.1,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:50Z"
+        "fetched_at": "2026-07-03T11:11:17Z"
       }
     ],
     "apple-tv": [
@@ -1397,7 +1387,7 @@
         "overview": "Laura e Simon são melhores amigos desde a faculdade. Ao longo dos anos, eles notaram que seu vínculo é mais do que platônico. Será que eles podem—e devem—arriscar tudo para explorar um amor de já tanto tempo?",
         "vote_average": 6.4,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:52Z"
+        "fetched_at": "2026-07-03T11:11:21Z"
       },
       {
         "rank": 2,
@@ -1412,9 +1402,9 @@
         "backdrop_path": "/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
         "logo_path": "/bx32mrMB4zjMyJOecU7eg57tBrB.png",
         "overview": "Sonny Hayes, a lenda do automobilismo, é persuadido a deixar a aposentadoria para liderar uma equipe de Fórmula 1 em dificuldades—e ser mentor de um jovem piloto famoso—enquanto busca mais uma oportunidade de glória.",
-        "vote_average": 7.808,
+        "vote_average": 7.807,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:52Z"
+        "fetched_at": "2026-07-03T11:11:21Z"
       },
       {
         "rank": 3,
@@ -1429,12 +1419,29 @@
         "backdrop_path": "/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
         "logo_path": "/kYXHvx5gyarrjyn0h2HcHwJjdsi.png",
         "overview": "Dois agentes altamente treinados se aproximam à distância após serem enviados para proteger lados opostos de um desfiladeiro misterioso. Quando um mal emerge, eles precisam trabalhar juntos para sobreviver ao que está lá dentro.",
-        "vote_average": 7.662,
+        "vote_average": 7.663,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:52Z"
+        "fetched_at": "2026-07-03T11:11:21Z"
       },
       {
         "rank": 4,
+        "platform": "apple-tv",
+        "content_type": "movie",
+        "title": "Eternidade",
+        "original_title": "Eternity",
+        "year": 2025,
+        "tmdb_id": 1259102,
+        "imdb_id": "tt24950660",
+        "poster_path": "/ogU6WEsb6NexwUIPorHcSnkvISx.jpg",
+        "backdrop_path": "/fuacZLpnohQtLD0AhtCErcPVL98.jpg",
+        "logo_path": "/mw4Dcx7h9SsaLHHVv9cHSI6jsAo.png",
+        "overview": "Numa vida após a morte, onde as almas têm uma semana para decidir onde passar a eternidade, Joan enfrenta a escolha impossível entre o homem com quem passou a vida e o seu primeiro amor, que morreu jovem e esperou décadas pela sua chegada.",
+        "vote_average": 7.074,
+        "source": "flixpatrol",
+        "fetched_at": "2026-07-03T11:11:21Z"
+      },
+      {
+        "rank": 5,
         "platform": "apple-tv",
         "content_type": "movie",
         "title": "Echo Valley",
@@ -1448,44 +1455,10 @@
         "overview": "Kate é uma mãe, cuja vida reclusa é interrompida pela filha problemática, que aparece assustada e coberta pelo sangue de alguém. À medida que Kate desvenda a verdade chocante, ela descobre até onde pode ir por sua filha.",
         "vote_average": 6.449,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:52Z"
-      },
-      {
-        "rank": 5,
-        "platform": "apple-tv",
-        "content_type": "movie",
-        "title": "Eternidade",
-        "original_title": "Eternity",
-        "year": 2025,
-        "tmdb_id": 1259102,
-        "imdb_id": "tt24950660",
-        "poster_path": "/ogU6WEsb6NexwUIPorHcSnkvISx.jpg",
-        "backdrop_path": "/fuacZLpnohQtLD0AhtCErcPVL98.jpg",
-        "logo_path": "/mw4Dcx7h9SsaLHHVv9cHSI6jsAo.png",
-        "overview": "Numa vida após a morte, onde as almas têm uma semana para decidir onde passar a eternidade, Joan enfrenta a escolha impossível entre o homem com quem passou a vida e o seu primeiro amor, que morreu jovem e esperou décadas pela sua chegada.",
-        "vote_average": 7.075,
-        "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:52Z"
+        "fetched_at": "2026-07-03T11:11:21Z"
       },
       {
         "rank": 6,
-        "platform": "apple-tv",
-        "content_type": "movie",
-        "title": "Consequência",
-        "original_title": "Outcome",
-        "year": 2026,
-        "tmdb_id": 1049471,
-        "imdb_id": "tt23724682",
-        "poster_path": "/dTQZwcItQNEeSjpk3BYKYg27v9t.jpg",
-        "backdrop_path": "/8KhqSWXExySkvEyCVvcbf4xxpqx.jpg",
-        "logo_path": "/irHNM9mQZovnAm4db2zrqoCieXf.png",
-        "overview": "Reef Hawk, o queridinho de Hollywood desde os seis anos, não está bem. Ao descobrir um plano de extorsão ligado a um vídeo misterioso, Reef decide embarcar em uma jornada de redenção para se retratar, confrontar seus demônios e evitar o cancelamento.",
-        "vote_average": 5.42,
-        "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:52Z"
-      },
-      {
-        "rank": 7,
         "platform": "apple-tv",
         "content_type": "movie",
         "title": "Lobos",
@@ -1499,7 +1472,24 @@
         "overview": "Dois solucionadores rivais se cruzam quando ambos são chamados para encobrir o erro de uma importante figura pública de Nova York. Durante uma noite conturbada, eles terão que deixar de lado suas diferenças e egos para concluir o serviço.",
         "vote_average": 6.547,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:52Z"
+        "fetched_at": "2026-07-03T11:11:21Z"
+      },
+      {
+        "rank": 7,
+        "platform": "apple-tv",
+        "content_type": "movie",
+        "title": "Consequência",
+        "original_title": "Outcome",
+        "year": 2026,
+        "tmdb_id": 1049471,
+        "imdb_id": "tt23724682",
+        "poster_path": "/dTQZwcItQNEeSjpk3BYKYg27v9t.jpg",
+        "backdrop_path": "/8KhqSWXExySkvEyCVvcbf4xxpqx.jpg",
+        "logo_path": "/irHNM9mQZovnAm4db2zrqoCieXf.png",
+        "overview": "Reef Hawk, o queridinho de Hollywood desde os seis anos, não está bem. Ao descobrir um plano de extorsão ligado a um vídeo misterioso, Reef decide embarcar em uma jornada de redenção para se retratar, confrontar seus demônios e evitar o cancelamento.",
+        "vote_average": 5.409,
+        "source": "flixpatrol",
+        "fetched_at": "2026-07-03T11:11:21Z"
       },
       {
         "rank": 8,
@@ -1516,27 +1506,10 @@
         "overview": "Um gênio da caça ao tesouro reúne uma equipe para uma aventura que pode mudar sua vida. Mas para enganar e fugir das ameaças a cada passo, ele precisará de alguém ainda mais inteligente do que ele: sua distante irmã.",
         "vote_average": 6.3,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:52Z"
+        "fetched_at": "2026-07-03T11:11:21Z"
       },
       {
         "rank": 9,
-        "platform": "apple-tv",
-        "content_type": "movie",
-        "title": "Sharper - Uma Vida de Trapaças",
-        "original_title": "Sharper",
-        "year": 2023,
-        "tmdb_id": 717980,
-        "imdb_id": "tt12573454",
-        "poster_path": "/nkvg5RbmDcLMfu5gfJHhMqdWBpK.jpg",
-        "backdrop_path": "/cG5QZHyIRJXqo53YA41gbNMlpIM.jpg",
-        "logo_path": "/6GWBJhoeLKHXY6AIWa1FuLNx6n4.png",
-        "overview": "Madeline é uma golpista envolvida em trapaças do mundo dos bilionários de Manhattan, nos Estados Unidos. Enquanto isso, Max é um especialista em complexos planos fraudulentos que costumam render muito dinheiro. Juntos eles viverão uma trama cheia de traições, roubos, conflitos familiares, manipulações e jogos cruéis de poder.",
-        "vote_average": 6.9,
-        "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:52Z"
-      },
-      {
-        "rank": 10,
         "platform": "apple-tv",
         "content_type": "movie",
         "title": "Finch",
@@ -1550,7 +1523,24 @@
         "overview": "Eu um mundo pós-apocalíptico, um robô construído para proteger o cachorro do seu criado, que está a beira da morte, aprende sobre a vida, amor e amizade, aprendendo o que significa ser humano.",
         "vote_average": 7.808,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:52Z"
+        "fetched_at": "2026-07-03T11:11:21Z"
+      },
+      {
+        "rank": 10,
+        "platform": "apple-tv",
+        "content_type": "movie",
+        "title": "Sharper - Uma Vida de Trapaças",
+        "original_title": "Sharper",
+        "year": 2023,
+        "tmdb_id": 717980,
+        "imdb_id": "tt12573454",
+        "poster_path": "/nkvg5RbmDcLMfu5gfJHhMqdWBpK.jpg",
+        "backdrop_path": "/cG5QZHyIRJXqo53YA41gbNMlpIM.jpg",
+        "logo_path": "/6GWBJhoeLKHXY6AIWa1FuLNx6n4.png",
+        "overview": "Madeline é uma golpista envolvida em trapaças do mundo dos bilionários de Manhattan, nos Estados Unidos. Enquanto isso, Max é um especialista em complexos planos fraudulentos que costumam render muito dinheiro. Juntos eles viverão uma trama cheia de traições, roubos, conflitos familiares, manipulações e jogos cruéis de poder.",
+        "vote_average": 6.9,
+        "source": "flixpatrol",
+        "fetched_at": "2026-07-03T11:11:21Z"
       },
       {
         "rank": 1,
@@ -1565,12 +1555,29 @@
         "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
         "logo_path": "/sII76fRFZY3vWkO5WIVj1kk40H8.png",
         "overview": "Um prefeito da Nova Inglaterra, tentando impulsionar o turismo, precisa lidar com estranhos acontecimentos que sugerem que sua ilha pode estar amaldiçoada.",
-        "vote_average": 8.233,
+        "vote_average": 8.229,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:53Z"
+        "fetched_at": "2026-07-03T11:11:23Z"
       },
       {
         "rank": 2,
+        "platform": "apple-tv",
+        "content_type": "series",
+        "title": "Silo",
+        "original_title": "Silo",
+        "year": 2023,
+        "tmdb_id": 125988,
+        "imdb_id": "tt14688458",
+        "poster_path": "/n1mtrn5NpyzToGvaPJMtNipejQz.jpg",
+        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "logo_path": "/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
+        "overview": "Em um futuro destruído e tóxico, existe uma comunidade que vive dentro de um gigantesco silo subterrâneo com centenas de andares de profundidade. Lá, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para protegê-los.",
+        "vote_average": 8.165,
+        "source": "flixpatrol",
+        "fetched_at": "2026-07-03T11:11:23Z"
+      },
+      {
+        "rank": 3,
         "platform": "apple-tv",
         "content_type": "series",
         "title": "Cabo do Medo",
@@ -1584,24 +1591,7 @@
         "overview": "Uma tempestade se aproxima para o casal feliz de advogados Anna e Tom Bowden quando Max Cady, o notório assassino que eles ajudaram a colocar atrás das grades, é libertado da prisão e busca vingança.",
         "vote_average": 6.9,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:53Z"
-      },
-      {
-        "rank": 3,
-        "platform": "apple-tv",
-        "content_type": "series",
-        "title": "Prazer Máximo Garantido",
-        "original_title": "Maximum Pleasure Guaranteed",
-        "year": 2026,
-        "tmdb_id": 285404,
-        "imdb_id": "tt35946742",
-        "poster_path": "/b5mDbXQoTs6SPjbBjoWfvWOpGhc.jpg",
-        "backdrop_path": "/9mZlvYlGA4jblCvAvOpinrgn6hr.jpg",
-        "logo_path": "/m2EKhwuk6zsyPHGAnxweSc3IgDs.png",
-        "overview": "Uma mãe recém-separada fica desnorteada em meio a chantagem, assassinato e futebol juvenil.",
-        "vote_average": 5.64,
-        "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:53Z"
+        "fetched_at": "2026-07-03T11:11:23Z"
       },
       {
         "rank": 4,
@@ -1616,29 +1606,12 @@
         "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
         "logo_path": "/ryhMu4I4FOxUnZgjF8ywv1qJnKo.png",
         "overview": "Quando o titã das finanças de repente se descobre divorciado e desempregado, ele começa a roubar de seus vizinhos ricos para manter seu padrão de vida. Roubar de seu círculo social estranhamente o estimula—mas ele gradualmente se envolve numa trama mortal.",
-        "vote_average": 7.8,
+        "vote_average": 7.762,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:53Z"
+        "fetched_at": "2026-07-03T11:11:23Z"
       },
       {
         "rank": 5,
-        "platform": "apple-tv",
-        "content_type": "series",
-        "title": "Silo",
-        "original_title": "Silo",
-        "year": 2023,
-        "tmdb_id": 125988,
-        "imdb_id": "tt14688458",
-        "poster_path": "/n1mtrn5NpyzToGvaPJMtNipejQz.jpg",
-        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "logo_path": "/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
-        "overview": "Em um futuro destruído e tóxico, existe uma comunidade que vive dentro de um gigantesco silo subterrâneo com centenas de andares de profundidade. Lá, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para protegê-los.",
-        "vote_average": 8.165,
-        "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:53Z"
-      },
-      {
-        "rank": 6,
         "platform": "apple-tv",
         "content_type": "series",
         "title": "Sugar",
@@ -1650,9 +1623,26 @@
         "backdrop_path": "/1TD4RxJsHkFbkJtWgoVRzQf9STd.jpg",
         "logo_path": "/5RK1xYHGELAkLRkjcwJrCHomJSp.png",
         "overview": "John Sugar é um charmoso detetive particular que percorre cantos sombrios da ensolarada LA. Embora enxergue apenas o lado bom da humanidade, Sugar é assombrado por um segredo perigoso demais para revelar.",
-        "vote_average": 7.194,
+        "vote_average": 7.174,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:53Z"
+        "fetched_at": "2026-07-03T11:11:23Z"
+      },
+      {
+        "rank": 6,
+        "platform": "apple-tv",
+        "content_type": "series",
+        "title": "Prazer Máximo Garantido",
+        "original_title": "Maximum Pleasure Guaranteed",
+        "year": 2026,
+        "tmdb_id": 285404,
+        "imdb_id": "tt35946742",
+        "poster_path": "/b5mDbXQoTs6SPjbBjoWfvWOpGhc.jpg",
+        "backdrop_path": "/9mZlvYlGA4jblCvAvOpinrgn6hr.jpg",
+        "logo_path": "/m2EKhwuk6zsyPHGAnxweSc3IgDs.png",
+        "overview": "Uma mãe recém-separada fica desnorteada em meio a chantagem, assassinato e futebol juvenil.",
+        "vote_average": 5.64,
+        "source": "flixpatrol",
+        "fetched_at": "2026-07-03T11:11:23Z"
       },
       {
         "rank": 7,
@@ -1667,9 +1657,9 @@
         "backdrop_path": "/gEQkOMmnJcoh9Hh1vk7fpVYnksR.jpg",
         "logo_path": "/iNudegFbTBAGBB529k7wGVivqE4.png",
         "overview": "Ted Lasso, um técnico de futebol americano que se muda para a Inglaterra para treinar um time de futebol, apesar da falta de experiência. Com jogadores e cidade desconfiados, será que ele vai conseguir conquistá-los?",
-        "vote_average": 8.343,
+        "vote_average": 8.345,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:53Z"
+        "fetched_at": "2026-07-03T11:11:23Z"
       },
       {
         "rank": 8,
@@ -1684,9 +1674,9 @@
         "backdrop_path": "/9OQ5BIITkJwRJo9JA6AlCfJIGBQ.jpg",
         "logo_path": "/w9yzvEfe3Sy9W0PZgBRLAsktOol.png",
         "overview": "Imagine um mundo em que a corrida espacial global nunca chegou ao fim. Essa série dramática de Ronald D. Moore é contada através das vidas dos astronautas da NASA e de suas famílias.",
-        "vote_average": 7.747,
+        "vote_average": 7.749,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:53Z"
+        "fetched_at": "2026-07-03T11:11:23Z"
       },
       {
         "rank": 9,
@@ -1701,9 +1691,9 @@
         "backdrop_path": "/ixgFmf1X59PUZam2qbAfskx2gQr.jpg",
         "logo_path": "/l1jQCXRyQenWqtJhRBrvUgQJLar.png",
         "overview": "Mark lidera uma equipe de funcionários de escritório cujas memórias foram divididas cirurgicamente entre a vida no trabalho e a vida pessoal. Quando um colega de trabalho misterioso aparece fora do escritório, ele começa uma jornada para descobrir a verdade sobre seu trabalho.",
-        "vote_average": 8.396,
+        "vote_average": 8.397,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:53Z"
+        "fetched_at": "2026-07-03T11:11:23Z"
       },
       {
         "rank": 10,
@@ -1718,9 +1708,9 @@
         "backdrop_path": "/hI9z1UuNhBthvkm3iJ8m3zv43Pf.jpg",
         "logo_path": "/wJ2kVqmlS876ORMGv4HUphLAJsj.png",
         "overview": "Jimmy luta para lidar com a perda da esposa enquanto tenta ser pai, amigo e terapeuta. Ele decide adotar uma nova postura com todos ao seu redor: ser brutalmente sincero e sem filtros. Será que isso vai melhorar as coisas ou desencadear um caos total?",
-        "vote_average": 7.832,
+        "vote_average": 7.838,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:53Z"
+        "fetched_at": "2026-07-03T11:11:23Z"
       }
     ],
     "paramount": [
@@ -1739,7 +1729,7 @@
         "overview": "A universitária Lucy vai passar férias em casa com a família e aproveita a ausência do pai para organizar uma festa na piscina. Durante o evento, seu chimpanzé de estimação surge irreconhecível e agressivo, contaminado com raiva, forçando o grupo a buscar algum jeito de escapar da fúria do animal.",
         "vote_average": 6.535,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:56Z"
+        "fetched_at": "2026-07-03T11:11:27Z"
       },
       {
         "rank": 2,
@@ -1756,27 +1746,10 @@
         "overview": "Um empreiteiro quer expulsar uma idosa... sem saber que ela é uma assassina treinada que fará de tudo para proteger sua casa.",
         "vote_average": 7.936,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:56Z"
+        "fetched_at": "2026-07-03T11:11:27Z"
       },
       {
         "rank": 3,
-        "platform": "paramount",
-        "content_type": "movie",
-        "title": "Projeto Internato",
-        "original_title": "The Internship",
-        "year": 2026,
-        "tmdb_id": 1584215,
-        "imdb_id": "tt38238651",
-        "poster_path": "/7Fpse7kK9AmNYHczkhQs2aQ7mUS.jpg",
-        "backdrop_path": "/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg",
-        "logo_path": "/nTGW7x8BpQNk6QeqBHCj7bc37OV.png",
-        "overview": "Uma assassina treinada pela CIA recruta outros graduados de seu programa secreto de infância, conhecido como “O Estágio”, para destruir violentamente a própria organização. Em resposta, a CIA reage com força letal.",
-        "vote_average": 6.802,
-        "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:56Z"
-      },
-      {
-        "rank": 4,
         "platform": "paramount",
         "content_type": "movie",
         "title": "Top Gun: Maverick",
@@ -1790,24 +1763,41 @@
         "overview": "Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete \"Maverick\" Mitchell está de volta, rompendo os limites como um piloto de testes corajoso. No mundo contemporâneo das guerras tecnológicas, Maverick enfrenta drones e prova que o fator humano ainda é essencial.",
         "vote_average": 8.159,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:56Z"
+        "fetched_at": "2026-07-03T11:11:27Z"
+      },
+      {
+        "rank": 4,
+        "platform": "paramount",
+        "content_type": "movie",
+        "title": "High Ground: Cerco Fechado",
+        "original_title": "High Ground",
+        "year": 2025,
+        "tmdb_id": 1433719,
+        "imdb_id": "tt35669717",
+        "poster_path": "/7aEZwHKgvwhZDKICnS9AJqDJUbb.jpg",
+        "backdrop_path": "/kyp7PSCKPZKGosthRbjfXPm8gJg.jpg",
+        "logo_path": "/sHJTdaQq5I5ieXUsASGzf3rOIya.png",
+        "overview": "Quando um misterioso prisioneiro chega à sua prisão, um xerife de uma cidade fronteiriça enfrenta a ira de um cartel brutal neste thriller repleto de ação.",
+        "vote_average": 6.021,
+        "source": "flixpatrol",
+        "fetched_at": "2026-07-03T11:11:27Z"
       },
       {
         "rank": 5,
         "platform": "paramount",
         "content_type": "movie",
-        "title": "Se Não Fosse Você",
-        "original_title": "Regretting You",
-        "year": 2025,
-        "tmdb_id": 1327862,
-        "imdb_id": "tt33088452",
-        "poster_path": "/7n4tE1SFIeyWiO9o5Q2DTvHA95t.jpg",
-        "backdrop_path": "/m3WlBJJRbFPaut1QS0PbOG8Wezy.jpg",
-        "logo_path": "/3vcRI2pfrFwtwUhON5uYNWQ9a5U.png",
-        "overview": "Morgan Grant e sua filha Clara precisam lidar com o que ficou após um acidente devastador revelar uma traição chocante e forçá-las a confrontar segredos da família, redefinir o amor e se redescobrir.",
-        "vote_average": 7.015,
+        "title": "Projeto Internato",
+        "original_title": "The Internship",
+        "year": 2026,
+        "tmdb_id": 1584215,
+        "imdb_id": "tt38238651",
+        "poster_path": "/7Fpse7kK9AmNYHczkhQs2aQ7mUS.jpg",
+        "backdrop_path": "/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg",
+        "logo_path": "/nTGW7x8BpQNk6QeqBHCj7bc37OV.png",
+        "overview": "Uma assassina treinada pela CIA recruta outros graduados de seu programa secreto de infância, conhecido como “O Estágio”, para destruir violentamente a própria organização. Em resposta, a CIA reage com força letal.",
+        "vote_average": 6.802,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:56Z"
+        "fetched_at": "2026-07-03T11:11:27Z"
       },
       {
         "rank": 6,
@@ -1824,44 +1814,27 @@
         "overview": "Em um futuro próximo, \"O Sobrevivente\" é o show de maior audiência na televisão – uma competição mortal onde os participantes precisam sobreviver 30 dias enquanto são caçados por assassinos profissionais. Cada passo é transmitido a um público sedento por sangue e cada dia sobrevivido aumenta o prêmio em dinheiro para o vencedor.",
         "vote_average": 6.777,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:56Z"
+        "fetched_at": "2026-07-03T11:11:27Z"
       },
       {
         "rank": 7,
         "platform": "paramount",
         "content_type": "movie",
-        "title": "High Ground: Cerco Fechado",
-        "original_title": "High Ground",
+        "title": "Se Não Fosse Você",
+        "original_title": "Regretting You",
         "year": 2025,
-        "tmdb_id": 1433719,
-        "imdb_id": "tt35669717",
-        "poster_path": "/7aEZwHKgvwhZDKICnS9AJqDJUbb.jpg",
-        "backdrop_path": "/kyp7PSCKPZKGosthRbjfXPm8gJg.jpg",
-        "logo_path": "/sHJTdaQq5I5ieXUsASGzf3rOIya.png",
-        "overview": "Quando um misterioso prisioneiro chega à sua prisão, um xerife de uma cidade fronteiriça enfrenta a ira de um cartel brutal neste thriller repleto de ação.",
-        "vote_average": 6.021,
+        "tmdb_id": 1327862,
+        "imdb_id": "tt33088452",
+        "poster_path": "/7n4tE1SFIeyWiO9o5Q2DTvHA95t.jpg",
+        "backdrop_path": "/m3WlBJJRbFPaut1QS0PbOG8Wezy.jpg",
+        "logo_path": "/3vcRI2pfrFwtwUhON5uYNWQ9a5U.png",
+        "overview": "Morgan Grant e sua filha Clara precisam lidar com o que ficou após um acidente devastador revelar uma traição chocante e forçá-las a confrontar segredos da família, redefinir o amor e se redescobrir.",
+        "vote_average": 7.0,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:56Z"
+        "fetched_at": "2026-07-03T11:11:27Z"
       },
       {
         "rank": 8,
-        "platform": "paramount",
-        "content_type": "movie",
-        "title": "Todo Mundo em Pânico",
-        "original_title": "Scary Movie",
-        "year": 2026,
-        "tmdb_id": 1273221,
-        "imdb_id": "tt32093575",
-        "poster_path": "/97lWamoj4RSBjBHXFmliQbPs06K.jpg",
-        "backdrop_path": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
-        "logo_path": "/tnZuWWlPkYqeLpZxnUFt8XzCDbV.png",
-        "overview": "Vinte e seis anos depois de escaparem de um assassino mascarado suspeitosamente familiar, o Quarteto Fantástico está de volta à mira do criminoso, e nenhuma propriedade intelectual de filmes de terror está a salvo.",
-        "vote_average": 5.441,
-        "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:56Z"
-      },
-      {
-        "rank": 9,
         "platform": "paramount",
         "content_type": "movie",
         "title": "Jogo Assassino",
@@ -1875,44 +1848,44 @@
         "overview": "Uma força-tarefa da polícia prende um predador online, apenas para descobrir que a profundidade de seus crimes vai muito além do que eles haviam previsto.",
         "vote_average": 6.584,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:56Z"
+        "fetched_at": "2026-07-03T11:11:27Z"
+      },
+      {
+        "rank": 9,
+        "platform": "paramount",
+        "content_type": "movie",
+        "title": "Todo Mundo em Pânico 3",
+        "original_title": "Scary Movie 3",
+        "year": 2003,
+        "tmdb_id": 4256,
+        "imdb_id": "tt0306047",
+        "poster_path": "/y14q7jWS0vH8ZuWPS1v8t8qCmBO.jpg",
+        "backdrop_path": "/nF74HKjNe7X54XMcIc7ulK5InxR.jpg",
+        "logo_path": "/qmcXiVy9TvRZVLu8Zdh26VR6cVT.png",
+        "overview": "Tudo começa quando a apresentadora de telejornal Cindy Campbell descobre uma série de terríveis acontecimentos que ameaçam o planeta, envolvendo invasores extraterrestres, vídeos assassinos, assustadores círculos de plantações, profecias sobre o Escolhido, crianças com olhares sinistros, rappers brancos ambiciosos e até mesmo uma discussão com Michael Jackson.",
+        "vote_average": 5.976,
+        "source": "flixpatrol",
+        "fetched_at": "2026-07-03T11:11:27Z"
       },
       {
         "rank": 10,
         "platform": "paramount",
         "content_type": "movie",
-        "title": "Guerra Mundial Z",
-        "original_title": "World War Z",
-        "year": 2013,
-        "tmdb_id": 72190,
-        "imdb_id": "tt0816711",
-        "poster_path": "/2Sdz5gGrwN92pRanlJKeUqkIjRk.jpg",
-        "backdrop_path": "/kg2FOT2Oe5PSCgs3L4vLel6B7ck.jpg",
-        "logo_path": "/kK4dDY91tjR83eYV9ewLdJdr4lq.png",
-        "overview": "Um vírus letal se espalha rapidamente e transforma seres humanos em zumbis. O ex-agente da ONU Gerry Lane é chamado para investigar a epidemia que está acabando com a humanidade, iniciando uma verdadeira corrida contra o tempo.",
-        "vote_average": 6.84,
+        "title": "Todo Mundo em Pânico 2",
+        "original_title": "Scary Movie 2",
+        "year": 2001,
+        "tmdb_id": 4248,
+        "imdb_id": "tt0257106",
+        "poster_path": "/549UoU38uoikbqgXG09rkkfIEWf.jpg",
+        "backdrop_path": "/cjSB3ZjaMpaa9oHFyeYha3KG0mp.jpg",
+        "logo_path": "/8t6ylOOLntfl3bZT2zdf6hcBo6j.png",
+        "overview": "Brincando com o terror, o professor Oldman e Dwight seu assistente, preparam um final de semana hilariante e super especial. Um experiência sobre exorcismo, onde Cindy e \"aquele\" grupo de jovens malucos e assustados deverão ficar sem dormir. A incrível arapuca terá lugar na \"Casa do Inferno\", um casarão mal-assombrado afastado da cidade, e onde não falta nem o repulsivo mordono sempre presente nas melhores histórias de terror. Como alvos desta comédia escrachada, encontramos \"O Exorcista\", \"Poltergeist\", \"A Casa da Colina\", \"Revelação\" e até mesmo \"As Panteras\" e \"Missão Impossível 2\". Agora muito mais engraçado. Imperdível!",
+        "vote_average": 5.839,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:56Z"
+        "fetched_at": "2026-07-03T11:11:27Z"
       },
       {
         "rank": 1,
-        "platform": "paramount",
-        "content_type": "series",
-        "title": "Rancho Dutton",
-        "original_title": "Dutton Ranch",
-        "year": 2026,
-        "tmdb_id": 299167,
-        "imdb_id": "tt34991493",
-        "poster_path": "/aJVroxZZKReiSlASpODQ23qrdGa.jpg",
-        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-        "logo_path": "/wQ7FFixqLXD2aOqtoiawyz7IbVx.png",
-        "overview": "Rip Wheeler e Beth Dutton apostam tudo em uma nova vida no sul do Texas, mas a promessa de construir um futuro longe dos fantasmas de Yellowstone rapidamente se choca com novas e brutais realidades e com um rancho rival que não medirá esforços para proteger seu império.",
-        "vote_average": 9.3,
-        "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:57Z"
-      },
-      {
-        "rank": 2,
         "platform": "paramount",
         "content_type": "series",
         "title": "De Férias com o Ex Diretoria",
@@ -1926,10 +1899,44 @@
         "overview": "O plano das férias perfeitas de 12 solteiros se transforma num verdadeiro caos quando o tablet do terror revela que seus ex-parceiros ganharam um passaporte para assombrar suas vidas. Eles vêm dispostos a curtir, se meter em confusão e muita pegação.",
         "vote_average": 5.0,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:57Z"
+        "fetched_at": "2026-07-03T11:11:29Z"
+      },
+      {
+        "rank": 2,
+        "platform": "paramount",
+        "content_type": "series",
+        "title": "Rancho Dutton",
+        "original_title": "Dutton Ranch",
+        "year": 2026,
+        "tmdb_id": 299167,
+        "imdb_id": "tt34991493",
+        "poster_path": "/aJVroxZZKReiSlASpODQ23qrdGa.jpg",
+        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+        "logo_path": "/wQ7FFixqLXD2aOqtoiawyz7IbVx.png",
+        "overview": "Rip Wheeler e Beth Dutton apostam tudo em uma nova vida no sul do Texas, mas a promessa de construir um futuro longe dos fantasmas de Yellowstone rapidamente se choca com novas e brutais realidades e com um rancho rival que não medirá esforços para proteger seu império.",
+        "vote_average": 9.271,
+        "source": "flixpatrol",
+        "fetched_at": "2026-07-03T11:11:29Z"
       },
       {
         "rank": 3,
+        "platform": "paramount",
+        "content_type": "series",
+        "title": "Yellowstone",
+        "original_title": "Yellowstone",
+        "year": 2018,
+        "tmdb_id": 73586,
+        "imdb_id": "tt4236770",
+        "poster_path": "/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+        "backdrop_path": "/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
+        "logo_path": "/s1AS1ivDsv4CwRrPE7BdSOxlLM9.png",
+        "overview": "John Dutton tenta proteger seu rancho, o maior dos Estados Unidos, de um mundo corrupto.",
+        "vote_average": 8.269,
+        "source": "flixpatrol",
+        "fetched_at": "2026-07-03T11:11:29Z"
+      },
+      {
+        "rank": 4,
         "platform": "paramount",
         "content_type": "series",
         "title": "A Agência",
@@ -1943,44 +1950,10 @@
         "overview": "Martian é um agente da CIA forçado a abandonar sua vida secreta e voltar para Londres. Lá, ele precisa lidar com um antigo amor que reaparece, reacendendo sentimentos e dilemas.",
         "vote_average": 7.1,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:57Z"
-      },
-      {
-        "rank": 4,
-        "platform": "paramount",
-        "content_type": "series",
-        "title": "Yellowstone",
-        "original_title": "Yellowstone",
-        "year": 2018,
-        "tmdb_id": 73586,
-        "imdb_id": "tt4236770",
-        "poster_path": "/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
-        "backdrop_path": "/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
-        "logo_path": "/s1AS1ivDsv4CwRrPE7BdSOxlLM9.png",
-        "overview": "John Dutton tenta proteger seu rancho, o maior dos Estados Unidos, de um mundo corrupto.",
-        "vote_average": 8.3,
-        "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:57Z"
+        "fetched_at": "2026-07-03T11:11:29Z"
       },
       {
         "rank": 5,
-        "platform": "paramount",
-        "content_type": "series",
-        "title": "Mentes Criminosas",
-        "original_title": "Criminal Minds",
-        "year": 2005,
-        "tmdb_id": 4057,
-        "imdb_id": "tt0452046",
-        "poster_path": "/trZTeHWcWDn6adkBBuSwfIhxAJn.jpg",
-        "backdrop_path": "/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
-        "logo_path": "/9VC9UnI0boUygE4AofkzmvocEbh.png",
-        "overview": "Um esquadrão de elite do FBI estuda as maiores mentes criminosas, antecipando seus próximos passos, antes que eles ataquem novamente. A fim de identificar as motivações dos criminosos e detê-los, cada membro da equipe usa a experiência que possui.",
-        "vote_average": 8.303,
-        "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:57Z"
-      },
-      {
-        "rank": 6,
         "platform": "paramount",
         "content_type": "series",
         "title": "South Park",
@@ -1994,10 +1967,10 @@
         "overview": "Série animada que satiriza com muito humor negro a sociedade estadounidense ao apresentar situações bizarras e surreais protagonizadas por Stan, Kyle, Eric e Kenny, as crianças mais travessas de South Park.",
         "vote_average": 8.34,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:57Z"
+        "fetched_at": "2026-07-03T11:11:29Z"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "platform": "paramount",
         "content_type": "series",
         "title": "Dexter",
@@ -2009,12 +1982,12 @@
         "backdrop_path": "/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
         "logo_path": "/rwjo9lVSmBJkZtHgyNfsYMHYBL4.png",
         "overview": "Renomado funcionário da Polícia de Miami, Dexter esconde de todos uma segunda identidade: ele é um assassino em série que mata os criminosos que a polícia não consegue prender.",
-        "vote_average": 8.238,
+        "vote_average": 8.239,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:57Z"
+        "fetched_at": "2026-07-03T11:11:29Z"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "platform": "paramount",
         "content_type": "series",
         "title": "CSI: Investigação Criminal",
@@ -2028,10 +2001,10 @@
         "overview": "Um dedicado grupo de investigadores forenses em um laboratório criminal de Las Vegas se empenha para resolver crimes quase sempre macabros. Trabalhando no turno da noite está o supervisor D.B. Russell, um verdadeiro Sherlock Holmes que devora livros de mistério e assassinatos. Os integrantes da equipe de Russell incluem Catherine Willows, Nick Stokes, Sara Sidle, Greg Sanders e Morgan Brody. O time trabalha de perto com o capitão Jim Brass, um detetive experiente. Entre os chefes anteriores do grupo estão Gus Grissom e o Dr. Raymond Langston.",
         "vote_average": 7.6,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:57Z"
+        "fetched_at": "2026-07-03T11:11:29Z"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "platform": "paramount",
         "content_type": "series",
         "title": "Tulsa King",
@@ -2045,46 +2018,46 @@
         "overview": "Depois de cumprir 25 anos de prisão, Dwight Manfredi é exilado sem cerimônia por seu chefe da máfia para se estabelecer em Oklahoma. Dwight lentamente constrói um novo império criminoso em Tulsa.",
         "vote_average": 8.295,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:57Z"
+        "fetched_at": "2026-07-03T11:11:29Z"
+      },
+      {
+        "rank": 9,
+        "platform": "paramount",
+        "content_type": "series",
+        "title": "Mentes Criminosas",
+        "original_title": "Criminal Minds",
+        "year": 2005,
+        "tmdb_id": 4057,
+        "imdb_id": "tt0452046",
+        "poster_path": "/trZTeHWcWDn6adkBBuSwfIhxAJn.jpg",
+        "backdrop_path": "/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
+        "logo_path": "/9VC9UnI0boUygE4AofkzmvocEbh.png",
+        "overview": "Um esquadrão de elite do FBI estuda as maiores mentes criminosas, antecipando seus próximos passos, antes que eles ataquem novamente. A fim de identificar as motivações dos criminosos e detê-los, cada membro da equipe usa a experiência que possui.",
+        "vote_average": 8.303,
+        "source": "flixpatrol",
+        "fetched_at": "2026-07-03T11:11:29Z"
       },
       {
         "rank": 10,
         "platform": "paramount",
         "content_type": "series",
-        "title": "NCIS: Investigação Naval",
-        "original_title": "NCIS",
-        "year": 2003,
-        "tmdb_id": 4614,
-        "imdb_id": "tt0364845",
-        "poster_path": "/abjNx4jqvaJn5UvsuLaBVRVndyJ.jpg",
-        "backdrop_path": "/nn3SuLTO4hum8yAxaY4ql8h6kRk.jpg",
-        "logo_path": "/lrK7KGhdytsZGAggPU2N6fPMv4y.png",
-        "overview": "Sob o exemplar comando de Leroy Jethro Gibbs, uma equipe de agentes especiais investiga crimes relacionados com a Marinha dos Estados Unidos.",
-        "vote_average": 7.618,
+        "title": "De Férias com o Ex Diretoria",
+        "original_title": "De Férias com o Ex Diretoria",
+        "year": 2024,
+        "tmdb_id": 238597,
+        "imdb_id": "tt29730536",
+        "poster_path": "/p7heZ4EBKqcXHjkPbeiv9uDlunC.jpg",
+        "backdrop_path": "/yBkhVXPxoQvjjeajiy9vpI7Oo9U.jpg",
+        "logo_path": "/sKrDNBFtfpp7k0H5NzM4W32YcEt.png",
+        "overview": "O plano das férias perfeitas de 12 solteiros se transforma num verdadeiro caos quando o tablet do terror revela que seus ex-parceiros ganharam um passaporte para assombrar suas vidas. Eles vêm dispostos a curtir, se meter em confusão e muita pegação.",
+        "vote_average": 5.0,
         "source": "flixpatrol",
-        "fetched_at": "2026-07-02T11:28:57Z"
+        "fetched_at": "2026-07-03T11:11:29Z"
       }
     ],
     "_animes": [
       {
         "rank": 1,
-        "platform": "crunchyroll",
-        "content_type": "series",
-        "title": "Jujutsu Kaisen",
-        "original_title": "呪術廻戦",
-        "year": 2020,
-        "tmdb_id": 95479,
-        "imdb_id": "tt12343534",
-        "poster_path": "/8R1mMSC1gX1cg5ed7ns49JOEqw3.jpg",
-        "backdrop_path": "/lthkKBLe1rX6iThgVFg22O02sJw.jpg",
-        "logo_path": "/2HJI1oFVjbMaMWMqqGLtdGck3JN.png",
-        "overview": "Sofrimento, arrependimento, vergonha: os sentimentos negativos dos humanos tornam-se Maldições, causando terríveis acidentes que podem levar até mesmo à morte. E pra piorar, Maldições só podem ser exorcizadas por outras Maldições. Certo dia, para salvar amigos que estavam sendo atacados por Maldições, Yuji Itadori engole o dedo do Ryomen-Sukuna, absorvendo sua Maldição. Ele então decide se matricular no Colégio Técnico de Feitiçaria de Tóquio, uma organização que combate as Maldições... e assim começa a heróica lenda do garoto que tornou-se uma Maldição para exorcizar uma Maldição.",
-        "vote_average": 8.577,
-        "source": "tmdb",
-        "fetched_at": "2026-07-02T11:28:58Z"
-      },
-      {
-        "rank": 2,
         "platform": "crunchyroll",
         "content_type": "series",
         "title": "Renegade Immortal",
@@ -2097,7 +2070,24 @@
         "overview": "Conta a história de Wang Lin, um jovem comum do interior, que é movido pelo coração e cultiva contra a imortalidade. Sua busca não é apenas pela longevidade, mas também por se livrar das formigas que estão por trás dela. Ele acreditava firmemente nos seres humanos e iniciou o caminho do cultivo com qualificações medíocres. Depois de passar por altos e baixos, com sua mente sábia, ele gradualmente alcançou o auge e tornou-se famoso no mundo do cultivo com sua própria força.",
         "vote_average": 8.4,
         "source": "tmdb",
-        "fetched_at": "2026-07-02T11:28:58Z"
+        "fetched_at": "2026-07-03T11:11:31Z"
+      },
+      {
+        "rank": 2,
+        "platform": "crunchyroll",
+        "content_type": "series",
+        "title": "Jujutsu Kaisen",
+        "original_title": "呪術廻戦",
+        "year": 2020,
+        "tmdb_id": 95479,
+        "imdb_id": "tt12343534",
+        "poster_path": "/8R1mMSC1gX1cg5ed7ns49JOEqw3.jpg",
+        "backdrop_path": "/lthkKBLe1rX6iThgVFg22O02sJw.jpg",
+        "logo_path": "/2HJI1oFVjbMaMWMqqGLtdGck3JN.png",
+        "overview": "Sofrimento, arrependimento, vergonha: os sentimentos negativos dos humanos tornam-se Maldições, causando terríveis acidentes que podem levar até mesmo à morte. E pra piorar, Maldições só podem ser exorcizadas por outras Maldições. Certo dia, para salvar amigos que estavam sendo atacados por Maldições, Yuji Itadori engole o dedo do Ryomen-Sukuna, absorvendo sua Maldição. Ele então decide se matricular no Colégio Técnico de Feitiçaria de Tóquio, uma organização que combate as Maldições... e assim começa a heróica lenda do garoto que tornou-se uma Maldição para exorcizar uma Maldição.",
+        "vote_average": 8.578,
+        "source": "tmdb",
+        "fetched_at": "2026-07-03T11:11:31Z"
       },
       {
         "rank": 3,
@@ -2114,7 +2104,7 @@
         "overview": "Sofrendo com a vida em sociedade, o estudante Michio Kaga decide mergulhar pela internet, quando encontra um estranho website. Com uma série de perguntas e um sistema de pontos, essa página permite que o usuário crie um personagens com habilidades e poderes. Ao terminar de montar seu personagem, Kaga é transportado para o mundo de um videogame de fantasia, renascido como um poderoso guerreiro capaz de seduzir garotas tão bonitas quanto atrizes famosas! Assim começa a lenda do homem que usa trapaças para montar seu próprio harém!",
         "vote_average": 7.3,
         "source": "tmdb",
-        "fetched_at": "2026-07-02T11:28:58Z"
+        "fetched_at": "2026-07-03T11:11:31Z"
       },
       {
         "rank": 4,
@@ -2129,9 +2119,9 @@
         "backdrop_path": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
         "logo_path": "/8hKunCjzL8jfiturHHZfRPfdaLA.png",
         "overview": "Quando um fracassado de 34 anos é atropelado por um ônibus, sua história não acaba. Reencarnado em um novo mundo como criança, Rudy aproveitará cada oportunidade para viver a vida que sempre quis. Com novos amigos, habilidades mágicas e coragem para fazer tudo o que sempre sonhou, ele embarca em uma aventura épica – com toda a sua experiência do passado intacta!",
-        "vote_average": 8.571,
+        "vote_average": 8.6,
         "source": "tmdb",
-        "fetched_at": "2026-07-02T11:28:58Z"
+        "fetched_at": "2026-07-03T11:11:31Z"
       },
       {
         "rank": 5,
@@ -2148,24 +2138,24 @@
         "overview": "Takuma não é o cara mais empolgante. Ele é desajeitado, solteiro e não faz nada além de trabalhar e voltar para casa. Cansado de fazer suas tarefas domésticas, ele decide comprar uma robô chamada Mina para tomar conta da casa. Ela sabe cozinhar e limpar perfeitamente e os dois podem se conhecer melhor com o tempo. Logo Takuma começa a se apaixonar por Mina! Mas será que um robô poderá amá-lo de volta?",
         "vote_average": 6.45,
         "source": "tmdb",
-        "fetched_at": "2026-07-02T11:28:58Z"
+        "fetched_at": "2026-07-03T11:11:31Z"
       },
       {
         "rank": 6,
         "platform": "crunchyroll",
         "content_type": "series",
-        "title": "Minha Mana Apelona",
-        "original_title": "異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～",
-        "year": 2023,
-        "tmdb_id": 194829,
-        "imdb_id": "tt27462671",
-        "poster_path": "/sysz1yNPpgwA7weihJ7lIgHnt1O.jpg",
-        "backdrop_path": "/xny1jVdXW839f05UFb0it9tOZdf.jpg",
-        "logo_path": "/y6OOxfwoBVlF1ku5IfrxrOkzV2Y.png",
-        "overview": "Dois irmãos são enviados para outro mundo, mas a irmã ganha habilidades poderosas demais!",
-        "vote_average": 7.0,
+        "title": "Agents of the Four Seasons: Dance of Spring",
+        "original_title": "春夏秋冬代行者 春の舞",
+        "year": 2026,
+        "tmdb_id": 288659,
+        "imdb_id": "tt39267868",
+        "poster_path": "/s8kMT6SmeAt7HovSJWbgIEvjmdm.jpg",
+        "backdrop_path": "/lQcUbt8Rs0TcmIhsVGpoEeqWHwE.jpg",
+        "logo_path": "/tjnM6aUvoxWJCPNI79UXq2MPEj9.png",
+        "overview": "O inverno já foi a única estação do mundo, mas sua existência solitária era difícil de suportar. Então, foi criada primavera, para amar e ser amado. Com o tempo, a terra desejou mais tempo de descanso no ciclo, e assim surgiu o verão e o outono. Aqueles que mantêm esse ciclo em equilíbrio são conhecidos como os Agentes das Quatro Estações. Hinagiku, a Agente da Primavera, desapareceu há 10 anos, levando consigo a estação das flores. Agora, após enfrentar grandes provações, ela retorna para restaurar o equilíbrio das estações e, como conta o mito passado desde os primórdios, ela envia seu amor ao inverno...",
+        "vote_average": 7.4,
         "source": "tmdb",
-        "fetched_at": "2026-07-02T11:28:58Z"
+        "fetched_at": "2026-07-03T11:11:31Z"
       },
       {
         "rank": 7,
@@ -2182,41 +2172,41 @@
         "overview": "Natsuki Subaru, um adolescente comum, conhece uma linda garota de cabelos prateados vinda de outro mundo. Subaru quer ficar ao lado dela, mas o fardo que ela carrega é maior do que Subaru pode imaginar. Eles enfrentam o feroz ataque de monstros, traições, violência irracional... e, por fim, a morte. Subaru promete derrotar qualquer inimigo, qualquer destino, tudo para protegê-la. E assim, o pobre garoto sem poder algum obtém o \"Retorno da Morte\", uma habilidade única que permite ao usuário voltar no tempo ao morrer. Usando esse poder, o passado é perdido e as memórias são reescritas.",
         "vote_average": 7.916,
         "source": "tmdb",
-        "fetched_at": "2026-07-02T11:28:58Z"
+        "fetched_at": "2026-07-03T11:11:31Z"
       },
       {
         "rank": 8,
         "platform": "crunchyroll",
         "content_type": "series",
-        "title": "TenPuru",
-        "original_title": "てんぷる",
+        "title": "Minha Mana Apelona",
+        "original_title": "異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～",
         "year": 2023,
-        "tmdb_id": 218613,
-        "imdb_id": "tt27571647",
-        "poster_path": "/5edyBIMjpBdOK50964UCezIO2Ie.jpg",
-        "backdrop_path": "/ehvo7achvrJOBHZfL1aWtPbuuuD.jpg",
-        "logo_path": "/la3DLnBq0Ef4DmeEmvzqSnsmfwv.png",
-        "overview": "Akemitsu Akagami mergulhou numa rotina de trabalho e estudos para se distanciar de sua família, notoriamente composta de trambiqueiros mulherengos. Mas um dia, ele se apaixona à primeira vista por uma jovem chamada Yuzuki Aoba, e é subitamente inundado por desejos mundanos. Para coibir seus próprios genes e viver uma vida mais pura, ele se torna monge de um templo... mas logo percebe que o templo é na verdade um convento cheio de mulheres lindas!",
-        "vote_average": 6.0,
+        "tmdb_id": 194829,
+        "imdb_id": "tt27462671",
+        "poster_path": "/sysz1yNPpgwA7weihJ7lIgHnt1O.jpg",
+        "backdrop_path": "/xny1jVdXW839f05UFb0it9tOZdf.jpg",
+        "logo_path": "/y6OOxfwoBVlF1ku5IfrxrOkzV2Y.png",
+        "overview": "Dois irmãos são enviados para outro mundo, mas a irmã ganha habilidades poderosas demais!",
+        "vote_average": 7.0,
         "source": "tmdb",
-        "fetched_at": "2026-07-02T11:28:58Z"
+        "fetched_at": "2026-07-03T11:11:31Z"
       },
       {
         "rank": 9,
         "platform": "crunchyroll",
         "content_type": "series",
-        "title": "Please Put Them On, Takamine-san",
-        "original_title": "履いてください、鷹峰さん",
-        "year": 2025,
-        "tmdb_id": 276880,
-        "imdb_id": "tt35436364",
-        "poster_path": "/aFidY5oV5z5Fm8gPh37IYyBjbhG.jpg",
-        "backdrop_path": "/5AYXcPhbtPe6i1MPnutPhCV6qNd.jpg",
-        "logo_path": "/mxGPTDFHZ3l2QNIHmcz26GGIG1g.png",
-        "overview": "Takane Takamine é uma deusa em sua escola. Com notas perfeitas, talento nos esportes e beleza sem igual, a presidente do conselho estudantil se destaca aos olhos de todos, incluindo aos de Koushi Shirota, um estudante qualquer sem amigos. Porém ele acaba descobrindo o segredo para o sucesso de Takamine — sua calcinha! Quando ela a tira, ela consegue desfazer o passado para refazê-lo, e agora que Koushi sabe disso, Takamine não vai deixá-lo escapar facilmente...",
-        "vote_average": 7.5,
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "original_title": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+        "year": 2009,
+        "tmdb_id": 31911,
+        "imdb_id": "tt1355642",
+        "poster_path": "/vIkH7fUQf8Olo8Apq56FQLGDXOo.jpg",
+        "backdrop_path": "/2UG177tWHy7xRmMKWJHB7nAUmKd.jpg",
+        "logo_path": "/1uxD6336yvySlaNqAuCl5XuGt3U.png",
+        "overview": "O descaso com as leis da alquimia tomou dois dos membros de Edward Elric e deixou a alma de Alphonse presa a uma armadura. Para recuperar o que perderam, os irmãos procuram a Pedra Filosofal. O exército corrupto, os homúnculos, alquimistas estrangeiros... Inimigos e aliados alterarão o curso dos irmãos Elric, mas nada conseguirá mudar seu propósito ou romper o elo entre os dois.",
+        "vote_average": 8.711,
         "source": "tmdb",
-        "fetched_at": "2026-07-02T11:28:58Z"
+        "fetched_at": "2026-07-03T11:11:31Z"
       },
       {
         "rank": 10,
@@ -2233,7 +2223,7 @@
         "overview": "Há décadas, as nações de Ostania e Westalis promovem uma guerra fria sem fim. Para investigar os movimentos do presidente de um importante partido político, Westalis mobiliza Twilight, seu melhor agente, a montar uma família falsa e se infiltrar nos eventos sociais promovidos pela escola do filho do político. Mas por um acaso do destino, Twilight acaba adotando Anya, uma jovem com poderes telepáticos, e se \"casando\" com Yor, uma assassina profissional! Sem saberem das identidades uns dos outros, este trio incomum vai embarcar em aventuras cheias de surpresas para garantir a paz mundial.",
         "vote_average": 8.5,
         "source": "tmdb",
-        "fetched_at": "2026-07-02T11:28:58Z"
+        "fetched_at": "2026-07-03T11:11:31Z"
       }
     ]
   }
