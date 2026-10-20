@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T16:05:00Z",
+  "generated_at": "2026-10-20T14:00:58Z",
   "week_start": "2026-10-19",
   "country": "BR",
   "health": {
@@ -26,7 +26,7 @@
         "justwatch"
       ]
     },
-    "last_full_success": "2026-10-19T16:05:00Z"
+    "last_full_success": "2026-10-20T14:00:58Z"
   },
   "providers": {
     "netflix": [
@@ -43,30 +43,12 @@
         "backdrop_path": "/tzoarEu7TsG959upiELyYPm5kO9.jpg",
         "logo_path": "/YnIV48A8z7xlC2iFWQV1oADm9w.png",
         "overview": "O filho de um candidato a prefeito de Los Angeles é sequestrado. Agora, ele e a esposa tentam conseguir o dinheiro do resgate e tomam decisões arriscadas.",
-        "vote_average": 6.999,
+        "vote_average": 7.033,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:52Z"
+        "fetched_at": "2026-10-20T14:00:49Z"
       },
       {
         "rank": 2,
-        "platform": "netflix",
-        "content_type": "movie",
-        "title": "Unabomber",
-        "original_title": "UNABOMBER",
-        "year": 2026,
-        "tmdb_id": 1492640,
-        "imdb_id": "tt6933238",
-        "poster_path": "/xVRIUBkQvapWRjYwCbPvb0NfH37.jpg",
-        "backdrop_path": "/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-        "logo_path": "/uzfKF1RAAbKEgQXaSl0x14zAfIN.png",
-        "titled_backdrop_path": "/kLqPRuoLtyM6Y7DW6t0CqptIEIB.jpg",
-        "overview": "Este drama inspirado em uma história real mostra como Ted Kaczynski, um prodígio de Harvard, se transformou no infame Unabomber e foi caçado pelo FBI.",
-        "vote_average": 6.588,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:52Z"
-      },
-      {
-        "rank": 3,
         "platform": "netflix",
         "content_type": "movie",
         "title": "A Terapia Certa",
@@ -80,7 +62,25 @@
         "overview": "Interpretando o escritor Martín, Diego Peretti contracena com Ricardo Darín no papel de Ulises, um psicanalista que usa métodos totalmente fora da caixinha.",
         "vote_average": 7.7,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:52Z"
+        "fetched_at": "2026-10-20T14:00:49Z"
+      },
+      {
+        "rank": 3,
+        "platform": "netflix",
+        "content_type": "movie",
+        "title": "Unabomber",
+        "original_title": "UNABOMBER",
+        "year": 2026,
+        "tmdb_id": 1492640,
+        "imdb_id": "tt6933238",
+        "poster_path": "/xVRIUBkQvapWRjYwCbPvb0NfH37.jpg",
+        "backdrop_path": "/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+        "logo_path": "/uzfKF1RAAbKEgQXaSl0x14zAfIN.png",
+        "titled_backdrop_path": "/kLqPRuoLtyM6Y7DW6t0CqptIEIB.jpg",
+        "overview": "Este drama inspirado em uma história real mostra como Ted Kaczynski, um prodígio de Harvard, se transformou no infame Unabomber e foi caçado pelo FBI.",
+        "vote_average": 6.596,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:49Z"
       },
       {
         "rank": 4,
@@ -95,30 +95,12 @@
         "backdrop_path": "/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
         "logo_path": "/cZpb5QbBnsnHLKeiFFCTqnwqT1E.png",
         "overview": "Após o desaparecimento do filho, um viúvo precisa pedir ajuda ao próprio pai: um detetive aposentado que prendeu o assassino em série ligado a esse novo caso.",
-        "vote_average": 6.845,
+        "vote_average": 6.849,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:52Z"
+        "fetched_at": "2026-10-20T14:00:49Z"
       },
       {
         "rank": 5,
-        "platform": "netflix",
-        "content_type": "movie",
-        "title": "Hellraiser: Renascido do Inferno",
-        "original_title": "Hellraiser",
-        "year": 2022,
-        "tmdb_id": 338947,
-        "imdb_id": "tt0887261",
-        "poster_path": "/gwcsg4hl869Uxx43VqsjV8d0NZn.jpg",
-        "backdrop_path": "/3r3tZgKTw1554hcFoUfydLHE38w.jpg",
-        "logo_path": "/rLImfE7g7emRUv30qEsgE17KciO.png",
-        "titled_backdrop_path": "/qDHsK7vnkE93yzkvzdzYWx8am9.jpg",
-        "overview": "Uma jovem lutando contra o vício se apossa de uma antiga caixa de quebra-cabeça, sem saber que seu objetivo é convocar os Cenobitas, um grupo de seres sobrenaturais sádicos de outra dimensão.",
-        "vote_average": 6.225,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:52Z"
-      },
-      {
-        "rank": 6,
         "platform": "netflix",
         "content_type": "movie",
         "title": "A Substância",
@@ -131,64 +113,12 @@
         "logo_path": "/tl8Bpz1Q3y2AVhzHCazGCcIguQQ.png",
         "titled_backdrop_path": "/tdo8TKula3wSxCVsKunl9dMBDH1.jpg",
         "overview": "Uma estrela em declínio descobre uma substância misteriosa que lhe permite criar uma versão mais jovem e perfeita de si mesma. No entanto, o que parece ser uma solução milagrosa para recuperar sua glória logo se transforma em um pesadelo perturbador quando as consequências desta decisão começam a se manifestar de formas sombrias e irreversíveis.",
-        "vote_average": 7.132,
+        "vote_average": 7.131,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:52Z"
+        "fetched_at": "2026-10-20T14:00:49Z"
       },
       {
-        "rank": 7,
-        "platform": "netflix",
-        "content_type": "movie",
-        "title": "Pecadores",
-        "original_title": "Sinners",
-        "year": 2025,
-        "tmdb_id": 1233413,
-        "imdb_id": "tt31193180",
-        "poster_path": "/v0Ljeti537c6cNKweuEN0iaU3x4.jpg",
-        "backdrop_path": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
-        "logo_path": "/d7pA3cdwXiGaiHrGiBtIRTfMvWk.png",
-        "titled_backdrop_path": "/t5suADPoxopRGJlqZw0wGoMJPFU.jpg",
-        "overview": "Dispostos a deixar suas vidas conturbadas para trás, irmãos gêmeos retornam à sua cidade natal para recomeçar suas vidas do zero, quando descobrem que um mal ainda maior está à espera deles para recebê-los de volta.",
-        "vote_average": 7.5,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:52Z"
-      },
-      {
-        "rank": 8,
-        "platform": "netflix",
-        "content_type": "movie",
-        "title": "O Temporal",
-        "original_title": "Stormen",
-        "year": 2026,
-        "tmdb_id": 1623256,
-        "imdb_id": "tt37070354",
-        "poster_path": "/2WtydpYLH5FbPsF6rB6nKf0ZSqx.jpg",
-        "backdrop_path": "/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
-        "logo_path": "/w8CReuMdRDNVUSYT9UiZ2rJqvux.png",
-        "overview": "Uma tempestade deixa antigos colegas de faculdade presos em um hotel de luxo, transformando uma festa de aniversário em um ciclone de traições, rancores e caos absoluto.",
-        "vote_average": 6.608,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:52Z"
-      },
-      {
-        "rank": 9,
-        "platform": "netflix",
-        "content_type": "movie",
-        "title": "V de Vingança",
-        "original_title": "V for Vendetta",
-        "year": 2006,
-        "tmdb_id": 752,
-        "imdb_id": "tt0434409",
-        "poster_path": "/Awk4uagfl0wz6WiqlCitfswHwcT.jpg",
-        "backdrop_path": "/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg",
-        "logo_path": "/8ruYhvn5Ku4GP7H9eORJPMfPjvz.png",
-        "overview": "Após uma guerra mundial, a Inglaterra é ocupada por um governo fascista e vive sob um regime totalitário. Na luta pela liberdade, um vigilante, conhecido apenas como V, utiliza-se de táticas terroristas para enfrentar os opressores da sociedade. V salva uma jovem chamada Evey da polícia secreta e encontra nela uma nova aliada em busca de liberdade e justiça para o seu país.",
-        "vote_average": 7.9,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:52Z"
-      },
-      {
-        "rank": 10,
+        "rank": 6,
         "platform": "netflix",
         "content_type": "movie",
         "title": "Lobisomem",
@@ -201,9 +131,79 @@
         "logo_path": "/AewR1WFv4QHEMAa8FlAww3YA8z5.png",
         "titled_backdrop_path": "/3R9FPO6TFurOIAHVTUHqU9KCVVr.jpg",
         "overview": "Um homem deve proteger a si mesmo e sua família quando eles são perseguidos, aterrorizados e assombrados por um lobisomem mortal à noite durante a lua cheia. Mas conforme a noite avança, o homem começa a se comportar de forma estranha.",
-        "vote_average": 6.116,
+        "vote_average": 6.118,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:52Z"
+        "fetched_at": "2026-10-20T14:00:49Z"
+      },
+      {
+        "rank": 7,
+        "platform": "netflix",
+        "content_type": "movie",
+        "title": "O Temporal",
+        "original_title": "Stormen",
+        "year": 2026,
+        "tmdb_id": 1623256,
+        "imdb_id": "tt37070354",
+        "poster_path": "/2WtydpYLH5FbPsF6rB6nKf0ZSqx.jpg",
+        "backdrop_path": "/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
+        "logo_path": "/w8CReuMdRDNVUSYT9UiZ2rJqvux.png",
+        "overview": "Uma tempestade deixa antigos colegas de faculdade presos em um hotel de luxo, transformando uma festa de aniversário em um ciclone de traições, rancores e caos absoluto.",
+        "vote_average": 6.333,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:49Z"
+      },
+      {
+        "rank": 8,
+        "platform": "netflix",
+        "content_type": "movie",
+        "title": "Pecadores",
+        "original_title": "Sinners",
+        "year": 2025,
+        "tmdb_id": 1233413,
+        "imdb_id": "tt31193180",
+        "poster_path": "/v0Ljeti537c6cNKweuEN0iaU3x4.jpg",
+        "backdrop_path": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+        "logo_path": "/d7pA3cdwXiGaiHrGiBtIRTfMvWk.png",
+        "titled_backdrop_path": "/t5suADPoxopRGJlqZw0wGoMJPFU.jpg",
+        "overview": "Dispostos a deixar suas vidas conturbadas para trás, irmãos gêmeos retornam à sua cidade natal para recomeçar suas vidas do zero, quando descobrem que um mal ainda maior está à espera deles para recebê-los de volta.",
+        "vote_average": 7.514,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:49Z"
+      },
+      {
+        "rank": 9,
+        "platform": "netflix",
+        "content_type": "movie",
+        "title": "Hellraiser: Renascido do Inferno",
+        "original_title": "Hellraiser",
+        "year": 2022,
+        "tmdb_id": 338947,
+        "imdb_id": "tt0887261",
+        "poster_path": "/gwcsg4hl869Uxx43VqsjV8d0NZn.jpg",
+        "backdrop_path": "/3r3tZgKTw1554hcFoUfydLHE38w.jpg",
+        "logo_path": "/rLImfE7g7emRUv30qEsgE17KciO.png",
+        "titled_backdrop_path": "/qDHsK7vnkE93yzkvzdzYWx8am9.jpg",
+        "overview": "Uma jovem lutando contra o vício se apossa de uma antiga caixa de quebra-cabeça, sem saber que seu objetivo é convocar os Cenobitas, um grupo de seres sobrenaturais sádicos de outra dimensão.",
+        "vote_average": 6.224,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:49Z"
+      },
+      {
+        "rank": 10,
+        "platform": "netflix",
+        "content_type": "movie",
+        "title": "V de Vingança",
+        "original_title": "V for Vendetta",
+        "year": 2006,
+        "tmdb_id": 752,
+        "imdb_id": "tt0434409",
+        "poster_path": "/Awk4uagfl0wz6WiqlCitfswHwcT.jpg",
+        "backdrop_path": "/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg",
+        "logo_path": "/8ruYhvn5Ku4GP7H9eORJPMfPjvz.png",
+        "overview": "Após uma guerra mundial, a Inglaterra é ocupada por um governo fascista e vive sob um regime totalitário. Na luta pela liberdade, um vigilante, conhecido apenas como V, utiliza-se de táticas terroristas para enfrentar os opressores da sociedade. V salva uma jovem chamada Evey da polícia secreta e encontra nela uma nova aliada em busca de liberdade e justiça para o seu país.",
+        "vote_average": 7.897,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:49Z"
       },
       {
         "rank": 1,
@@ -218,9 +218,9 @@
         "backdrop_path": "/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
         "logo_path": "/wO5ZAoc41DjV1yQ3IcZrfy4oiYh.png",
         "overview": "Quando uma misteriosa criatura marinha aterroriza uma pequena cidade, um pescador durão e sua família lutam para proteger a comunidade.",
-        "vote_average": 7.282,
+        "vote_average": 7.223,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:53Z"
+        "fetched_at": "2026-10-20T14:00:50Z"
       },
       {
         "rank": 2,
@@ -235,9 +235,9 @@
         "backdrop_path": "/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
         "logo_path": "/taM4xdxlNFWfGsulANCdDinIGzB.png",
         "overview": "No início do século 20, uma mulher independente provoca uma briga entre dois irmãos, dando início a uma saga que se desenrola ao longo de duas gerações.",
-        "vote_average": 7.967,
+        "vote_average": 7.973,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:53Z"
+        "fetched_at": "2026-10-20T14:00:50Z"
       },
       {
         "rank": 3,
@@ -253,30 +253,12 @@
         "logo_path": "/xV1SbLdczYxzzvcmCxQ7G71YjQd.png",
         "titled_backdrop_path": "/6tPf8K28aw1jU1AG72iws2Lre1P.jpg",
         "overview": "A escritora Lisa Konrad ficou 10 anos sem sair de casa depois do assassinato da irmã. Mas, quando vê o assassino na TV, ela bola um plano arriscado.",
-        "vote_average": 6.295,
+        "vote_average": 6.4,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:53Z"
+        "fetched_at": "2026-10-20T14:00:50Z"
       },
       {
         "rank": 4,
-        "platform": "netflix",
-        "content_type": "series",
-        "title": "O Mentalista",
-        "original_title": "The Mentalist",
-        "year": 2008,
-        "tmdb_id": 5920,
-        "imdb_id": "tt1196946",
-        "poster_path": "/bJ0SNoD0DchXo5nH3N81ABIe3H.jpg",
-        "backdrop_path": "/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-        "logo_path": "/wBj06z5RDXNnbuASP9IOoHZtmWr.png",
-        "titled_backdrop_path": "/1wbhDerC8l9sNj3V3bvNH72xWOa.jpg",
-        "overview": "Patrick Jane é famoso por sua habilidade de alta percepção de tudo que está ao seu redor. Ele já quase foi uma celebridade, alegando ser médium vidente, mas agora admite que fingia ter poderes paranormais. Com sua grande habilidade de observação, Patrick trabalha como consultor independente para as autoridades da Califórnia, resolvendo um número considerável de crimes complicados.",
-        "vote_average": 8.4,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:53Z"
-      },
-      {
-        "rank": 5,
         "platform": "netflix",
         "content_type": "series",
         "title": "Dragon Ball Super: Beerus",
@@ -291,44 +273,28 @@
         "overview": "Quando Beerus, o Deus da Destruição, desperta em busca de um rival à altura, Goku e seus amigos enfrentam uma batalha épica para impedi-lo de destruir a Terra.",
         "vote_average": 9.7,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:53Z"
+        "fetched_at": "2026-10-20T14:00:50Z"
+      },
+      {
+        "rank": 5,
+        "platform": "netflix",
+        "content_type": "series",
+        "title": "O Mentalista",
+        "original_title": "The Mentalist",
+        "year": 2008,
+        "tmdb_id": 5920,
+        "imdb_id": "tt1196946",
+        "poster_path": "/bJ0SNoD0DchXo5nH3N81ABIe3H.jpg",
+        "backdrop_path": "/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
+        "logo_path": "/wBj06z5RDXNnbuASP9IOoHZtmWr.png",
+        "titled_backdrop_path": "/1wbhDerC8l9sNj3V3bvNH72xWOa.jpg",
+        "overview": "Patrick Jane é famoso por sua habilidade de alta percepção de tudo que está ao seu redor. Ele já quase foi uma celebridade, alegando ser médium vidente, mas agora admite que fingia ter poderes paranormais. Com sua grande habilidade de observação, Patrick trabalha como consultor independente para as autoridades da Califórnia, resolvendo um número considerável de crimes complicados.",
+        "vote_average": 8.4,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:50Z"
       },
       {
         "rank": 6,
-        "platform": "netflix",
-        "content_type": "series",
-        "title": "O Conto da Aia",
-        "original_title": "The Handmaid's Tale",
-        "year": 2017,
-        "tmdb_id": 69478,
-        "imdb_id": "tt5834204",
-        "poster_path": "/17cRboikG0xwKroMoTZLFUMmplS.jpg",
-        "backdrop_path": "/sokTOq0zAmPS7wCR4qd4Kca35x7.jpg",
-        "logo_path": "/y7geYqnIsYFawKQVko2JrdmsPuY.png",
-        "overview": "Situado em um futuro distópico, uma mulher é forçada a viver como uma concubina sob uma ditadura teocrática fundamentalista. Uma adaptação para a TV do romance de Margaret Atwood.",
-        "vote_average": 8.145,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:53Z"
-      },
-      {
-        "rank": 7,
-        "platform": "netflix",
-        "content_type": "series",
-        "title": "Habeas Corpus",
-        "original_title": "Habeas Corpus",
-        "year": 2026,
-        "tmdb_id": 308963,
-        "imdb_id": "tt39369819",
-        "poster_path": "/pMkQ9LyDJIkMjyfnJ7TNJbKSEEv.jpg",
-        "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg",
-        "logo_path": "/f60R5ThzUTBiozmRZgYYrHSwlRO.png",
-        "overview": "Uma renomada professora de Direito e uma equipe de alunos tentam provar a inocência de um homem condenado. Mas a aluna mais brilhante está secretamente conectada ao passado dela.",
-        "vote_average": 7.313,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:53Z"
-      },
-      {
-        "rank": 8,
         "platform": "netflix",
         "content_type": "series",
         "title": "A Diplomata",
@@ -340,12 +306,63 @@
         "backdrop_path": "/hzznrBI07C2chXivlLYvEmQESP7.jpg",
         "logo_path": "/8pU3orvmniXA6YszqnX1R9cYCEE.png",
         "overview": "Em meio a uma crise internacional, uma diplomata de sucesso precisar lidar com a carreira de embaixadora e um conturbado casamento com um político influente.",
-        "vote_average": 7.602,
+        "vote_average": 7.609,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:53Z"
+        "fetched_at": "2026-10-20T14:00:50Z"
+      },
+      {
+        "rank": 7,
+        "platform": "netflix",
+        "content_type": "series",
+        "title": "O Conto da Aia",
+        "original_title": "The Handmaid's Tale",
+        "year": 2017,
+        "tmdb_id": 69478,
+        "imdb_id": "tt5834204",
+        "poster_path": "/17cRboikG0xwKroMoTZLFUMmplS.jpg",
+        "backdrop_path": "/sokTOq0zAmPS7wCR4qd4Kca35x7.jpg",
+        "logo_path": "/y7geYqnIsYFawKQVko2JrdmsPuY.png",
+        "overview": "Situado em um futuro distópico, uma mulher é forçada a viver como uma concubina sob uma ditadura teocrática fundamentalista. Uma adaptação para a TV do romance de Margaret Atwood.",
+        "vote_average": 8.146,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:50Z"
+      },
+      {
+        "rank": 8,
+        "platform": "netflix",
+        "content_type": "series",
+        "title": "Magnatas do Crime",
+        "original_title": "The Gentlemen",
+        "year": 2024,
+        "tmdb_id": 236235,
+        "imdb_id": "tt13210838",
+        "poster_path": "/3psm58xrwPAkb7NO8nmprBESB1X.jpg",
+        "backdrop_path": "/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
+        "logo_path": "/1taOojEmzxYSQkEWjUh58QgMbj0.png",
+        "overview": "O aristocrata Eddie herdou a propriedade da família, só para descobrir que há um império da maconha rolando lá nas terras. E os donos não vão arredar pé.",
+        "vote_average": 7.881,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:50Z"
       },
       {
         "rank": 9,
+        "platform": "netflix",
+        "content_type": "series",
+        "title": "Habeas Corpus",
+        "original_title": "Habeas Corpus",
+        "year": 2026,
+        "tmdb_id": 308963,
+        "imdb_id": "tt39369819",
+        "poster_path": "/pMkQ9LyDJIkMjyfnJ7TNJbKSEEv.jpg",
+        "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg",
+        "logo_path": "/f60R5ThzUTBiozmRZgYYrHSwlRO.png",
+        "overview": "Uma renomada professora de Direito e uma equipe de alunos tentam provar a inocência de um homem condenado. Mas a aluna mais brilhante está secretamente conectada ao passado dela.",
+        "vote_average": 7.3,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:50Z"
+      },
+      {
+        "rank": 10,
         "platform": "netflix",
         "content_type": "series",
         "title": "Monstro: A História de Lizzie Borden",
@@ -358,26 +375,9 @@
         "logo_path": "/fVQMmD21WSyLgzzrbpv9iJvGbic.png",
         "titled_backdrop_path": "/aYg8ZC3hV87SCG9I7PUm3hMRXUo.jpg",
         "overview": "Presa em um lar cruel da era vitoriana, Lizzie Borden mata os pais em um crime sangrento que abala o país.",
-        "vote_average": 7.1,
+        "vote_average": 7.093,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:53Z"
-      },
-      {
-        "rank": 10,
-        "platform": "netflix",
-        "content_type": "series",
-        "title": "Magnatas do Crime",
-        "original_title": "The Gentlemen",
-        "year": 2024,
-        "tmdb_id": 236235,
-        "imdb_id": "tt13210838",
-        "poster_path": "/3psm58xrwPAkb7NO8nmprBESB1X.jpg",
-        "backdrop_path": "/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
-        "logo_path": "/1taOojEmzxYSQkEWjUh58QgMbj0.png",
-        "overview": "O aristocrata Eddie herdou a propriedade da família, só para descobrir que há um império da maconha rolando lá nas terras. E os donos não vão arredar pé.",
-        "vote_average": 7.875,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:53Z"
+        "fetched_at": "2026-10-20T14:00:50Z"
       }
     ],
     "prime": [
@@ -396,7 +396,7 @@
         "overview": "Quando o filho de Ellen e Paul apresenta sua nova namorada durante a festa de 25 anos de casamento deles, ninguém imagina que esse é o começo do fim para essa família feliz. A nova namorada é Liz, ex-aluna de Ellen, que deixou a universidade alguns anos antes, depois que Ellen a confrontou em sala de aula por sua ideologia radical.",
         "vote_average": 6.94,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:54Z"
+        "fetched_at": "2026-10-20T14:00:51Z"
       },
       {
         "rank": 2,
@@ -412,9 +412,9 @@
         "logo_path": "/yzVkjLLsDTyiWK3vcQuh2vS0FFe.png",
         "titled_backdrop_path": "/7LoaSivGJHARsHgrgJeI5AP1o3o.jpg",
         "overview": "Maya, uma enfermeira inteligente e irônica, é envolvida por um amor envolvente, que coloca sua vida em uma trajetória que ela nunca teria imaginado.",
-        "vote_average": 6.84,
+        "vote_average": 6.8,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:54Z"
+        "fetched_at": "2026-10-20T14:00:51Z"
       },
       {
         "rank": 3,
@@ -432,7 +432,7 @@
         "overview": "O professor de ciências Ryland Grace acorda em uma espaçonave a anos-luz de casa, sem nenhuma lembrança de quem é ou como chegou ali. À medida que sua memória retorna, ele começa a descobrir sua missão: resolver o enigma de uma substância misteriosa que está fazendo o Sol morrer. Ele precisará recorrer ao seu conhecimento científico e a ideias nada convencionais para salvar tudo na Terra da extinção… mas uma amizade inesperada pode significar que ele não terá que fazer isso sozinho.",
         "vote_average": 8.635,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:54Z"
+        "fetched_at": "2026-10-20T14:00:51Z"
       },
       {
         "rank": 4,
@@ -448,12 +448,30 @@
         "logo_path": "/pFMunipe2MuwBgGuqCL6dgjwgSB.png",
         "titled_backdrop_path": "/A2qOIobKj9nZMlZUNcUtHfQdDef.jpg",
         "overview": "Olive é uma brilhante candidata ao doutorado focada em seu futuro no meio acadêmico. Mas quando ela percebe que sua melhor amiga Ahn se apaixonou por seu crush Jeremy, Olive impulsivamente beija o intimidador professor Adam Carlsen para provar que ela superou a paixonite. O que começa como um ato desesperado de amizade se transforma em um relacionamento falso com regras, limites e um acordo mutuamente benéfico. Quando o arranjo deles começa a confundir as linhas entre encenação e realidade, Olive é forçada a testar sua hipótese mais assustadora até agora: a de que o amor pode realmente valer o risco.",
-        "vote_average": 8.021,
+        "vote_average": 7.997,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:54Z"
+        "fetched_at": "2026-10-20T14:00:51Z"
       },
       {
         "rank": 5,
+        "platform": "prime",
+        "content_type": "movie",
+        "title": "Masterplan",
+        "original_title": "Masterplan",
+        "year": 2026,
+        "tmdb_id": 1561726,
+        "imdb_id": "tt38672588",
+        "poster_path": "/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+        "backdrop_path": "/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+        "logo_path": "/At6dSS7TWU8qzxjqlupn10cegcF.png",
+        "titled_backdrop_path": "/b1TssUuZZ9WwgIxBvY8XUimQ4dB.jpg",
+        "overview": "Quando um ladrão lendário decide roubar a Mona Lisa, ele recruta dois jovens para ajudá-lo: Chiara, especialista italiana em crimes cibernéticos, e Jay, especialista francês em explosivos. Eles só não sabem que ele é pai dos dois. Em meio a um reencontro caótico, a nova família terá que aprender a trabalhar em equipe – e tentar não se matar - se quiser ter chances de realizar o roubo do século.",
+        "vote_average": 7.14,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:51Z"
+      },
+      {
+        "rank": 6,
         "platform": "prime",
         "content_type": "movie",
         "title": "O Bastardo",
@@ -465,12 +483,12 @@
         "backdrop_path": "/pERcOAR1Teg4sLDDqRXj1TBjVsn.jpg",
         "logo_path": "/hnHvrbdOs8bvVLUaSAscUl3x2Mj.png",
         "overview": "Dinamarca, 1755. O capitão Ludvig Kahlen parte para conquistar a Jutlândia dinamarquesa, considerada incultivável, com um objetivo impossível: estabelecer uma colônia em nome do rei, em troca de um título real. Uma ambição obstinada que o cruel senhor da região tentará incansavelmente abater. O destino de Kahlen está em jogo: seus esforços lhe trarão riqueza e honra ou lhe custarão a vida...?",
-        "vote_average": 7.656,
+        "vote_average": 7.657,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:54Z"
+        "fetched_at": "2026-10-20T14:00:51Z"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "platform": "prime",
         "content_type": "movie",
         "title": "Super Mario Galaxy: O Filme",
@@ -483,12 +501,12 @@
         "logo_path": "/wDGKAxgMR56fzkgdY4424NV40IR.png",
         "titled_backdrop_path": "/xwolQ2pLF3tG8mjMsrMR0POp5pE.jpg",
         "overview": "Depois de salvar o Reino dos Cogumelos, Mario e seus amigos se encontram em uma missão intergaláctica para deter um novo vilão ameaçador.",
-        "vote_average": 8.217,
+        "vote_average": 8.216,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:54Z"
+        "fetched_at": "2026-10-20T14:00:51Z"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "platform": "prime",
         "content_type": "movie",
         "title": "Bugonia",
@@ -501,48 +519,12 @@
         "logo_path": "/5R9k7veBN3CKAfJYdJwUPPdsRA5.png",
         "titled_backdrop_path": "/f5stYb742P3BuBB8kPOaQgrsTZH.jpg",
         "overview": "Dois jovens obcecados por teorias da conspiração sequestram a poderosa CEO de uma grande empresa, convencidos de que ela é uma alienígena com a intenção de destruir o planeta Terra.",
-        "vote_average": 7.295,
+        "vote_average": 7.297,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:54Z"
-      },
-      {
-        "rank": 8,
-        "platform": "prime",
-        "content_type": "movie",
-        "title": "Masterplan",
-        "original_title": "Masterplan",
-        "year": 2026,
-        "tmdb_id": 1561726,
-        "imdb_id": "tt38672588",
-        "poster_path": "/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
-        "backdrop_path": "/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
-        "logo_path": "/At6dSS7TWU8qzxjqlupn10cegcF.png",
-        "titled_backdrop_path": "/7ULXMNvmZSi13zN3EZjz8wbER9B.jpg",
-        "overview": "Quando um ladrão lendário decide roubar a Mona Lisa, ele recruta dois jovens para ajudá-lo: Chiara, especialista italiana em crimes cibernéticos, e Jay, especialista francês em explosivos. Eles só não sabem que ele é pai dos dois. Em meio a um reencontro caótico, a nova família terá que aprender a trabalhar em equipe – e tentar não se matar - se quiser ter chances de realizar o roubo do século.",
-        "vote_average": 7.107,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:54Z"
+        "fetched_at": "2026-10-20T14:00:51Z"
       },
       {
         "rank": 9,
-        "platform": "prime",
-        "content_type": "movie",
-        "title": "O Drama",
-        "original_title": "The Drama",
-        "year": 2026,
-        "tmdb_id": 1325734,
-        "imdb_id": "tt33071426",
-        "poster_path": "/tM3hbeEwJZdQAjwwt5UjFn638AY.jpg",
-        "backdrop_path": "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
-        "logo_path": "/6Dmnb8RBMJz6k0i3gvtMziDVAI2.png",
-        "titled_backdrop_path": "/xMpnEYyJfZpivZvJBLnho9453db.jpg",
-        "overview": "Profundamente apaixonados e em meio aos preparativos finais para o grande dia do casamento, o casal tem sua felicidade ameaçada quando vêm à tona segredos que jamais poderiam imaginar.",
-        "vote_average": 6.9,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:54Z"
-      },
-      {
-        "rank": 10,
         "platform": "prime",
         "content_type": "movie",
         "title": "Carrie, A Estranha",
@@ -557,7 +539,25 @@
         "overview": "A quieta e sensível adolescente Carrie White enfrenta insultos dos colegas na escola e abuso em casa de sua mãe, uma fanática religiosa. Quando estranhos acontecimentos começam a acontecer em torno de Carrie, ela começa a suspeitar que tem poderes sobrenaturais.",
         "vote_average": 7.341,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:54Z"
+        "fetched_at": "2026-10-20T14:00:51Z"
+      },
+      {
+        "rank": 10,
+        "platform": "prime",
+        "content_type": "movie",
+        "title": "O Drama",
+        "original_title": "The Drama",
+        "year": 2026,
+        "tmdb_id": 1325734,
+        "imdb_id": "tt33071426",
+        "poster_path": "/tM3hbeEwJZdQAjwwt5UjFn638AY.jpg",
+        "backdrop_path": "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
+        "logo_path": "/6Dmnb8RBMJz6k0i3gvtMziDVAI2.png",
+        "titled_backdrop_path": "/xMpnEYyJfZpivZvJBLnho9453db.jpg",
+        "overview": "Profundamente apaixonados e em meio aos preparativos finais para o grande dia do casamento, o casal tem sua felicidade ameaçada quando vêm à tona segredos que jamais poderiam imaginar.",
+        "vote_average": 6.895,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:51Z"
       },
       {
         "rank": 1,
@@ -573,9 +573,9 @@
         "logo_path": "/hnRM4WBUqSCNRKVIIgBTjGRAj63.png",
         "titled_backdrop_path": "/5RQ2uXqpyaJwpLgJ5FA6MKfbCmG.jpg",
         "overview": "Após a morte abrupta e inesperada de seu pai arremessá-la no ecossistema implacável de um colégio público, Carrie é forçada a lidar com um escândalo de cyberbullying que destrói sua comunidade, a pressão implacável e a crueldade casual da era das redes sociais, e o despertar de misteriosos poderes telecinéticos que surgem com a chegada de sua adolescência.",
-        "vote_average": 8.348,
+        "vote_average": 8.336,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:55Z"
+        "fetched_at": "2026-10-20T14:00:51Z"
       },
       {
         "rank": 2,
@@ -593,7 +593,7 @@
         "overview": "Patrick Jane é famoso por sua habilidade de alta percepção de tudo que está ao seu redor. Ele já quase foi uma celebridade, alegando ser médium vidente, mas agora admite que fingia ter poderes paranormais. Com sua grande habilidade de observação, Patrick trabalha como consultor independente para as autoridades da Califórnia, resolvendo um número considerável de crimes complicados.",
         "vote_average": 8.4,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:55Z"
+        "fetched_at": "2026-10-20T14:00:51Z"
       },
       {
         "rank": 3,
@@ -608,9 +608,9 @@
         "backdrop_path": "/sokTOq0zAmPS7wCR4qd4Kca35x7.jpg",
         "logo_path": "/y7geYqnIsYFawKQVko2JrdmsPuY.png",
         "overview": "Situado em um futuro distópico, uma mulher é forçada a viver como uma concubina sob uma ditadura teocrática fundamentalista. Uma adaptação para a TV do romance de Margaret Atwood.",
-        "vote_average": 8.145,
+        "vote_average": 8.146,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:55Z"
+        "fetched_at": "2026-10-20T14:00:51Z"
       },
       {
         "rank": 4,
@@ -626,12 +626,29 @@
         "logo_path": "/2YkCVT6opPxKh2ogEqxVrCiFgsr.png",
         "titled_backdrop_path": "/mm53GSIMl7zF0rHFeIBGfEKtceQ.jpg",
         "overview": "Quando o policial militar aposentado Jack Reacher é preso por um assassinato que não cometeu, ele se vê no meio de uma trama mortal cheia de policiais corruptos, empresários obscuros e políticos conspiradores. Só com sua inteligência, ele precisa descobrir o que está havendo em Margrave, Geórgia.",
-        "vote_average": 8.131,
+        "vote_average": 8.13,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:55Z"
+        "fetched_at": "2026-10-20T14:00:51Z"
       },
       {
         "rank": 5,
+        "platform": "prime",
+        "content_type": "series",
+        "title": "Arquivo X",
+        "original_title": "The X-Files",
+        "year": 1993,
+        "tmdb_id": 4087,
+        "imdb_id": "tt0106179",
+        "poster_path": "/bA4XkQR5VAuiszhbfDhR0siZgiI.jpg",
+        "backdrop_path": "/w00lfexrsOeR25dO4hsWhbcUnmD.jpg",
+        "logo_path": "/1pHCk3SJPi7FF8vuvUM0dbgM1ao.png",
+        "overview": "Dana Scully e Fox Mulder são dois agentes do FBI que investigam casos não solucionados, estranhos e inexplicáveis que envolvem fenômenos paranormais.",
+        "vote_average": 8.369,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:51Z"
+      },
+      {
+        "rank": 6,
         "platform": "prime",
         "content_type": "series",
         "title": "Neagley: Detetive Particular",
@@ -644,26 +661,9 @@
         "logo_path": "/bvb28Sl2yQms3DgWqTFOJglNuqw.png",
         "titled_backdrop_path": "/64pSBcPoxAaCXqua5RTywuqYze4.jpg",
         "overview": "Um novo capítulo começa no universo de REACHER. Frances Neagley é uma investigadora particular em Chicago e ex-colega de Jack Reacher na 110ª Unidade de Investigações Especiais do Exército. Ao saber que um amigo querido de seu passado morreu em um acidente suspeito, ela fica determinada a obter justiça.",
-        "vote_average": 8.081,
+        "vote_average": 8.1,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:55Z"
-      },
-      {
-        "rank": 6,
-        "platform": "prime",
-        "content_type": "series",
-        "title": "Arquivo X",
-        "original_title": "The X-Files",
-        "year": 1993,
-        "tmdb_id": 4087,
-        "imdb_id": "tt0106179",
-        "poster_path": "/bA4XkQR5VAuiszhbfDhR0siZgiI.jpg",
-        "backdrop_path": "/w00lfexrsOeR25dO4hsWhbcUnmD.jpg",
-        "logo_path": "/1pHCk3SJPi7FF8vuvUM0dbgM1ao.png",
-        "overview": "Dana Scully e Fox Mulder são dois agentes do FBI que investigam casos não solucionados, estranhos e inexplicáveis que envolvem fenômenos paranormais.",
-        "vote_average": 8.4,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:55Z"
+        "fetched_at": "2026-10-20T14:00:51Z"
       },
       {
         "rank": 7,
@@ -680,7 +680,7 @@
         "overview": "John Nolan, um homem de 40 anos, deixa para trás sua vida confortável em uma cidade pequena para viver seu sonho de ser um agente policial no Departamento de Polícia de Los Angeles. Como o novato mais velho, ele enfrenta a descrença de seus colegas.",
         "vote_average": 8.538,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:55Z"
+        "fetched_at": "2026-10-20T14:00:51Z"
       },
       {
         "rank": 8,
@@ -698,42 +698,40 @@
         "overview": "Os irmãos Dean e Sam vasculham o país em busca de atividades paranormais, brigando com demônios, fantasmas e monstros no caminho.",
         "vote_average": 8.315,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:55Z"
+        "fetched_at": "2026-10-20T14:00:51Z"
       },
       {
         "rank": 9,
         "platform": "prime",
         "content_type": "series",
-        "title": "The Chosen: Os Escolhidos",
-        "original_title": "The Chosen",
-        "year": 2019,
-        "tmdb_id": 85077,
-        "imdb_id": "tt5622316",
-        "poster_path": "/9lL4etMuaZnqlSzkf0zEm3gbvlR.jpg",
-        "backdrop_path": "/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
-        "logo_path": "/8oywdWTaWK7CZN9NsZWrQkTZTWw.png",
-        "overview": "Aprofundando-se nas histórias de fundo e no contexto das pessoas e eventos dos evangelhos, a Primeira Temporada do projeto de mídia de maior financiamento coletivo pelo público de todos os tempos apresenta pessoas como Simão Pedro, Nicodemos, Maria Madalena, Mateus e, claro, Jesus de uma forma nunca antes vista em filme.",
-        "vote_average": 8.836,
+        "title": "Lei & Ordem: Unidade de Vítimas Especiais",
+        "original_title": "Law & Order: Special Victims Unit",
+        "year": 1999,
+        "tmdb_id": 2734,
+        "imdb_id": "tt0203259",
+        "poster_path": "/nYkYmNFfKydgrcO45oNjOnW0FDJ.jpg",
+        "backdrop_path": "/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
+        "logo_path": "/alFlqrKl8goKfo96TNCRtCih7wH.png",
+        "titled_backdrop_path": "/iXtR59rIBBdFRfcWeuS1BWwQ5MA.jpg",
+        "overview": "Detetives que fazem parte da Unidade de Vítimas Especiais da polícia de Nova York investigam crimes de natureza sexual, como estupros, em que a vítima sobrevive, e auxilia as autoridades na investigação.",
+        "vote_average": 7.961,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:55Z"
+        "fetched_at": "2026-10-20T14:00:51Z"
       },
       {
         "rank": 10,
         "platform": "prime",
         "content_type": "series",
-        "title": "Homens de Terno",
-        "original_title": "Suits",
-        "year": 2011,
-        "tmdb_id": 37680,
-        "imdb_id": "tt1632701",
-        "poster_path": "/ubEYUaE1EOBnSgb1OteAeGJP1E5.jpg",
-        "backdrop_path": "/or0E36KfzJYZwqXeiCfm1JgepKF.jpg",
-        "logo_path": "/iy4eoa2gibgtgXSKRugpcTO1v2S.png",
-        "titled_backdrop_path": "/8fRHv1C6x0sQ23gsDVx9Hr7riu8.jpg",
-        "overview": "Mesmo sem se formar e sem licença para advogar, um jovem brilhante impressiona um importante advogado e consegue uma cobiçada posição em sua firma.",
-        "vote_average": 8.217,
+        "title": "Prohibida Obsesión",
+        "original_title": "Prohibida Obsesión",
+        "year": 2026,
+        "tmdb_id": 337721,
+        "imdb_id": "tt46657547",
+        "poster_path": "/wCZtNtSDUj9oH92nXRX3Km2LC6P.jpg",
+        "backdrop_path": "/kxSXi0AvfLOr7dzdgUfTbDWP6wH.jpg",
+        "vote_average": 2.0,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:55Z"
+        "fetched_at": "2026-10-20T14:00:51Z"
       }
     ],
     "disney": [
@@ -751,9 +749,9 @@
         "logo_path": "/edqPHApNY0vQHYKOj2kycjyeMOO.png",
         "titled_backdrop_path": "/lRCpJxk94s6FdSlTstLk0rVoCDR.jpg",
         "overview": "O trabalho de Buzz, Woody, Jessie e do resto da gangue fica exponencialmente mais difícil quando eles enfrentam uma nova ameaça à diversão: a tecnologia.",
-        "vote_average": 8.285,
+        "vote_average": 8.281,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:56Z"
+        "fetched_at": "2026-10-20T14:00:52Z"
       },
       {
         "rank": 2,
@@ -769,9 +767,9 @@
         "logo_path": "/qAgFWZZFCtQUx2b7QcCzFE20yyW.png",
         "titled_backdrop_path": "/tZ6PAiaydcJvoz7NWMvqxM0HYR3.jpg",
         "overview": "Um homem adquire um androide com inteligência artificial para lidar com o luto de sua falecida esposa. No entanto, ao tentar criar uma parceira verdadeiramente senciente, ele acaba transformando, inadvertidamente, um robô inofensivo em uma alma gêmea mortal.",
-        "vote_average": 7.457,
+        "vote_average": 7.459,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:56Z"
+        "fetched_at": "2026-10-20T14:00:52Z"
       },
       {
         "rank": 3,
@@ -789,7 +787,7 @@
         "overview": "O embaixador americano e a esposa querem muito ter filhos. Quando ela dá à luz um bebê morto e um padre sugere que adotem um recém-nascido saudável e órfão, ele aceita sem contar à mulher. O que ele não sabe é que o bebê é o anticristo.",
         "vote_average": 7.4,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:56Z"
+        "fetched_at": "2026-10-20T14:00:52Z"
       },
       {
         "rank": 4,
@@ -805,9 +803,9 @@
         "logo_path": "/d4hqEtkFKQGP8Qypcbc6EZWmuka.png",
         "titled_backdrop_path": "/tnrt3Sox7d0IGIEiqsIOkcfkfQ5.jpg",
         "overview": "Miranda Priestly navega por sua carreira em meio ao declínio das publicações tradicionais de revistas. Ela se confronta com Emily Charlton, sua ex-assistente, agora uma influente executiva de um grupo de luxo, que detém verbas publicitárias de que Miranda Priestly precisa desesperadamente.",
-        "vote_average": 7.033,
+        "vote_average": 7.03,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:56Z"
+        "fetched_at": "2026-10-20T14:00:52Z"
       },
       {
         "rank": 5,
@@ -823,9 +821,9 @@
         "logo_path": "/zzag2pCifCmFmNn0PLEyFXSUE8N.png",
         "titled_backdrop_path": "/A8Fay7kweGyhHmZir230N2Zo3Id.jpg",
         "overview": "O maligno Império caiu e os senhores da guerra Imperiais ainda estão espalhados pela galáxia. Enquanto a jovem Nova República luta para proteger tudo pelo que a Rebelião batalhou, ela conta com a ajuda do lendário caçador de recompensas Mandaloriano Din Djarin e seu jovem aprendiz Grogu.",
-        "vote_average": 7.452,
+        "vote_average": 7.458,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:56Z"
+        "fetched_at": "2026-10-20T14:00:52Z"
       },
       {
         "rank": 6,
@@ -841,9 +839,9 @@
         "logo_path": "/tBweTOqE8fudj7D2mCorKtkaHvw.png",
         "titled_backdrop_path": "/dvXDzj3vc9hZLTP5b9K8bM2lEU7.jpg",
         "overview": "Dr. Malcolm Crowe é um conceituado psicólogo infantil, que vive atormentado pela terrível lembrança de um jovem paciente que ele não foi capaz de ajudar. Quando ele encontra Cole Sear, um garoto de 8 anos assustado e confuso, com um problema similar, Dr. Crowe procura redimir seu erro do passado, fazendo tudo que pode pelo menino. Apesar disso, Malcolm não está preparado para descobrir a verdade que aterroriza Cole.",
-        "vote_average": 8.0,
+        "vote_average": 7.956,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:56Z"
+        "fetched_at": "2026-10-20T14:00:52Z"
       },
       {
         "rank": 7,
@@ -859,9 +857,9 @@
         "logo_path": "/lv0b9b33slstEDT9y7x57jcx9N0.png",
         "titled_backdrop_path": "/wbXJluLxUvHIzCAX25CYjFic4Md.jpg",
         "overview": "Durante os bombardeios da Segunda Guerra Mundial de Londres, quatro irmãos ingleses são enviados para uma casa de campo onde eles estarão seguros. Um dia, Lucy encontra um guarda-roupa que a transporta para um mundo mágico chamado Nárnia. Depois de voltar, ela logo volta a Nárnia com seus irmãos, Peter e Edmund, e sua irmã, Susan. Lá eles se juntam ao leão mágico, Aslan, na luta contra a Feiticeira Branca.",
-        "vote_average": 7.1,
+        "vote_average": 7.145,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:56Z"
+        "fetched_at": "2026-10-20T14:00:52Z"
       },
       {
         "rank": 8,
@@ -879,10 +877,28 @@
         "overview": "Após um acidente aéreo, um chefe e uma funcionária que se odeiam são os únicos sobreviventes. Isolados numa ilha deserta, eles precisam decidir se cooperam ou competem para escapar, mas é difícil deixar para trás os conflitos do escritório.",
         "vote_average": 7.006,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:56Z"
+        "fetched_at": "2026-10-20T14:00:52Z"
       },
       {
         "rank": 9,
+        "platform": "disney",
+        "content_type": "movie",
+        "title": "Três Anúncios Para Um Crime",
+        "original_title": "Three Billboards Outside Ebbing, Missouri",
+        "year": 2017,
+        "tmdb_id": 359940,
+        "imdb_id": "tt5027774",
+        "poster_path": "/vkmSz7x18uaNqzWVp2UeYOgsSSA.jpg",
+        "backdrop_path": "/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg",
+        "logo_path": "/ne2SCcJwnPWL2UDrmwf0OeJ1FLE.png",
+        "titled_backdrop_path": "/4HQP3DZ1onJD4eaCjQSNSH20COU.jpg",
+        "overview": "Inconformada com a ineficácia da polícia em encontrar o culpado pelo brutal assassinato de sua filha, Mildred Hayes decide chamar atenção para o caso não solucionado alugando três outdoors em uma estrada raramente usada. A inesperada atitude repercute em toda a cidade e suas consequências afetam várias pessoas, especialmente a própria Mildred e o Delegado Willoughby, responsável pela investigação.",
+        "vote_average": 8.052,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:52Z"
+      },
+      {
+        "rank": 10,
         "platform": "disney",
         "content_type": "movie",
         "title": "O Menu",
@@ -894,26 +910,9 @@
         "backdrop_path": "/4vSBj7BYsyuKCx96EJzGyp20WfY.jpg",
         "logo_path": "/AuJsvilOY54329GR5ICvPjYZ62y.png",
         "overview": "Um casal viaja para uma ilha costeira para comer em um restaurante exclusivo onde o chef preparou um cardápio farto, com algumas surpresas chocantes.",
-        "vote_average": 7.2,
+        "vote_average": 7.179,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:56Z"
-      },
-      {
-        "rank": 10,
-        "platform": "disney",
-        "content_type": "movie",
-        "title": "Sorria",
-        "original_title": "Smile",
-        "year": 2022,
-        "tmdb_id": 882598,
-        "imdb_id": "tt15474916",
-        "poster_path": "/3LfJ1kQZv6OX687rJMOAMzFJlc9.jpg",
-        "backdrop_path": "/kMZIMqEXO5MFd5Y1Ha2jZZF4pvF.jpg",
-        "logo_path": "/pCDfOpEvsXfDktrnY2h28tAJaHg.png",
-        "overview": "Após testemunhar um acidente traumático e bizarro envolvendo um paciente, a Dra. Rose Cotter começa a vivenciar eventos assustadores que ela não consegue explicar.",
-        "vote_average": 6.668,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:56Z"
+        "fetched_at": "2026-10-20T14:00:52Z"
       },
       {
         "rank": 1,
@@ -931,7 +930,7 @@
         "overview": "Um Visão repaginado tem se escondido daqueles que buscam usá-lo como arma. Enquanto permanece na clandestinidade, ele consulta as personalidades de IA embutidas em sua programação, incluindo o infame Ultron, para encontrar seu verdadeiro propósito. Essa vida tranquila de autorreflexão chega ao fim quando uma recompensa por sua cabeça o força a fugir ao lado de Thomas Shepard, um garoto misterioso que pode ser a reencarnação de seu filho.",
         "vote_average": 8.8,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:56Z"
+        "fetched_at": "2026-10-20T14:00:53Z"
       },
       {
         "rank": 2,
@@ -949,7 +948,7 @@
         "overview": "Quando Beerus, o Deus da Destruição, desperta em busca de um rival à altura, Goku e seus amigos enfrentam uma batalha épica para impedi-lo de destruir a Terra.",
         "vote_average": 9.7,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:56Z"
+        "fetched_at": "2026-10-20T14:00:53Z"
       },
       {
         "rank": 3,
@@ -967,27 +966,10 @@
         "overview": "Uma antologia dramática de terror trazendo a cada temporada novas histórias, cenários e personagens perturbadores.",
         "vote_average": 8.1,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:56Z"
+        "fetched_at": "2026-10-20T14:00:53Z"
       },
       {
         "rank": 4,
-        "platform": "disney",
-        "content_type": "series",
-        "title": "O Conto da Aia",
-        "original_title": "The Handmaid's Tale",
-        "year": 2017,
-        "tmdb_id": 69478,
-        "imdb_id": "tt5834204",
-        "poster_path": "/17cRboikG0xwKroMoTZLFUMmplS.jpg",
-        "backdrop_path": "/sokTOq0zAmPS7wCR4qd4Kca35x7.jpg",
-        "logo_path": "/y7geYqnIsYFawKQVko2JrdmsPuY.png",
-        "overview": "Situado em um futuro distópico, uma mulher é forçada a viver como uma concubina sob uma ditadura teocrática fundamentalista. Uma adaptação para a TV do romance de Margaret Atwood.",
-        "vote_average": 8.145,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:56Z"
-      },
-      {
-        "rank": 5,
         "platform": "disney",
         "content_type": "series",
         "title": "Verdade Oculta",
@@ -1002,10 +984,45 @@
         "overview": "Acompanha as aventuras do jornalista independente Lee Raybon, um \"verdadeirista\" de Tulsa, cuja obsessão por desmascarar a corrupção sempre o coloca em apuros. Embora não seja um idealista, Lee está determinado a expor as entranhas da cidade, mesmo que isso o coloque em risco. Quando sua mais recente reportagem, investigando a poderosa família Washberg, é seguida pelo suicídio suspeito de Dale Washberg, Lee sabe que está diante de algo grande. Seguindo pistas deixadas por Dale, Lee descobre que Betty Jo, a viúva, parece mais interessada no cunhado do que no falecido marido. E forças poderosas querem impedi-lo de descobrir mais.",
         "vote_average": 6.7,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:56Z"
+        "fetched_at": "2026-10-20T14:00:53Z"
+      },
+      {
+        "rank": 5,
+        "platform": "disney",
+        "content_type": "series",
+        "title": "O Conto da Aia",
+        "original_title": "The Handmaid's Tale",
+        "year": 2017,
+        "tmdb_id": 69478,
+        "imdb_id": "tt5834204",
+        "poster_path": "/17cRboikG0xwKroMoTZLFUMmplS.jpg",
+        "backdrop_path": "/sokTOq0zAmPS7wCR4qd4Kca35x7.jpg",
+        "logo_path": "/y7geYqnIsYFawKQVko2JrdmsPuY.png",
+        "overview": "Situado em um futuro distópico, uma mulher é forçada a viver como uma concubina sob uma ditadura teocrática fundamentalista. Uma adaptação para a TV do romance de Margaret Atwood.",
+        "vote_average": 8.146,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:53Z"
       },
       {
         "rank": 6,
+        "platform": "disney",
+        "content_type": "series",
+        "title": "Amor da Minha Vida",
+        "original_title": "Amor da Minha Vida",
+        "year": 2024,
+        "tmdb_id": 224505,
+        "imdb_id": "tt27517632",
+        "poster_path": "/5PNHcAAHHLzMRzfDRrUxvCp2O6.jpg",
+        "backdrop_path": "/to8X0d7p3PfOmajWx55p9OyHWrb.jpg",
+        "logo_path": "/vv56FLqZNo5hDHQzYbWQWKeZJmN.png",
+        "titled_backdrop_path": "/40vAxCsM7t23bdsHP6VztweZx0Y.jpg",
+        "overview": "Bia e Victor são melhores amigos e grandes confidentes um do outro. Enquanto ele vive um relacionamento antigo que caiu no tédio, ela coleciona namoros curtos, dos mais diferentes tipos, sem nunca acreditar no amor.",
+        "vote_average": 7.964,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:53Z"
+      },
+      {
+        "rank": 7,
         "platform": "disney",
         "content_type": "series",
         "title": "Grey's Anatomy",
@@ -1020,25 +1037,7 @@
         "overview": "Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e consequências de vida ou morte. É um no outro que eles encontram apoio, conforto, amizade e, às vezes, até mais que amizade... Juntos, eles descobrem o quanto a vida profissional e a pessoal podem ser complicadas e se misturarem no meio do caminho.",
         "vote_average": 8.205,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:56Z"
-      },
-      {
-        "rank": 7,
-        "platform": "disney",
-        "content_type": "series",
-        "title": "Amor da Minha Vida",
-        "original_title": "Amor da Minha Vida",
-        "year": 2024,
-        "tmdb_id": 224505,
-        "imdb_id": "tt27517632",
-        "poster_path": "/5PNHcAAHHLzMRzfDRrUxvCp2O6.jpg",
-        "backdrop_path": "/to8X0d7p3PfOmajWx55p9OyHWrb.jpg",
-        "logo_path": "/vv56FLqZNo5hDHQzYbWQWKeZJmN.png",
-        "titled_backdrop_path": "/40vAxCsM7t23bdsHP6VztweZx0Y.jpg",
-        "overview": "Bia e Victor são melhores amigos e grandes confidentes um do outro. Enquanto ele vive um relacionamento antigo que caiu no tédio, ela coleciona namoros curtos, dos mais diferentes tipos, sem nunca acreditar no amor.",
-        "vote_average": 8.0,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:56Z"
+        "fetched_at": "2026-10-20T14:00:53Z"
       },
       {
         "rank": 8,
@@ -1053,9 +1052,9 @@
         "backdrop_path": "/w00lfexrsOeR25dO4hsWhbcUnmD.jpg",
         "logo_path": "/1pHCk3SJPi7FF8vuvUM0dbgM1ao.png",
         "overview": "Dana Scully e Fox Mulder são dois agentes do FBI que investigam casos não solucionados, estranhos e inexplicáveis que envolvem fenômenos paranormais.",
-        "vote_average": 8.4,
+        "vote_average": 8.369,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:56Z"
+        "fetched_at": "2026-10-20T14:00:53Z"
       },
       {
         "rank": 9,
@@ -1070,9 +1069,9 @@
         "backdrop_path": "/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
         "logo_path": "/j9ZZ7WV5pwLLXbbebyGdMUxbqrc.png",
         "overview": "Num mundo onde magia é tudo, Asta e Yuno são abandonados em uma igreja no mesmo dia. Enquanto Yuno possui poderes mágicos excepcionais, Asta é a única pessoa do mundo todo desprovida desse dom. Aos quinze anos, ambos recebem grimórios - livros mágicos que amplificam os poderes do detentor. Asta recebe um raro grimório de anti-magia, capaz de negar e repelir os feitiços do oponente. Dois opostos que nutrem uma rivalidade amigável, Yuno e Asta estão prontos para encarar os mais difíceis desafios para conquistar seu sonho em comum: tornar-se o Rei dos Feiticeiros. Desistir não é opção!",
-        "vote_average": 8.5,
+        "vote_average": 8.517,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:56Z"
+        "fetched_at": "2026-10-20T14:00:53Z"
       },
       {
         "rank": 10,
@@ -1089,7 +1088,7 @@
         "overview": "A agente do FBI Alice Black está à caça de uma misteriosa e calculista assassina em série. Ambas trilham caminhos distintos em busca de justiça, e à medida que suas vidas começam a se entrelaçar, a linha entre o certo e o errado se torna cada vez mais tênue.",
         "vote_average": 7.4,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:56Z"
+        "fetched_at": "2026-10-20T14:00:53Z"
       }
     ],
     "hbo": [
@@ -1107,9 +1106,9 @@
         "logo_path": "/frduTXISeDZfAFcanjwoo8SbI2j.png",
         "titled_backdrop_path": "/yYz1VpuNMwCc0FYa3GcMccVvVCN.jpg",
         "overview": "Após a perda do marido, uma mulher busca consolo com seus sogros em sua casa isolada. À medida que, um a um, eles são transformados em Deadites — transformando o encontro em uma reunião familiar infernal —, ela descobre que os votos que fez em vida... continuam vivos mesmo após a morte.",
-        "vote_average": 7.601,
+        "vote_average": 7.6,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:57Z"
+        "fetched_at": "2026-10-20T14:00:53Z"
       },
       {
         "rank": 2,
@@ -1125,47 +1124,12 @@
         "logo_path": "/d7pA3cdwXiGaiHrGiBtIRTfMvWk.png",
         "titled_backdrop_path": "/t5suADPoxopRGJlqZw0wGoMJPFU.jpg",
         "overview": "Dispostos a deixar suas vidas conturbadas para trás, irmãos gêmeos retornam à sua cidade natal para recomeçar suas vidas do zero, quando descobrem que um mal ainda maior está à espera deles para recebê-los de volta.",
-        "vote_average": 7.5,
+        "vote_average": 7.514,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:57Z"
+        "fetched_at": "2026-10-20T14:00:53Z"
       },
       {
         "rank": 3,
-        "platform": "hbo",
-        "content_type": "movie",
-        "title": "V de Vingança",
-        "original_title": "V for Vendetta",
-        "year": 2006,
-        "tmdb_id": 752,
-        "imdb_id": "tt0434409",
-        "poster_path": "/Awk4uagfl0wz6WiqlCitfswHwcT.jpg",
-        "backdrop_path": "/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg",
-        "logo_path": "/8ruYhvn5Ku4GP7H9eORJPMfPjvz.png",
-        "overview": "Após uma guerra mundial, a Inglaterra é ocupada por um governo fascista e vive sob um regime totalitário. Na luta pela liberdade, um vigilante, conhecido apenas como V, utiliza-se de táticas terroristas para enfrentar os opressores da sociedade. V salva uma jovem chamada Evey da polícia secreta e encontra nela uma nova aliada em busca de liberdade e justiça para o seu país.",
-        "vote_average": 7.9,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:57Z"
-      },
-      {
-        "rank": 4,
-        "platform": "hbo",
-        "content_type": "movie",
-        "title": "Supergirl",
-        "original_title": "Supergirl",
-        "year": 2026,
-        "tmdb_id": 1081003,
-        "imdb_id": "tt8814476",
-        "poster_path": "/pgKFmJ4mvohpI6LUdRj6uIn6wQR.jpg",
-        "backdrop_path": "/heZQmyNvkH236ha2M3JckdUQQqb.jpg",
-        "logo_path": "/sOKyZ1al829AnlmjWoghvzXFbQ6.png",
-        "titled_backdrop_path": "/xOZPlGZfzwCgYEPevFK75SO957a.jpg",
-        "overview": "Quando um adversário implacável atinge alguém muito próximo dela, Kara Zor-El relutantemente une forças com uma companheira improvável em uma épica jornada interestelar de vingança e justiça.",
-        "vote_average": 6.6,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:57Z"
-      },
-      {
-        "rank": 5,
         "platform": "hbo",
         "content_type": "movie",
         "title": "Os Domingos",
@@ -1180,7 +1144,42 @@
         "overview": "Este aclamado drama acompanha uma jovem que enfrenta um dilema pessoal ao revelar seu desejo de se tornar freira. A decisão provoca uma série de questionamentos que colocam à prova os laços familiares, a religião e a fé.",
         "vote_average": 6.9,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:57Z"
+        "fetched_at": "2026-10-20T14:00:53Z"
+      },
+      {
+        "rank": 4,
+        "platform": "hbo",
+        "content_type": "movie",
+        "title": "V de Vingança",
+        "original_title": "V for Vendetta",
+        "year": 2006,
+        "tmdb_id": 752,
+        "imdb_id": "tt0434409",
+        "poster_path": "/Awk4uagfl0wz6WiqlCitfswHwcT.jpg",
+        "backdrop_path": "/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg",
+        "logo_path": "/8ruYhvn5Ku4GP7H9eORJPMfPjvz.png",
+        "overview": "Após uma guerra mundial, a Inglaterra é ocupada por um governo fascista e vive sob um regime totalitário. Na luta pela liberdade, um vigilante, conhecido apenas como V, utiliza-se de táticas terroristas para enfrentar os opressores da sociedade. V salva uma jovem chamada Evey da polícia secreta e encontra nela uma nova aliada em busca de liberdade e justiça para o seu país.",
+        "vote_average": 7.897,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:53Z"
+      },
+      {
+        "rank": 5,
+        "platform": "hbo",
+        "content_type": "movie",
+        "title": "Supergirl",
+        "original_title": "Supergirl",
+        "year": 2026,
+        "tmdb_id": 1081003,
+        "imdb_id": "tt8814476",
+        "poster_path": "/pgKFmJ4mvohpI6LUdRj6uIn6wQR.jpg",
+        "backdrop_path": "/heZQmyNvkH236ha2M3JckdUQQqb.jpg",
+        "logo_path": "/sOKyZ1al829AnlmjWoghvzXFbQ6.png",
+        "titled_backdrop_path": "/xOZPlGZfzwCgYEPevFK75SO957a.jpg",
+        "overview": "Quando um adversário implacável atinge alguém muito próximo dela, Kara Zor-El relutantemente une forças com uma companheira improvável em uma épica jornada interestelar de vingança e justiça.",
+        "vote_average": 6.643,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:53Z"
       },
       {
         "rank": 6,
@@ -1195,30 +1194,12 @@
         "backdrop_path": "/2W2k9vb7tyFVmQ1yEb0P2vCBSeE.jpg",
         "logo_path": "/b09DEoHv0Gk8FtlejDMIN6S48eH.png",
         "overview": "Duas irmãs, criadas por tias feiticeiras, tentam levar uma vida comum não utilizando seus poderes mágicos.",
-        "vote_average": 6.826,
+        "vote_average": 6.824,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:57Z"
+        "fetched_at": "2026-10-20T14:00:53Z"
       },
       {
         "rank": 7,
-        "platform": "hbo",
-        "content_type": "movie",
-        "title": "Mickey 17",
-        "original_title": "Mickey 17",
-        "year": 2025,
-        "tmdb_id": 696506,
-        "imdb_id": "tt12299608",
-        "poster_path": "/is1U9n0e9ofg50U1T7p2WZuIwiO.jpg",
-        "backdrop_path": "/9PRKAdrDvAdCfg3EcApLTfzGsEt.jpg",
-        "logo_path": "/ffJVoywEy5F838YkqBljNm0yyit.png",
-        "titled_backdrop_path": "/eXI4f84TORypmQ5vQGWtapvcYeP.jpg",
-        "overview": "Mickey faz parte de um programa espacial de colonização e sempre é enviado para missões perigosas, quase suicidas. Se morrer, ele é clonado e boa parte de suas memórias são recuperadas. Mas, após seis mortes, ele começa a entender o porquê de seu cargo nunca ter sido ocupado antes.",
-        "vote_average": 6.817,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:57Z"
-      },
-      {
-        "rank": 8,
         "platform": "hbo",
         "content_type": "movie",
         "title": "A Hora do Mal",
@@ -1233,60 +1214,78 @@
         "overview": "Quando todas as crianças de uma mesma classe, exceto uma, somem misteriosamente, na mesma noite e exatamente ao mesmo tempo, todos da cidade começam a se questionar quem ou o que está por trás deste estranho desaparecimento.",
         "vote_average": 7.264,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:57Z"
+        "fetched_at": "2026-10-20T14:00:53Z"
+      },
+      {
+        "rank": 8,
+        "platform": "hbo",
+        "content_type": "movie",
+        "title": "O Regresso",
+        "original_title": "The Revenant",
+        "year": 2015,
+        "tmdb_id": 281957,
+        "imdb_id": "tt1663202",
+        "poster_path": "/hRotKKijqV6YibxnhSOureF5efx.jpg",
+        "backdrop_path": "/hEQYZq2CDB2LSJVxxlazdBOKeyW.jpg",
+        "logo_path": "/6KGVQ6y6wBvhod1nNMRxxhld1Cy.png",
+        "titled_backdrop_path": "/8HUnD1qJOuUUuoUJAJoOo2eP3Mm.jpg",
+        "overview": "Durante uma expedição em uma selvagem região americana, o lendário explorador Hugh Glass é brutalmente atacado por um urso e deixado para morrer por membros de seu próprio grupo de caça. Em sua cruzada pela sobrevivência, Glass supera tribulações inimagináveis, bem como a traição de seu confidente John Fitzgerald. Guiado por pura determinação e pelo amor de sua família, Glass precisa superar um inverno rigoroso enquanto busca incansavelmente um motivo para seguir em frente e encontrar a redenção.",
+        "vote_average": 7.542,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:53Z"
       },
       {
         "rank": 9,
         "platform": "hbo",
         "content_type": "movie",
-        "title": "Caçada",
-        "original_title": "Hunter Hunter",
-        "year": 2020,
-        "tmdb_id": 759902,
-        "imdb_id": "tt2226162",
-        "poster_path": "/kgtXt56vGKXKqKmD8cFoqGQKhaY.jpg",
-        "backdrop_path": "/4obIhFZBUxn0aRL1hO1wMyPca8o.jpg",
-        "logo_path": "/vLVy4qgMDtXLtfU9hg5uZRFlGHk.png",
-        "overview": "Joseph e sua família vivem no deserto remoto como caçadores de peles, mas sua tranquilidade começa a ser ameaçada quando eles pensam que estão sendo caçados pelo retorno de um lobo rebelde e Joseph os deixa para trás para rastreá-lo.",
-        "vote_average": 6.417,
+        "title": "Os Observadores",
+        "original_title": "The Watchers",
+        "year": 2024,
+        "tmdb_id": 1086747,
+        "imdb_id": "tt26736843",
+        "poster_path": "/bJ3zy7UN8VoA23LSDkt7JlQg1a9.jpg",
+        "backdrop_path": "/whnFKx0Y54Ktg6o2TiwbnQfXdZf.jpg",
+        "logo_path": "/2mrKoZWkTN0NdNG01U35weGKgIe.png",
+        "overview": "Mina, uma artista de 28 anos, se perde em uma imensa e assustadora floresta natural no oeste da Irlanda. Quando Mina finalmente encontra abrigo, ela acaba presa ao lado de três estranhos que são vigiados e perseguidos por criaturas misteriosas todas as noites.",
+        "vote_average": 6.336,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:57Z"
+        "fetched_at": "2026-10-20T14:00:53Z"
       },
       {
         "rank": 10,
         "platform": "hbo",
         "content_type": "movie",
-        "title": "Território do Crime",
-        "original_title": "Território do Crime",
-        "year": 2026,
-        "tmdb_id": 1772626,
-        "imdb_id": "tt36946387",
-        "poster_path": "/pD2JIK2NdZaFnyYRMn2EuFR5KPu.jpg",
-        "backdrop_path": "/4prxj3x8Ls5TWyebJVNeETgI2Y6.jpg",
-        "logo_path": "/qgwexi1v8mi0kvMysevZz15DKWh.png",
-        "titled_backdrop_path": "/zEhUZzL4zLS2krV7vnr6nHlMrei.jpg",
-        "overview": "Em uma cidade do norte do Brasil, diferentes forças do crime disputam o controle do território. De um lado, Gilvan, chefe de uma milícia que também comanda um programa sensacionalista. Do outro, Dino, um dos principais nomes do tráfico na região. Quando a milícia decide expandir seus domínios, uma guerra pelo poder toma conta das ruas. Em meio ao conflito, a policial Andreia começa a desconfiar das operações realizadas contra os criminosos. Ao investigar os bastidores da disputa, ela descobre que o combate ao crime pode estar servindo aos interesses de quem busca controlar a cidade.",
+        "title": "De Olhos Bem Fechados",
+        "original_title": "Eyes Wide Shut",
+        "year": 1999,
+        "tmdb_id": 345,
+        "imdb_id": "tt0120663",
+        "poster_path": "/pmU8WQ2fOdxLuYaNe1kHE2L8SlI.jpg",
+        "backdrop_path": "/cAZ87S5bONxKMMAlPxK8LZvdOcm.jpg",
+        "logo_path": "/tKylNtA3Twftgs8tf8YI7hb7yyZ.png",
+        "titled_backdrop_path": "/i8AqvGMRnWDwvBao6ATcXIvMlbc.jpg",
+        "overview": "Alice, uma curadora de arte, é casada com o doutor Bill Harford. Juntos formam um casal perfeito, porém depois de participarem de uma festa, Alice confessa ter tido atração e fantasias sexuais com outro homem, que também estava na festa. Os dois começam a discutir e Bill passa a se perguntar o porquê disto estar acontecendo com ele, então ele vai procurar seu amigo Nick Nightingale, que irá lhe mostrar um mundo de fantasias e jogos sexuais.",
         "vote_average": 7.5,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:57Z"
+        "fetched_at": "2026-10-20T14:00:53Z"
       },
       {
         "rank": 1,
         "platform": "hbo",
         "content_type": "series",
-        "title": "Lanternas",
-        "original_title": "Lanterns",
+        "title": "Dragon Ball Super: Beerus",
+        "original_title": "ドラゴンボール超 ビルス",
         "year": 2026,
-        "tmdb_id": 95350,
-        "imdb_id": "tt26545992",
-        "poster_path": "/uDApmmpVLIzBlEhUpdsJOzpplIu.jpg",
-        "backdrop_path": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-        "logo_path": "/2lGf3vBvKet8Kaeb7PUbnfjWcte.png",
-        "titled_backdrop_path": "/ffAzwdmoZtst1ObcBHpNmGdBWrI.jpg",
-        "overview": "Dois policiais intergalácticos, o recruta novato John Stewart e o lendário Lanterna Verde Hal Jordan, se veem envolvidos em um mistério sombrio que se passa na Terra enquanto investigam um assassinato no coração dos Estados Unidos.",
-        "vote_average": 8.2,
+        "tmdb_id": 312359,
+        "imdb_id": "tt39395275",
+        "poster_path": "/w5ai45092PIlV1Vbt7kswry2C03.jpg",
+        "backdrop_path": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+        "logo_path": "/f6iqLFmexkPkZr2GLG3pXZ7xEZo.png",
+        "titled_backdrop_path": "/e4N2vUEmnoLyMQ7pKdvRdDYe75T.jpg",
+        "overview": "Quando Beerus, o Deus da Destruição, desperta em busca de um rival à altura, Goku e seus amigos enfrentam uma batalha épica para impedi-lo de destruir a Terra.",
+        "vote_average": 9.7,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:57Z"
+        "fetched_at": "2026-10-20T14:00:54Z"
       },
       {
         "rank": 2,
@@ -1304,25 +1303,25 @@
         "overview": "Patrick Jane é famoso por sua habilidade de alta percepção de tudo que está ao seu redor. Ele já quase foi uma celebridade, alegando ser médium vidente, mas agora admite que fingia ter poderes paranormais. Com sua grande habilidade de observação, Patrick trabalha como consultor independente para as autoridades da Califórnia, resolvendo um número considerável de crimes complicados.",
         "vote_average": 8.4,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:57Z"
+        "fetched_at": "2026-10-20T14:00:54Z"
       },
       {
         "rank": 3,
         "platform": "hbo",
         "content_type": "series",
-        "title": "Dragon Ball Super: Beerus",
-        "original_title": "ドラゴンボール超 ビルス",
+        "title": "Lanternas",
+        "original_title": "Lanterns",
         "year": 2026,
-        "tmdb_id": 312359,
-        "imdb_id": "tt39395275",
-        "poster_path": "/w5ai45092PIlV1Vbt7kswry2C03.jpg",
-        "backdrop_path": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-        "logo_path": "/f6iqLFmexkPkZr2GLG3pXZ7xEZo.png",
-        "titled_backdrop_path": "/e4N2vUEmnoLyMQ7pKdvRdDYe75T.jpg",
-        "overview": "Quando Beerus, o Deus da Destruição, desperta em busca de um rival à altura, Goku e seus amigos enfrentam uma batalha épica para impedi-lo de destruir a Terra.",
-        "vote_average": 9.7,
+        "tmdb_id": 95350,
+        "imdb_id": "tt26545992",
+        "poster_path": "/uDApmmpVLIzBlEhUpdsJOzpplIu.jpg",
+        "backdrop_path": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+        "logo_path": "/2lGf3vBvKet8Kaeb7PUbnfjWcte.png",
+        "titled_backdrop_path": "/ffAzwdmoZtst1ObcBHpNmGdBWrI.jpg",
+        "overview": "Dois policiais intergalácticos, o recruta novato John Stewart e o lendário Lanterna Verde Hal Jordan, se veem envolvidos em um mistério sombrio que se passa na Terra enquanto investigam um assassinato no coração dos Estados Unidos.",
+        "vote_average": 8.227,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:57Z"
+        "fetched_at": "2026-10-20T14:00:54Z"
       },
       {
         "rank": 4,
@@ -1340,7 +1339,7 @@
         "overview": "Série de antologia em que dois dos escritórios de advocacia mais poderosos de Londres se enfrentam em batalhas jurídicas explosivas.",
         "vote_average": 7.4,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:57Z"
+        "fetched_at": "2026-10-20T14:00:54Z"
       },
       {
         "rank": 5,
@@ -1355,30 +1354,12 @@
         "backdrop_path": "/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
         "logo_path": "/j9ZZ7WV5pwLLXbbebyGdMUxbqrc.png",
         "overview": "Num mundo onde magia é tudo, Asta e Yuno são abandonados em uma igreja no mesmo dia. Enquanto Yuno possui poderes mágicos excepcionais, Asta é a única pessoa do mundo todo desprovida desse dom. Aos quinze anos, ambos recebem grimórios - livros mágicos que amplificam os poderes do detentor. Asta recebe um raro grimório de anti-magia, capaz de negar e repelir os feitiços do oponente. Dois opostos que nutrem uma rivalidade amigável, Yuno e Asta estão prontos para encarar os mais difíceis desafios para conquistar seu sonho em comum: tornar-se o Rei dos Feiticeiros. Desistir não é opção!",
-        "vote_average": 8.5,
+        "vote_average": 8.517,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:57Z"
+        "fetched_at": "2026-10-20T14:00:54Z"
       },
       {
         "rank": 6,
-        "platform": "hbo",
-        "content_type": "series",
-        "title": "A Casa do Dragão",
-        "original_title": "House of the Dragon",
-        "year": 2022,
-        "tmdb_id": 94997,
-        "imdb_id": "tt11198330",
-        "poster_path": "/oKJDm4QCKbp6mR4FnxXrFlPJP8Y.jpg",
-        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-        "logo_path": "/tnG6qt5wBDNxX2TE7iPzfhChkmI.png",
-        "titled_backdrop_path": "/20ZdTTe0CF4Unoj2rsrH5u3zSnw.jpg",
-        "overview": "200 anos antes dos eventos de \"Game of Thrones\", os Targaryen estavam no ápice de seu poder, tendo inúmeros dragões sob seu comando, mas nem tudo dura para sempre. O início do fim da dinastia Targaryen.",
-        "vote_average": 8.4,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:57Z"
-      },
-      {
-        "rank": 7,
         "platform": "hbo",
         "content_type": "series",
         "title": "Cemitério de Animais: Assassinatos e Assombração",
@@ -1391,61 +1372,81 @@
         "logo_path": "/juP4zgCuRBxqaj7r6qm7NEC3fOc.png",
         "titled_backdrop_path": "/4LzJdYb1oiKvioYeh3mFco2Hj9K.jpg",
         "overview": "A investigação do assassinato da dona de um cemitério de animais em Nova Orleans revela um passado inquietante que ainda assombra a comunidade.",
-        "vote_average": 6.5,
+        "vote_average": 7.2,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:57Z"
+        "fetched_at": "2026-10-20T14:00:54Z"
+      },
+      {
+        "rank": 7,
+        "platform": "hbo",
+        "content_type": "series",
+        "title": "A Casa do Dragão",
+        "original_title": "House of the Dragon",
+        "year": 2022,
+        "tmdb_id": 94997,
+        "imdb_id": "tt11198330",
+        "poster_path": "/oKJDm4QCKbp6mR4FnxXrFlPJP8Y.jpg",
+        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "logo_path": "/tnG6qt5wBDNxX2TE7iPzfhChkmI.png",
+        "titled_backdrop_path": "/20ZdTTe0CF4Unoj2rsrH5u3zSnw.jpg",
+        "overview": "200 anos antes dos eventos de \"Game of Thrones\", os Targaryen estavam no ápice de seu poder, tendo inúmeros dragões sob seu comando, mas nem tudo dura para sempre. O início do fim da dinastia Targaryen.",
+        "vote_average": 8.38,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:54Z"
       },
       {
         "rank": 8,
         "platform": "hbo",
         "content_type": "series",
-        "title": "Diários de uma Apotecária",
-        "original_title": "薬屋のひとりごと",
-        "year": 2023,
-        "tmdb_id": 220542,
-        "imdb_id": "tt26743760",
-        "poster_path": "/t8fC3K3XnwE6Iso6b1bi5Fdo93n.jpg",
-        "backdrop_path": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-        "logo_path": "/3mjErHRF4zRYIcdmK1jbAHL158m.png",
-        "overview": "Maomao levava uma vida tranquila ao lado de seu pai, um boticário renomado. No entanto, sua vida muda da noite pro dia quando ela é vendida como uma simples serva no palácio do imperador. Incapaz de se adaptar à vida na realeza, Maomao decide tomar medidas drásticas quando os herdeiros imperiais adoecem, embarcando numa missão para encontrar a cura. Sua audácia chama a atenção de Jinshi, um belo funcionário do palácio que decide apoiá-la. Agora, Maomao se envolve em intrigas médicas enquanto sua fama se espalha pelos corredores do palácio!",
-        "vote_average": 8.7,
+        "title": "Tip Toe",
+        "original_title": "Tip Toe",
+        "year": 2026,
+        "tmdb_id": 286617,
+        "imdb_id": "tt35768911",
+        "poster_path": "/61xHU81jszBYRsxJAMjKiSd5jgb.jpg",
+        "backdrop_path": "/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
+        "logo_path": "/gcleyh5KBnoXoYj0yATtD6dwClz.png",
+        "titled_backdrop_path": "/pbBFUHzQm7TQ7cO908pWs06Vhqb.jpg",
+        "overview": "O dono de um bar LGBTQ+ e seu vizinho conservador se envolvem em uma rivalidade feroz quando o ódio e o preconceito tomam conta de suas vidas.",
+        "vote_average": 6.9,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:57Z"
+        "fetched_at": "2026-10-20T14:00:54Z"
       },
       {
         "rank": 9,
         "platform": "hbo",
         "content_type": "series",
-        "title": "The Pitt",
-        "original_title": "The Pitt",
-        "year": 2025,
-        "tmdb_id": 250307,
-        "imdb_id": "tt31938062",
-        "poster_path": "/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-        "backdrop_path": "/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-        "logo_path": "/zqsePGDhPnk5KpSjlZFpmZyy8h6.png",
-        "titled_backdrop_path": "/kT0QQFzIAnaCs9UeloKXtW1EVwQ.jpg",
-        "overview": "A equipe do Centro Médico de Emergência de Pittsburgh trabalha para salvar vidas em um departamento de emergência superlotado e carente de recursos.",
-        "vote_average": 8.735,
+        "title": "Sobrenatural",
+        "original_title": "Supernatural",
+        "year": 2005,
+        "tmdb_id": 1622,
+        "imdb_id": "tt0460681",
+        "poster_path": "/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg",
+        "backdrop_path": "/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
+        "logo_path": "/uvelSpPnZSbSZbt3suKCYOMjHwz.png",
+        "titled_backdrop_path": "/3i4lr9lKWHHqLwxZsPg6pVLlEJv.jpg",
+        "overview": "Os irmãos Dean e Sam vasculham o país em busca de atividades paranormais, brigando com demônios, fantasmas e monstros no caminho.",
+        "vote_average": 8.315,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:57Z"
+        "fetched_at": "2026-10-20T14:00:54Z"
       },
       {
         "rank": 10,
         "platform": "hbo",
         "content_type": "series",
-        "title": "One Piece",
-        "original_title": "ワンピース",
-        "year": 1999,
-        "tmdb_id": 37854,
-        "imdb_id": "tt0388629",
-        "poster_path": "/9ltisibeD4gzqjM1AzmQwCdyirQ.jpg",
-        "backdrop_path": "/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
-        "logo_path": "/9F7daAmibx8ZHTE17CdM5FAwiHE.png",
-        "overview": "Houve um homem que conquistou tudo aquilo que o mundo tinha a oferecer, o lendário Rei dos Piratas, Gold Roger. Capturado e condenado à execução pelo Governo Mundial, suas últimas palavras lançaram legiões aos mares. \"Meu tesouro? Se quiserem, podem pegá-lo. Procurem-no! Ele contém tudo que este mundo pode oferecer!\". Foi a revelação do maior tesouro, o One Piece, cobiçado por homens de todo o mundo, sonhando com fama e riqueza imensuráveis... Assim começou a Grande Era dos Piratas!",
-        "vote_average": 8.8,
+        "title": "Stuart Não Consegue Salvar o Universo",
+        "original_title": "Stuart Fails to Save the Universe",
+        "year": 2026,
+        "tmdb_id": 287620,
+        "imdb_id": "tt27497393",
+        "poster_path": "/7kqLBWdtCSm3rs8zj38epC6jkjH.jpg",
+        "backdrop_path": "/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
+        "logo_path": "/uWd72zb5GkVlimgLo82IIMWbtvr.png",
+        "titled_backdrop_path": "/oGA6IyCHdFiayJ7HBhE1fSJQypo.jpg",
+        "overview": "O dono da loja de quadrinhos Stuart Bloom é encarregado de restaurar a realidade após quebrar acidentalmente um dispositivo construído por Sheldon e Leonard, desencadeando um Armagedom no multiverso. Nessa missão, Stuart é auxiliado por sua namorada Denise, pelo amigo geólogo Bert e pelo físico quântico e irritante Barry Kripke.",
+        "vote_average": 8.305,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:57Z"
+        "fetched_at": "2026-10-20T14:00:54Z"
       }
     ],
     "apple-tv": [
@@ -1463,9 +1464,9 @@
         "logo_path": "/oGcjxm8gwgOgRvZ5TAsrCiwdLoS.png",
         "titled_backdrop_path": "/5BHjIppUPxVGuYqLI2Wkh5BBkGv.jpg",
         "overview": "Um homem determinado embarca em uma jornada arriscada e desafia probabilidades aparentemente impossíveis para realizar seu sonho de ser o primeiro a chegar ao cume do Monte Everest.",
-        "vote_average": 8.278,
+        "vote_average": 8.327,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:58Z"
+        "fetched_at": "2026-10-20T14:00:55Z"
       },
       {
         "rank": 2,
@@ -1483,7 +1484,7 @@
         "overview": "Quando um grupo de antigos amigos de infância se reencontra, o encontro toma um rumo inesperado ao se depararem com uma perigosa trama internacional e precisarem salvar o mundo.",
         "vote_average": 7.8,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:58Z"
+        "fetched_at": "2026-10-20T14:00:55Z"
       },
       {
         "rank": 3,
@@ -1499,9 +1500,9 @@
         "logo_path": "/pGv2k86yKzO4viRfKvRlYbbedQ2.png",
         "titled_backdrop_path": "/nFNCdoKCDE4Gc27iEBh5yiF7DwX.jpg",
         "overview": "Quando um piloto da Marinha dos EUA, em uma missão ultrassecreta durante a Guerra Fria, fica preso em território inimigo, sua única chance de sobreviver é formar uma aliança com um excêntrico ex-agente da KGB.",
-        "vote_average": 7.911,
+        "vote_average": 7.907,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:58Z"
+        "fetched_at": "2026-10-20T14:00:55Z"
       },
       {
         "rank": 4,
@@ -1519,7 +1520,7 @@
         "overview": "O matemático Christian Wolff sente-se muito mais à vontade lidando com números do que com pessoas. Atualmente, trabalha como contador autônomo para uma das maiores organizações criminosas do mundo. Com a receita federal no encalço, ele resolve mudar de ares e atender um novo cliente, uma empresa de equipamentos robóticos onde um dos funcionários descobriu um desvio gigantesco de recursos. À medida que Christian se aprofunda nos registros da empresa e se aproxima da verdade, o número de cadáveres começa a crescer rapidamente.",
         "vote_average": 7.141,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:58Z"
+        "fetched_at": "2026-10-20T14:00:55Z"
       },
       {
         "rank": 5,
@@ -1537,10 +1538,27 @@
         "overview": "Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury. Convocado para mais uma missão heroica, ele precisa enfrentar vários vilões que surgem em cidades-símbolo do continente, como Londres, Paris e Veneza, e também a aparição do enigmático Mysterio.",
         "vote_average": 7.388,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:58Z"
+        "fetched_at": "2026-10-20T14:00:55Z"
       },
       {
         "rank": 6,
+        "platform": "apple-tv",
+        "content_type": "movie",
+        "title": "Charlie Brown e a Grande Abóbora",
+        "original_title": "It's the Great Pumpkin, Charlie Brown",
+        "year": 1966,
+        "tmdb_id": 13353,
+        "imdb_id": "tt0060550",
+        "poster_path": "/yY0d8jzrbSQeNjoT9ZXWptg2JEP.jpg",
+        "backdrop_path": "/k7F9aj6Vmz8rJ9lcm2mIgUiWDWV.jpg",
+        "logo_path": "/lhfUuOoD99aUfa3G7atcknz0hH5.png",
+        "overview": "Fantasias, doces e este clássico fazem parte do Halloween. Junte-se à turma Peanuts nesta aventura atemporal, enquanto Charlie Brown se prepara para uma festa, Snoopy se concentra no Barão Vermelho e Linus espera pelo milagre da abóbora.",
+        "vote_average": 7.534,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:55Z"
+      },
+      {
+        "rank": 7,
         "platform": "apple-tv",
         "content_type": "movie",
         "title": "F1: O Filme",
@@ -1553,12 +1571,12 @@
         "logo_path": "/bx32mrMB4zjMyJOecU7eg57tBrB.png",
         "titled_backdrop_path": "/kUOdpZS7dvhr0As22NIgzZjDotp.jpg",
         "overview": "Sonny Hayes, a lenda do automobilismo, é persuadido a deixar a aposentadoria para liderar uma equipe de Fórmula 1 em dificuldades—e ser mentor de um jovem piloto famoso—enquanto busca mais uma oportunidade de glória.",
-        "vote_average": 7.829,
+        "vote_average": 7.828,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:58Z"
+        "fetched_at": "2026-10-20T14:00:55Z"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "platform": "apple-tv",
         "content_type": "movie",
         "title": "Kramer vs. Kramer",
@@ -1571,26 +1589,9 @@
         "logo_path": "/1IdUWeUr6JcH8LzMgfvvzpddB4J.png",
         "titled_backdrop_path": "/np2Nmr3cJvVGfVBEwfXi5uN9aGZ.jpg",
         "overview": "Ted Kramer é um profissional para quem o trabalho vem antes da família. Joanna, sua mulher, não pode mais suportar esta situação e sai de casa, deixando Billy, o filho do casal, com Ted, que tudo faz para poder educá-lo, trabalhando e fazendo as tarefas domésticas. Quando consegue ajustar seu trabalho a estas novas responsabilidades, Joanna reaparece exigindo a guarda da criança. Ted porém se recusa e os dois vão para o tribunal lutar pela custódia de Billy.",
-        "vote_average": 7.564,
+        "vote_average": 7.566,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:58Z"
-      },
-      {
-        "rank": 8,
-        "platform": "apple-tv",
-        "content_type": "movie",
-        "title": "Charlie Brown e a Grande Abóbora",
-        "original_title": "It's the Great Pumpkin, Charlie Brown",
-        "year": 1966,
-        "tmdb_id": 13353,
-        "imdb_id": "tt0060550",
-        "poster_path": "/yY0d8jzrbSQeNjoT9ZXWptg2JEP.jpg",
-        "backdrop_path": "/k7F9aj6Vmz8rJ9lcm2mIgUiWDWV.jpg",
-        "logo_path": "/lhfUuOoD99aUfa3G7atcknz0hH5.png",
-        "overview": "Fantasias, doces e este clássico fazem parte do Halloween. Junte-se à turma Peanuts nesta aventura atemporal, enquanto Charlie Brown se prepara para uma festa, Snoopy se concentra no Barão Vermelho e Linus espera pelo milagre da abóbora.",
-        "vote_average": 7.533,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:58Z"
+        "fetched_at": "2026-10-20T14:00:55Z"
       },
       {
         "rank": 9,
@@ -1606,9 +1607,9 @@
         "logo_path": "/mw4Dcx7h9SsaLHHVv9cHSI6jsAo.png",
         "titled_backdrop_path": "/uck0WFQpedJnB1lYUmIay1oFmHe.jpg",
         "overview": "Numa vida após a morte, onde as almas têm uma semana para decidir onde passar a eternidade, Joan enfrenta a escolha impossível entre o homem com quem passou a vida e o seu primeiro amor, que morreu jovem e esperou décadas pela sua chegada.",
-        "vote_average": 7.1,
+        "vote_average": 7.125,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:58Z"
+        "fetched_at": "2026-10-20T14:00:55Z"
       },
       {
         "rank": 10,
@@ -1625,7 +1626,7 @@
         "overview": "Ray Ferrier é um estivador divorciado, afastado de seus filhos, que vivem com a mãe. Quando sua ex-esposa deixa as crianças para ele cuidar durante alguns dias, o planeta é atacado por alienígenas que surgem do chão conduzindo tripods e destruindo tudo que encontram pelo caminho. Ray tenta proteger os seus filhos e fugir para Boston para se juntar a sua ex-esposa. Durante o trajeto, enfrenta várias adversidades e ataques.",
         "vote_average": 6.577,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:58Z"
+        "fetched_at": "2026-10-20T14:00:55Z"
       },
       {
         "rank": 1,
@@ -1641,30 +1642,12 @@
         "logo_path": "/exFrz7yM1yS0ILTh5UfpPTP5yWO.png",
         "titled_backdrop_path": "/zHp3Xsx82jsRsIrfa90KlRgJwwv.jpg",
         "overview": "Jason Dessen é sequestrado para uma versão alternativa de sua vida. Em busca de voltar para sua verdadeira família, ele embarca em uma jornada angustiante para salvá-los do inimigo mais terrível que se possa imaginar: ele mesmo.",
-        "vote_average": 7.8,
+        "vote_average": 7.81,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:58Z"
+        "fetched_at": "2026-10-20T14:00:55Z"
       },
       {
         "rank": 2,
-        "platform": "apple-tv",
-        "content_type": "series",
-        "title": "Ted Lasso",
-        "original_title": "Ted Lasso",
-        "year": 2020,
-        "tmdb_id": 97546,
-        "imdb_id": "tt10986410",
-        "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-        "backdrop_path": "/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-        "logo_path": "/iNudegFbTBAGBB529k7wGVivqE4.png",
-        "titled_backdrop_path": "/dxr5O0Obw7mjdvGwP8iaIeKyX58.jpg",
-        "overview": "Ted Lasso, um técnico de futebol americano que se muda para a Inglaterra para treinar um time de futebol, apesar da falta de experiência. Com jogadores e cidade desconfiados, será que ele vai conseguir conquistá-los?",
-        "vote_average": 8.361,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:58Z"
-      },
-      {
-        "rank": 3,
         "platform": "apple-tv",
         "content_type": "series",
         "title": "Slow Horses",
@@ -1677,9 +1660,27 @@
         "logo_path": "/peE0Gab2MWjXPlAYhakxjHciNPr.png",
         "titled_backdrop_path": "/6VWcSPawl9pSCNJC8G3KNeryVCz.jpg",
         "overview": "Este drama perspicaz acompanha uma equipe disfuncional de agentes da MI5 – e seu chefe arrogante, o notório Jackson Lamb – enquanto navegam os mistérios e ilusões do mundo da espionagem para proteger a Inglaterra de forças sinistras.",
-        "vote_average": 8.051,
+        "vote_average": 8.054,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:58Z"
+        "fetched_at": "2026-10-20T14:00:55Z"
+      },
+      {
+        "rank": 3,
+        "platform": "apple-tv",
+        "content_type": "series",
+        "title": "Ted Lasso",
+        "original_title": "Ted Lasso",
+        "year": 2020,
+        "tmdb_id": 97546,
+        "imdb_id": "tt10986410",
+        "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+        "backdrop_path": "/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+        "logo_path": "/iNudegFbTBAGBB529k7wGVivqE4.png",
+        "titled_backdrop_path": "/dxr5O0Obw7mjdvGwP8iaIeKyX58.jpg",
+        "overview": "Ted Lasso, um técnico de futebol americano que se muda para a Inglaterra para treinar um time de futebol, apesar da falta de experiência. Com jogadores e cidade desconfiados, será que ele vai conseguir conquistá-los?",
+        "vote_average": 8.362,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:55Z"
       },
       {
         "rank": 4,
@@ -1695,9 +1696,9 @@
         "logo_path": "/sII76fRFZY3vWkO5WIVj1kk40H8.png",
         "titled_backdrop_path": "/ozMADIWI1qRh5hBJ6zPoM0UjWum.jpg",
         "overview": "Um prefeito da Nova Inglaterra, tentando impulsionar o turismo, precisa lidar com estranhos acontecimentos que sugerem que sua ilha pode estar amaldiçoada.",
-        "vote_average": 8.004,
+        "vote_average": 8.001,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:58Z"
+        "fetched_at": "2026-10-20T14:00:55Z"
       },
       {
         "rank": 5,
@@ -1715,27 +1716,10 @@
         "overview": "Em um futuro destruído e tóxico, existe uma comunidade que vive dentro de um gigantesco silo subterrâneo com centenas de andares de profundidade. Lá, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para protegê-los.",
         "vote_average": 8.222,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:58Z"
+        "fetched_at": "2026-10-20T14:00:55Z"
       },
       {
         "rank": 6,
-        "platform": "apple-tv",
-        "content_type": "series",
-        "title": "Pequenos Profetas",
-        "original_title": "Small Prophets",
-        "year": 2026,
-        "tmdb_id": 312693,
-        "imdb_id": "tt38504111",
-        "poster_path": "/rKrnWZQ1p6Oh6dVuX921TL4vgaf.jpg",
-        "backdrop_path": "/5fThMa3y5H4V7mHtiIEJgtYKPz9.jpg",
-        "logo_path": "/mpLhoO3aF484h6k7cNCv5iIeJK0.png",
-        "overview": "Desde que sua namorada desapareceu, há sete anos, a vida de Michael está em suspenso. Mas uma receita mística num diário antigo promete dar as respostas que ele tanto deseja.",
-        "vote_average": 8.121,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:58Z"
-      },
-      {
-        "rank": 7,
         "platform": "apple-tv",
         "content_type": "series",
         "title": "Desaparecida",
@@ -1750,7 +1734,24 @@
         "overview": "Quando o despachante de emergência, Ian Ridley, recebe uma ligação de uma adolescente exasperada que ele acredita ser sua filha desaparecida, nada pode impedi-lo de encontrá-la.",
         "vote_average": 7.619,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:58Z"
+        "fetched_at": "2026-10-20T14:00:55Z"
+      },
+      {
+        "rank": 7,
+        "platform": "apple-tv",
+        "content_type": "series",
+        "title": "Pequenos Profetas",
+        "original_title": "Small Prophets",
+        "year": 2026,
+        "tmdb_id": 312693,
+        "imdb_id": "tt38504111",
+        "poster_path": "/rKrnWZQ1p6Oh6dVuX921TL4vgaf.jpg",
+        "backdrop_path": "/5fThMa3y5H4V7mHtiIEJgtYKPz9.jpg",
+        "logo_path": "/7XP3EmioPCmCBFBSHHPh8taTa.png",
+        "overview": "Desde que sua namorada desapareceu, há sete anos, a vida de Michael está em suspenso. Mas uma receita mística num diário antigo promete dar as respostas que ele tanto deseja.",
+        "vote_average": 8.1,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:55Z"
       },
       {
         "rank": 8,
@@ -1768,7 +1769,7 @@
         "overview": "A pessoa mais triste da Terra deve salvar o mundo da felicidade.",
         "vote_average": 7.911,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:58Z"
+        "fetched_at": "2026-10-20T14:00:55Z"
       },
       {
         "rank": 9,
@@ -1786,25 +1787,25 @@
         "overview": "Os atores de Hollywood Matthew McConaughey e Woody Harrelson são melhores amigos há anos, mas um chocante segredo de família sugere que a ligação entre eles pode ser ainda maior.",
         "vote_average": 7.6,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:58Z"
+        "fetched_at": "2026-10-20T14:00:55Z"
       },
       {
         "rank": 10,
         "platform": "apple-tv",
         "content_type": "series",
-        "title": "Ruptura",
-        "original_title": "Severance",
-        "year": 2022,
-        "tmdb_id": 95396,
-        "imdb_id": "tt11280740",
-        "poster_path": "/3DjOAUBR8Hra4R9kK9U8jDaoqyC.jpg",
-        "backdrop_path": "/ixgFmf1X59PUZam2qbAfskx2gQr.jpg",
-        "logo_path": "/l1jQCXRyQenWqtJhRBrvUgQJLar.png",
-        "titled_backdrop_path": "/vLRQ1W8VCMMfJLinwPpgt0ab5nO.jpg",
-        "overview": "Mark lidera uma equipe de funcionários de escritório cujas memórias foram divididas cirurgicamente entre a vida no trabalho e a vida pessoal. Quando um colega de trabalho misterioso aparece fora do escritório, ele começa uma jornada para descobrir a verdade sobre seu trabalho.",
-        "vote_average": 8.39,
+        "title": "Falando a Real",
+        "original_title": "Shrinking",
+        "year": 2023,
+        "tmdb_id": 136311,
+        "imdb_id": "tt15677150",
+        "poster_path": "/oaYi4n3pgBLeQ6FH3SU8G3XcSqq.jpg",
+        "backdrop_path": "/hI9z1UuNhBthvkm3iJ8m3zv43Pf.jpg",
+        "logo_path": "/wJ2kVqmlS876ORMGv4HUphLAJsj.png",
+        "titled_backdrop_path": "/pWXQn9Yd9FuaJ0rfpAl22uY99DM.jpg",
+        "overview": "Jimmy luta para lidar com a perda da esposa enquanto tenta ser pai, amigo e terapeuta. Ele decide adotar uma nova postura com todos ao seu redor: ser brutalmente sincero e sem filtros. Será que isso vai melhorar as coisas ou desencadear um caos total?",
+        "vote_average": 7.819,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:58Z"
+        "fetched_at": "2026-10-20T14:00:55Z"
       }
     ],
     "paramount": [
@@ -1821,9 +1822,9 @@
         "backdrop_path": "/pERcOAR1Teg4sLDDqRXj1TBjVsn.jpg",
         "logo_path": "/hnHvrbdOs8bvVLUaSAscUl3x2Mj.png",
         "overview": "Dinamarca, 1755. O capitão Ludvig Kahlen parte para conquistar a Jutlândia dinamarquesa, considerada incultivável, com um objetivo impossível: estabelecer uma colônia em nome do rei, em troca de um título real. Uma ambição obstinada que o cruel senhor da região tentará incansavelmente abater. O destino de Kahlen está em jogo: seus esforços lhe trarão riqueza e honra ou lhe custarão a vida...?",
-        "vote_average": 7.656,
+        "vote_average": 7.657,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:59Z"
+        "fetched_at": "2026-10-20T14:00:56Z"
       },
       {
         "rank": 2,
@@ -1839,9 +1840,9 @@
         "logo_path": "/rLImfE7g7emRUv30qEsgE17KciO.png",
         "titled_backdrop_path": "/qDHsK7vnkE93yzkvzdzYWx8am9.jpg",
         "overview": "Uma jovem lutando contra o vício se apossa de uma antiga caixa de quebra-cabeça, sem saber que seu objetivo é convocar os Cenobitas, um grupo de seres sobrenaturais sádicos de outra dimensão.",
-        "vote_average": 6.225,
+        "vote_average": 6.224,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:59Z"
+        "fetched_at": "2026-10-20T14:00:56Z"
       },
       {
         "rank": 3,
@@ -1858,25 +1859,25 @@
         "overview": "Logo após os acontecimentos mortais, até mesmo dentro de casa, a família Abbott precisa agora encarar o terror mundo afora, continuando a lutar para sobreviver em silêncio. Obrigados a se aventurar pelo desconhecido, eles rapidamente percebem que as criaturas que caçam pelo som não são as únicas ameaças que os observam pelo caminho de areia.",
         "vote_average": 7.427,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:59Z"
+        "fetched_at": "2026-10-20T14:00:56Z"
       },
       {
         "rank": 4,
         "platform": "paramount",
         "content_type": "movie",
-        "title": "Clube da Luta",
-        "original_title": "Fight Club",
-        "year": 1999,
-        "tmdb_id": 550,
-        "imdb_id": "tt0137523",
-        "poster_path": "/mCICnh7QBH0gzYaTQChBDDVIKdm.jpg",
-        "backdrop_path": "/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
-        "logo_path": "/lyFSC5i078jk12aNH4wUCNbCV8e.png",
-        "titled_backdrop_path": "/rCMuTyJGT2GJzXcvWeYAVHQQRFS.jpg",
-        "overview": "Um homem deprimido que sofre de insônia conhece um estranho vendedor de sabonetes chamado Tyler Durden. Eles formam um clube clandestino com regras rígidas onde lutam com outros homens cansados de suas vidas mundanas. Mas sua parceria perfeita é comprometida quando Marla chama a atenção de Tyler.",
-        "vote_average": 8.438,
+        "title": "O Regresso",
+        "original_title": "The Revenant",
+        "year": 2015,
+        "tmdb_id": 281957,
+        "imdb_id": "tt1663202",
+        "poster_path": "/hRotKKijqV6YibxnhSOureF5efx.jpg",
+        "backdrop_path": "/hEQYZq2CDB2LSJVxxlazdBOKeyW.jpg",
+        "logo_path": "/6KGVQ6y6wBvhod1nNMRxxhld1Cy.png",
+        "titled_backdrop_path": "/8HUnD1qJOuUUuoUJAJoOo2eP3Mm.jpg",
+        "overview": "Durante uma expedição em uma selvagem região americana, o lendário explorador Hugh Glass é brutalmente atacado por um urso e deixado para morrer por membros de seu próprio grupo de caça. Em sua cruzada pela sobrevivência, Glass supera tribulações inimagináveis, bem como a traição de seu confidente John Fitzgerald. Guiado por pura determinação e pelo amor de sua família, Glass precisa superar um inverno rigoroso enquanto busca incansavelmente um motivo para seguir em frente e encontrar a redenção.",
+        "vote_average": 7.542,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:59Z"
+        "fetched_at": "2026-10-20T14:00:56Z"
       },
       {
         "rank": 5,
@@ -1893,28 +1894,82 @@
         "overview": "Em uma fazenda dos Estados Unidos, uma família do meio-oeste é perseguida por uma entidade fantasmagórica assustadora. Para se protegerem, eles devem permanecer em silêncio absoluto, a qualquer custo, pois o perigo é ativado pela percepção do som.",
         "vote_average": 7.395,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:59Z"
+        "fetched_at": "2026-10-20T14:00:56Z"
       },
       {
         "rank": 6,
         "platform": "paramount",
         "content_type": "movie",
-        "title": "O Regresso",
-        "original_title": "The Revenant",
-        "year": 2015,
-        "tmdb_id": 281957,
-        "imdb_id": "tt1663202",
-        "poster_path": "/hRotKKijqV6YibxnhSOureF5efx.jpg",
-        "backdrop_path": "/hEQYZq2CDB2LSJVxxlazdBOKeyW.jpg",
-        "logo_path": "/6KGVQ6y6wBvhod1nNMRxxhld1Cy.png",
-        "titled_backdrop_path": "/8HUnD1qJOuUUuoUJAJoOo2eP3Mm.jpg",
-        "overview": "Durante uma expedição em uma selvagem região americana, o lendário explorador Hugh Glass é brutalmente atacado por um urso e deixado para morrer por membros de seu próprio grupo de caça. Em sua cruzada pela sobrevivência, Glass supera tribulações inimagináveis, bem como a traição de seu confidente John Fitzgerald. Guiado por pura determinação e pelo amor de sua família, Glass precisa superar um inverno rigoroso enquanto busca incansavelmente um motivo para seguir em frente e encontrar a redenção.",
-        "vote_average": 7.541,
+        "title": "Clube da Luta",
+        "original_title": "Fight Club",
+        "year": 1999,
+        "tmdb_id": 550,
+        "imdb_id": "tt0137523",
+        "poster_path": "/mCICnh7QBH0gzYaTQChBDDVIKdm.jpg",
+        "backdrop_path": "/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+        "logo_path": "/lyFSC5i078jk12aNH4wUCNbCV8e.png",
+        "titled_backdrop_path": "/rCMuTyJGT2GJzXcvWeYAVHQQRFS.jpg",
+        "overview": "Um homem deprimido que sofre de insônia conhece um estranho vendedor de sabonetes chamado Tyler Durden. Eles formam um clube clandestino com regras rígidas onde lutam com outros homens cansados de suas vidas mundanas. Mas sua parceria perfeita é comprometida quando Marla chama a atenção de Tyler.",
+        "vote_average": 8.437,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:59Z"
+        "fetched_at": "2026-10-20T14:00:56Z"
       },
       {
         "rank": 7,
+        "platform": "paramount",
+        "content_type": "movie",
+        "title": "Avatar Aang: O Último Mestre do Ar",
+        "original_title": "Avatar Aang: The Last Airbender",
+        "year": 2026,
+        "tmdb_id": 980431,
+        "imdb_id": "tt18259538",
+        "poster_path": "/tiUtJXN4OZaK2PQM0q8mbbBgKS4.jpg",
+        "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
+        "logo_path": "/x61imBVYQKjMaX4yNPPh0rjXq6H.png",
+        "titled_backdrop_path": "/1ooVzMIcG6mS3HininWSIcF0Y4y.jpg",
+        "overview": "O Avatar Aang, o último mestre do ar do mundo, toma conhecimento de um poder antigo que poderia salvar sua cultura da extinção. Com a ajuda de seus amigos, ele embarca em uma busca global para encontrá-lo antes que caia em mãos erradas e ameace destruir a paz que eles sacrificaram tudo para alcançar.",
+        "vote_average": 9.053,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:56Z"
+      },
+      {
+        "rank": 8,
+        "platform": "paramount",
+        "content_type": "movie",
+        "title": "Passageiro do Mal",
+        "original_title": "Passenger",
+        "year": 2026,
+        "tmdb_id": 1368314,
+        "imdb_id": "tt33763941",
+        "poster_path": "/aSoOiatgMmXtDS3iwWD5hC2Rbyn.jpg",
+        "backdrop_path": "/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg",
+        "logo_path": "/2wdMrwQHQ28q69IMvqmc3SUAL8W.png",
+        "titled_backdrop_path": "/uXhFb6Q44ZEBNIFk3XSGCsc4j8f.jpg",
+        "overview": "Durante uma viagem de van, um jovem casal presencia um acidente terrível que resulta na morte do motorista. Logo, eles passam a ser perseguidos por uma entidade demoníaca, de quem é impossível escapar e que os segue por onde quer que vão.",
+        "vote_average": 7.282,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:56Z"
+      },
+      {
+        "rank": 9,
+        "platform": "paramount",
+        "content_type": "movie",
+        "title": "As Palavras",
+        "original_title": "The Words",
+        "year": 2012,
+        "tmdb_id": 83686,
+        "imdb_id": "tt1840417",
+        "poster_path": "/oqOipNARNgfPHiNgz5zjMIFI5v9.jpg",
+        "backdrop_path": "/lKZ9QdzMEIceI2PUnFCjZNq1JIg.jpg",
+        "logo_path": "/uOKVYZOeuhNhPzggwLK0bL7UXUW.png",
+        "titled_backdrop_path": "/ziEj5ikqvDCwD3qXIi3lDV5NqoR.jpg",
+        "overview": "Escritor que não consegue publicar seu primeiro livro encontra um original de autor desconhecido. Transcreve o texto, apresenta como seu e torna-se um sucesso de vendas. Tudo muda quando um idoso que lhe conta a verdade por trás do texto encontrado.",
+        "vote_average": 6.696,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:56Z"
+      },
+      {
+        "rank": 10,
         "platform": "paramount",
         "content_type": "movie",
         "title": "Noites Brutais",
@@ -1928,61 +1983,7 @@
         "overview": "Chegando a Detroit para uma entrevista de emprego, uma jovem aluga uma casa. Mas quando chega tarde da noite, ela descobre que a casa já havia sido alugada e ocupada por um homem estranho. Contrariando seu bom senso, ela decide passar a noite, mas logo descobre que há muito mais a temer do que um simples inquilino inesperado.",
         "vote_average": 6.888,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:59Z"
-      },
-      {
-        "rank": 8,
-        "platform": "paramount",
-        "content_type": "movie",
-        "title": "Avatar Aang: O Último Mestre do Ar",
-        "original_title": "Avatar Aang: The Last Airbender",
-        "year": 2026,
-        "tmdb_id": 980431,
-        "imdb_id": "tt18259538",
-        "poster_path": "/tiUtJXN4OZaK2PQM0q8mbbBgKS4.jpg",
-        "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-        "logo_path": "/x61imBVYQKjMaX4yNPPh0rjXq6H.png",
-        "titled_backdrop_path": "/1ooVzMIcG6mS3HininWSIcF0Y4y.jpg",
-        "overview": "O Avatar Aang, o último mestre do ar do mundo, toma conhecimento de um poder antigo que poderia salvar sua cultura da extinção. Com a ajuda de seus amigos, ele embarca em uma busca global para encontrá-lo antes que caia em mãos erradas e ameace destruir a paz que eles sacrificaram tudo para alcançar.",
-        "vote_average": 9.055,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:59Z"
-      },
-      {
-        "rank": 9,
-        "platform": "paramount",
-        "content_type": "movie",
-        "title": "Passageiro do Mal",
-        "original_title": "Passenger",
-        "year": 2026,
-        "tmdb_id": 1368314,
-        "imdb_id": "tt33763941",
-        "poster_path": "/aSoOiatgMmXtDS3iwWD5hC2Rbyn.jpg",
-        "backdrop_path": "/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg",
-        "logo_path": "/2wdMrwQHQ28q69IMvqmc3SUAL8W.png",
-        "titled_backdrop_path": "/uXhFb6Q44ZEBNIFk3XSGCsc4j8f.jpg",
-        "overview": "Durante uma viagem de van, um jovem casal presencia um acidente terrível que resulta na morte do motorista. Logo, eles passam a ser perseguidos por uma entidade demoníaca, de quem é impossível escapar e que os segue por onde quer que vão.",
-        "vote_average": 7.3,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:59Z"
-      },
-      {
-        "rank": 10,
-        "platform": "paramount",
-        "content_type": "movie",
-        "title": "As Palavras",
-        "original_title": "The Words",
-        "year": 2012,
-        "tmdb_id": 83686,
-        "imdb_id": "tt1840417",
-        "poster_path": "/oqOipNARNgfPHiNgz5zjMIFI5v9.jpg",
-        "backdrop_path": "/b0GGZbLB7P9r4klx1wUcz77WzE6.jpg",
-        "logo_path": "/uOKVYZOeuhNhPzggwLK0bL7UXUW.png",
-        "titled_backdrop_path": "/ziEj5ikqvDCwD3qXIi3lDV5NqoR.jpg",
-        "overview": "Rory Jansen (Bradley Cooper) é casado com Dora (Zoe Saldana) e trabalha em uma editora de livros. Ele sonha em publicar seu próprio livro, mas não é capaz de escrever algo bom. Um dia, em uma pequena loja, ele encontra uma pasta com várias folhas amareladas. Rory começa a ler e logo ele resolve transcrevê-la para o computador, palavra por palavra, e a apresenta como se fosse seu livro. Rory se torna um sucesso de vendas. Entretanto, tudo muda quando ele conhece um senhor (Jeremy Irons) que lhe conta a verdade por trás do texto encontrado.",
-        "vote_average": 6.697,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:59Z"
+        "fetched_at": "2026-10-20T14:00:56Z"
       },
       {
         "rank": 1,
@@ -1998,9 +1999,9 @@
         "logo_path": "/4IrwcNJk4yBoQZGeR9tMblrjDMG.png",
         "titled_backdrop_path": "/bGYESsI8pKzNzDhXpGh5kFXsyxF.jpg",
         "overview": "O poder está em disputa quando duas famílias do crime se chocam numa batalha que ameaça derrubar impérios e arruinar vidas. No meio está Harry Da Souza, um \"resolvedor de problemas\" que sabe bem onde a lealdade está quando as forças opostas colidem.",
-        "vote_average": 8.523,
+        "vote_average": 8.525,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:59Z"
+        "fetched_at": "2026-10-20T14:00:57Z"
       },
       {
         "rank": 2,
@@ -2016,9 +2017,9 @@
         "logo_path": "/r5tJBEUIPvQTl8nwYcN4Tokx8UR.png",
         "titled_backdrop_path": "/Aqq4Vy6plp8Swx4HhNJZaUukutq.jpg",
         "overview": "Após um cataclismo global, uma jovem descobre ser o novo Avatar - agora rotulada como a Destruidora, não uma salvadora. Caçada por humanos e espíritos, ela e sua gêmea há muito perdida precisam descobrir suas origens e salvar a humanidade do colapso.",
-        "vote_average": 9.2,
+        "vote_average": 9.119,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:59Z"
+        "fetched_at": "2026-10-20T14:00:57Z"
       },
       {
         "rank": 3,
@@ -2033,9 +2034,9 @@
         "backdrop_path": "/sokTOq0zAmPS7wCR4qd4Kca35x7.jpg",
         "logo_path": "/y7geYqnIsYFawKQVko2JrdmsPuY.png",
         "overview": "Situado em um futuro distópico, uma mulher é forçada a viver como uma concubina sob uma ditadura teocrática fundamentalista. Uma adaptação para a TV do romance de Margaret Atwood.",
-        "vote_average": 8.145,
+        "vote_average": 8.146,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:59Z"
+        "fetched_at": "2026-10-20T14:00:57Z"
       },
       {
         "rank": 4,
@@ -2051,9 +2052,9 @@
         "logo_path": "/gr1jPZA47Zm4xEHjLzMok9ap9eT.png",
         "titled_backdrop_path": "/9d1nGSNlKHF4hNsMDiUKCbuueDU.jpg",
         "overview": "Joe, uma agente da CIA, tenta conciliar a maternidade com o comando de uma equipe secreta em missões perigosas ao enviar a nova recruta Cruz Manuelos para a linha de frente. Inspirado por um programa militar americano, Lioness segue as agentes na perigosa missão secreta para impedir o próximo 11 de setembro.",
-        "vote_average": 8.268,
+        "vote_average": 8.271,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:59Z"
+        "fetched_at": "2026-10-20T14:00:57Z"
       },
       {
         "rank": 5,
@@ -2069,9 +2070,9 @@
         "logo_path": "/nME4la4JnX5WBXXyMQFGQ05LD26.png",
         "titled_backdrop_path": "/gObTcdogTlxnx8kOxkl3QvQfvv.jpg",
         "overview": "Com o Rancho Yellowstone no passado, Kayce Dutton junta-se aos Marshals, combinando suas habilidades como cowboy e SEAL para levar justiça a Montana. Ele e seus companheiros servem como a última linha de defesa na guerra contra a violência na região.",
-        "vote_average": 7.968,
+        "vote_average": 7.967,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:59Z"
+        "fetched_at": "2026-10-20T14:00:57Z"
       },
       {
         "rank": 6,
@@ -2085,11 +2086,11 @@
         "poster_path": "/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
         "backdrop_path": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
         "logo_path": "/xz9iVJuRbNsdD7KZhr9dfi8F7Gs.png",
-        "titled_backdrop_path": "/sxoIItiW2rHZOCdeyHjE1YjbtOG.jpg",
+        "titled_backdrop_path": "/ro6mCt4rHkSrLpu86pphY8Jn2lb.jpg",
         "overview": "Depois de cumprir 25 anos de prisão, Dwight Manfredi é exilado sem cerimônia por seu chefe da máfia para se estabelecer em Oklahoma. Dwight lentamente constrói um novo império criminoso em Tulsa.",
-        "vote_average": 8.304,
+        "vote_average": 8.303,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:59Z"
+        "fetched_at": "2026-10-20T14:00:57Z"
       },
       {
         "rank": 7,
@@ -2107,27 +2108,10 @@
         "overview": "Série animada que satiriza com muito humor negro a sociedade estadounidense ao apresentar situações bizarras e surreais protagonizadas por Stan, Kyle, Eric e Kenny, as crianças mais travessas de South Park.",
         "vote_average": 8.329,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:59Z"
+        "fetched_at": "2026-10-20T14:00:57Z"
       },
       {
         "rank": 8,
-        "platform": "paramount",
-        "content_type": "series",
-        "title": "SEAL Team: Soldados de Elite",
-        "original_title": "SEAL Team",
-        "year": 2017,
-        "tmdb_id": 71789,
-        "imdb_id": "tt6473344",
-        "poster_path": "/5VHLhwr9eBZEi8yVM5fRo7XMFGF.jpg",
-        "backdrop_path": "/ojyo33io8HGxNCRg21Z1o87YEZX.jpg",
-        "logo_path": "/rC1RHd5Qv03LYq9corF9KG2zNvb.png",
-        "overview": "Uma unidade bastante unida de Seals da Marinha dos Estados Unidos treina, planeja e executa missões perigosas e de alto risco, investigando missões clandestinas ao redor do mundo a qualquer momento.",
-        "vote_average": 8.0,
-        "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:59Z"
-      },
-      {
-        "rank": 9,
         "platform": "paramount",
         "content_type": "series",
         "title": "Mentes Criminosas",
@@ -2141,8 +2125,25 @@
         "overview": "Um esquadrão de elite do FBI estuda as maiores mentes criminosas, antecipando seus próximos passos, antes que eles ataquem novamente. A fim de identificar as motivações dos criminosos e detê-los, cada membro da equipe usa a experiência que possui.",
         "vote_average": 8.294,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:59Z",
+        "fetched_at": "2026-10-20T14:00:57Z",
         "titled_backdrop_path": "/ga8Aqy7vckTiChuioYfq73GiNbF.jpg"
+      },
+      {
+        "rank": 9,
+        "platform": "paramount",
+        "content_type": "series",
+        "title": "SEAL Team: Soldados de Elite",
+        "original_title": "SEAL Team",
+        "year": 2017,
+        "tmdb_id": 71789,
+        "imdb_id": "tt6473344",
+        "poster_path": "/5VHLhwr9eBZEi8yVM5fRo7XMFGF.jpg",
+        "backdrop_path": "/ojyo33io8HGxNCRg21Z1o87YEZX.jpg",
+        "logo_path": "/rC1RHd5Qv03LYq9corF9KG2zNvb.png",
+        "overview": "Uma unidade bastante unida de Seals da Marinha dos Estados Unidos treina, planeja e executa missões perigosas e de alto risco, investigando missões clandestinas ao redor do mundo a qualquer momento.",
+        "vote_average": 8.039,
+        "source": "justwatch",
+        "fetched_at": "2026-10-20T14:00:57Z"
       },
       {
         "rank": 10,
@@ -2158,9 +2159,9 @@
         "logo_path": "/c0jXkZZaROgdhS8wWh5iE5DAVUP.png",
         "titled_backdrop_path": "/zh8VFlNonQyjwilFl0vxbN2wVmS.jpg",
         "overview": "Segue a família McLusky, liderada pelo impiedoso Mike McClusky – corretores poderosos em Kingstown, Michigan, onde o negócio do encarceramento é a única indústria próspera. Abordando temas como o racismo sistêmico, corrupção e desigualdade, a série oferece um olhar severo em sua tentativa de trazer ordem e justiça a uma cidade que não possui nenhum dos dois.",
-        "vote_average": 7.963,
+        "vote_average": 7.965,
         "source": "justwatch",
-        "fetched_at": "2026-10-19T16:04:59Z"
+        "fetched_at": "2026-10-20T14:00:57Z"
       }
     ],
     "_animes": [
@@ -2180,24 +2181,24 @@
         "overview": "Quando Beerus, o Deus da Destruição, desperta em busca de um rival à altura, Goku e seus amigos enfrentam uma batalha épica para impedi-lo de destruir a Terra.",
         "vote_average": 9.7,
         "source": "tmdb",
-        "fetched_at": "2026-10-19T16:05:00Z"
+        "fetched_at": "2026-10-20T14:00:57Z"
       },
       {
         "rank": 2,
         "platform": "crunchyroll",
         "content_type": "series",
-        "title": "Hana-Kimi",
-        "original_title": "花ざかりの君たちへ",
-        "year": 2026,
-        "tmdb_id": 254492,
-        "imdb_id": "tt38646611",
-        "poster_path": "/4BoA0q0oh1FJiRe9PlZCxlqX26T.jpg",
-        "backdrop_path": "/2RT3KHdE54JXchZJBQyQOFXUx5q.jpg",
-        "logo_path": "/seei2HKD5fxqUX3OBXoAOz4Byzk.png",
-        "overview": "A estrela nipo-americana do atletismo Mizuki conseguiu se transferir para um colégio no Japão... mas não para qualquer escola! Para ficar perto de seu ídolo, o saltador Izumi Sano, ela vai para uma escola só para homens... e se disfarça de garoto! Mas, como quis o destino, eles são mais do que colegas de classe... são colegas de quarto! Agora, Mizuki deve manter seu segredo na sala de aula, no vestiário e em seu próprio quarto. E seus colegas de classe, e a enfermeira da escola, devem lidar com um novo aluno transferido que pode fazê-los questionar sua própria orientação...",
-        "vote_average": 7.8,
+        "title": "Mushoku Tensei: Jobless Reincarnation",
+        "original_title": "無職転生 ～異世界行ったら本気だす～",
+        "year": 2021,
+        "tmdb_id": 94664,
+        "imdb_id": "tt13293588",
+        "poster_path": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
+        "backdrop_path": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+        "logo_path": "/8GxsDBWNSH7yMbXMWTq9HtTGORO.png",
+        "overview": "Quando um fracassado de 34 anos é atropelado por um ônibus, sua história não acaba. Reencarnado em um novo mundo como criança, Rudy aproveitará cada oportunidade para viver a vida que sempre quis. Com novos amigos, habilidades mágicas e coragem para fazer tudo o que sempre sonhou, ele embarca em uma aventura épica – com toda a sua experiência do passado intacta!",
+        "vote_average": 8.438,
         "source": "tmdb",
-        "fetched_at": "2026-10-19T16:05:00Z"
+        "fetched_at": "2026-10-20T14:00:57Z"
       },
       {
         "rank": 3,
@@ -2213,46 +2214,12 @@
         "logo_path": "/2HJI1oFVjbMaMWMqqGLtdGck3JN.png",
         "titled_backdrop_path": "/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg",
         "overview": "Sofrimento, arrependimento, vergonha: os sentimentos negativos dos humanos tornam-se Maldições, causando terríveis acidentes que podem levar até mesmo à morte. E pra piorar, Maldições só podem ser exorcizadas por outras Maldições. Certo dia, para salvar amigos que estavam sendo atacados por Maldições, Yuji Itadori engole o dedo do Ryomen-Sukuna, absorvendo sua Maldição. Ele então decide se matricular no Colégio Técnico de Feitiçaria de Tóquio, uma organização que combate as Maldições... e assim começa a heróica lenda do garoto que tornou-se uma Maldição para exorcizar uma Maldição.",
-        "vote_average": 8.578,
+        "vote_average": 8.577,
         "source": "tmdb",
-        "fetched_at": "2026-10-19T16:05:00Z"
+        "fetched_at": "2026-10-20T14:00:57Z"
       },
       {
         "rank": 4,
-        "platform": "crunchyroll",
-        "content_type": "series",
-        "title": "Mushoku Tensei: Jobless Reincarnation",
-        "original_title": "無職転生 ～異世界行ったら本気だす～",
-        "year": 2021,
-        "tmdb_id": 94664,
-        "imdb_id": "tt13293588",
-        "poster_path": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
-        "backdrop_path": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-        "logo_path": "/8GxsDBWNSH7yMbXMWTq9HtTGORO.png",
-        "overview": "Quando um fracassado de 34 anos é atropelado por um ônibus, sua história não acaba. Reencarnado em um novo mundo como criança, Rudy aproveitará cada oportunidade para viver a vida que sempre quis. Com novos amigos, habilidades mágicas e coragem para fazer tudo o que sempre sonhou, ele embarca em uma aventura épica – com toda a sua experiência do passado intacta!",
-        "vote_average": 8.437,
-        "source": "tmdb",
-        "fetched_at": "2026-10-19T16:05:00Z"
-      },
-      {
-        "rank": 5,
-        "platform": "crunchyroll",
-        "content_type": "series",
-        "title": "My Hero Academia: Vigilantes",
-        "original_title": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS-",
-        "year": 2025,
-        "tmdb_id": 280110,
-        "imdb_id": "tt35636246",
-        "poster_path": "/3INu3n1sUa9K3O5OTPrqvJOetbd.jpg",
-        "backdrop_path": "/baZ0pGbBGjCBhIqsFyOSTpJyUnQ.jpg",
-        "logo_path": "/vimvF2sV798HPYAZRDQzRrWp7Iy.png",
-        "overview": "Koichi Haimawari é um universitário sem graça que sonhava em ser um super-herói, mas já desistiu disso. Embora 80% da população mundial possua poderes sobre-humanos chamados Individualidades, poucos conseguem se tornar super-heróis e proteger as pessoas. Tudo muda quando Koichi e Pop☆Step são salvos pelo justiceiro Knuckleduster e acabam sendo recrutados para se tornarem justiceiros também!",
-        "vote_average": 7.711,
-        "source": "tmdb",
-        "fetched_at": "2026-10-19T16:05:00Z"
-      },
-      {
-        "rank": 6,
         "platform": "crunchyroll",
         "content_type": "series",
         "title": "Naruto",
@@ -2264,29 +2231,29 @@
         "backdrop_path": "/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
         "logo_path": "/kaZ99sfclCKWnUgmW7AYrok03Am.png",
         "overview": "Momentos antes do nascimento de Naruto Uzumaki, um enorme demônio conhecido como o Kyuubi, a Raposa de Nove Caudas, atacou o vilarejo da folha oculta Konoha, causando destruição. Para pôr fim à devastação de Kyuubi, o líder da aldeia, o quarto Hokage, sacrificou sua vida e selou o monstruoso animal dentro do recém-nascido Naruto. Agora, Naruto é um ninja hiperativo e cabeça dura que ainda vivem em Konoha. Evitado pelos demais habitantes por causa da Kyuubi dentro dele, Naruto se esforça para encontrar seu lugar na aldeia, enquanto o seu ardente desejo de se tornar o Hokage de Konoha o leva a conhecer alguns grandes novos amigos, e também alguns inimigos mortais.",
-        "vote_average": 8.364,
+        "vote_average": 8.363,
         "source": "tmdb",
-        "fetched_at": "2026-10-19T16:05:00Z"
+        "fetched_at": "2026-10-20T14:00:57Z"
       },
       {
-        "rank": 7,
+        "rank": 5,
         "platform": "crunchyroll",
         "content_type": "series",
-        "title": "Kino's Journey -the Beautiful World- the Animated Series",
-        "original_title": "キノの旅 -the Beautiful World- the Animated Series",
-        "year": 2017,
-        "tmdb_id": 74097,
-        "imdb_id": "tt6638842",
-        "poster_path": "/cM5MWMLQsUZywgniaHKw1ojnEpo.jpg",
-        "backdrop_path": "/cTHXGMldOa3uzFAIXqSWwmUvIkT.jpg",
-        "logo_path": "/tMeqq0K1QyYzA4G8to7Dt3ht53b.png",
-        "overview": "A história acompanha Kino, que viaja o mundo com Hermes, sua motocicleta falante, e contando apenas com a proteção de sua pistola. Kino viaja por diversos mundos místicos, cada um com seus povos e costumes únicos, e aprende mais sobre o mundo com suas histórias, que evocam humor, inspiração e um cinismo lancinante. Contudo, Kino sempre segue sua regra de nunca permanecer por mais de três dias em um só lugar - o suficiente para aprender tudo que há sobre o lugar, e ainda assim permitindo-lhe tempo para explorar novas terras.",
-        "vote_average": 7.3,
+        "title": "Diários de uma Apotecária",
+        "original_title": "薬屋のひとりごと",
+        "year": 2023,
+        "tmdb_id": 220542,
+        "imdb_id": "tt26743760",
+        "poster_path": "/t8fC3K3XnwE6Iso6b1bi5Fdo93n.jpg",
+        "backdrop_path": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+        "logo_path": "/3mjErHRF4zRYIcdmK1jbAHL158m.png",
+        "overview": "Maomao levava uma vida tranquila ao lado de seu pai, um boticário renomado. No entanto, sua vida muda da noite pro dia quando ela é vendida como uma simples serva no palácio do imperador. Incapaz de se adaptar à vida na realeza, Maomao decide tomar medidas drásticas quando os herdeiros imperiais adoecem, embarcando numa missão para encontrar a cura. Sua audácia chama a atenção de Jinshi, um belo funcionário do palácio que decide apoiá-la. Agora, Maomao se envolve em intrigas médicas enquanto sua fama se espalha pelos corredores do palácio!",
+        "vote_average": 8.7,
         "source": "tmdb",
-        "fetched_at": "2026-10-19T16:05:00Z"
+        "fetched_at": "2026-10-20T14:00:57Z"
       },
       {
-        "rank": 8,
+        "rank": 6,
         "platform": "crunchyroll",
         "content_type": "series",
         "title": "Dragon Ball Z",
@@ -2300,10 +2267,10 @@
         "overview": "Cinco anos após vencer o Torneio Mundial de Artes Marciais, Goku vive uma vida tranquila com sua esposa e seu filho. No entanto, essa situação muda com a chegada de um inimigo misterioso chamado Raditz, que se apresenta como o irmão de Goku, há muito desaparecido. Ele revela que Goku é descendente da raça Saiyajin — outrora poderosa, mas agora praticamente extinta —, cujo planeta natal foi aniquilado. Quando foi enviado à Terra ainda bebê, o único objetivo de Goku era conquistar e destruir o planeta; porém, após sofrer amnésia devido a um ferimento na cabeça, sua natureza violenta e selvagem mudou, e ele acabou sendo criado como um garoto gentil e educado, passando a lutar para proteger os outros.",
         "vote_average": 8.381,
         "source": "tmdb",
-        "fetched_at": "2026-10-19T16:05:00Z"
+        "fetched_at": "2026-10-20T14:00:57Z"
       },
       {
-        "rank": 9,
+        "rank": 7,
         "platform": "crunchyroll",
         "content_type": "series",
         "title": "JoJo's Bizarre Adventure",
@@ -2317,24 +2284,58 @@
         "overview": "A saga que se inicia na Inglaterra do século XIX, contando a rivalidade entre Jonathan Joestar, um jovem aristocrata, e Dio Brando, um garoto plebeu que foi acolhido pelo pai de Jonathan quando tornou-se órfão. Insatisfeito com sua posição social, a ambição insaciável e o desejo de dominação de Dio o levam a estudar os poderes sobrenaturais de uma antiga máscara asteca de pedra presente na mansão dos Joestar - um artefato que mudará para sempre o destino de Dio e das futuras gerações dos Joestar.",
         "vote_average": 8.5,
         "source": "tmdb",
-        "fetched_at": "2026-10-19T16:05:00Z"
+        "fetched_at": "2026-10-20T14:00:57Z"
+      },
+      {
+        "rank": 8,
+        "platform": "crunchyroll",
+        "content_type": "series",
+        "title": "Naruto Shippuden",
+        "original_title": "ナルト 疾風伝",
+        "year": 2007,
+        "tmdb_id": 31910,
+        "imdb_id": "tt0988824",
+        "poster_path": "/nRJmByfK9XdtOY73VArcN8KpKVs.jpg",
+        "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
+        "logo_path": "/qopvxH4C4YIoeJWss0EVLv13rgW.png",
+        "overview": "Naruto Shippuden ocorre 2 anos e meio após Naruto ter deixado a vila para treinar com Jiraiya. Após seu retorno, Naruto descobre que seus amigos  shinobi's o superaram na classificação, e ele caiu para trás. No  entanto, com apenas 6 meses para resgatar Sasuke, Naruto tem de  enfrentar inimigos ainda mais perigosos. O plano da Akatsuki se revela  lentamente e os perigos surgem mais do que nunca!",
+        "vote_average": 8.53,
+        "source": "tmdb",
+        "fetched_at": "2026-10-20T14:00:57Z"
+      },
+      {
+        "rank": 9,
+        "platform": "crunchyroll",
+        "content_type": "series",
+        "title": "Re:Zero - Começando uma Vida em Outro Mundo",
+        "original_title": "Re:ゼロから始める異世界生活",
+        "year": 2016,
+        "tmdb_id": 65942,
+        "imdb_id": "tt5607616",
+        "poster_path": "/2FvWqbgJDG2IWGgUxhROYQxE98p.jpg",
+        "backdrop_path": "/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+        "logo_path": "/5cfRiR2U7m3DuCTRRwB7LeJYte8.png",
+        "overview": "Natsuki Subaru, um adolescente comum, conhece uma linda garota de cabelos prateados vinda de outro mundo. Subaru quer ficar ao lado dela, mas o fardo que ela carrega é maior do que Subaru pode imaginar. Eles enfrentam o feroz ataque de monstros, traições, violência irracional... e, por fim, a morte. Subaru promete derrotar qualquer inimigo, qualquer destino, tudo para protegê-la. E assim, o pobre garoto sem poder algum obtém o \"Retorno da Morte\", uma habilidade única que permite ao usuário voltar no tempo ao morrer. Usando esse poder, o passado é perdido e as memórias são reescritas.",
+        "vote_average": 8.1,
+        "source": "tmdb",
+        "fetched_at": "2026-10-20T14:00:57Z"
       },
       {
         "rank": 10,
         "platform": "crunchyroll",
         "content_type": "series",
-        "title": "Scooped Up by an S-Rank Adventurer!",
-        "original_title": "勇者パーティーを追放された白魔導師、Sランク冒険者に拾われる ～この白魔導師が規格外すぎる～",
-        "year": 2025,
-        "tmdb_id": 284771,
-        "imdb_id": "tt36592820",
-        "poster_path": "/nE1roPkXMjTpGNSuN1mjWsm9DNN.jpg",
-        "backdrop_path": "/oPiZmkOlew1IGJWJ5HBKmqekuvR.jpg",
-        "logo_path": "/yX03knFm1q0wubVoGOKywNu0F6d.png",
-        "overview": "Lloyd é um mago branco que foi inesperadamente banido do grupo do herói. Como estava perdido e inseguro, ele cruzou por acaso com um grupo de aventureiros de nível S que precisava de um mago branco, e então se juntou a eles em sua missão. Na ocasião, ninguém imaginava que o grupo do herói se desintegraria e que Lloyd alcançaria a fama. Esta é uma história sobre um usuário de magia de suporte incomparável, que acredita ser comum, mas que se torna um aventureiro imparável.",
-        "vote_average": 6.9,
+        "title": "Hunter x Hunter",
+        "original_title": "HUNTER×HUNTER",
+        "year": 2011,
+        "tmdb_id": 46298,
+        "imdb_id": "tt2098220",
+        "poster_path": "/9WxfAQquTun9ATkV6iAeFHMkqxv.jpg",
+        "backdrop_path": "/bFKKyCI89Xq98Gul8cGox8K3sZa.jpg",
+        "logo_path": "/r20WExRYrZ37WXVxBhqT5s8GwwO.png",
+        "overview": "Monstros amedrontadores, criaturas exóticas, riquezas vastas, tesouros misteriosos, terras vis e terras inexploradas... Gon parte em uma aventura para se tornar um caçador profissional que arrisca a própria vida em busca do desconhecido. Pelo caminho, ele conhece outros participantes da Prova dos Caçadores: Kurapika, Leorio e Killua. Será Gon capaz de vencer os grandes desafios da Prova de Caçadores e se tornar o melhor do mundo? Esta jornada selvagem e épica está prestes a começar!!",
+        "vote_average": 8.665,
         "source": "tmdb",
-        "fetched_at": "2026-10-19T16:05:00Z"
+        "fetched_at": "2026-10-20T14:00:57Z"
       }
     ]
   }
